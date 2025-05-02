@@ -1,0 +1,14 @@
+#Web application of Tennis data from sports radar
+
+#Dependencies reuired for executing the python script file:
+
+For Data acquisition & Transformation using python:(tennis_data_web_scrapped.py or .ipynb)
+1.request
+2. json
+3. Pandas (pip install pandas)
+ 
+For SQL query: 
+1. Need to install mysql 
+
+For creating web application using python:
+1. streamlit (pip install streamlit)
