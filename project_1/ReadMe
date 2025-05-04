@@ -1,0 +1,8 @@
+Dependencies required to execute the python script file in this project:
+
+1.request (present default while installing python)
+2. json (present default while installing python)
+3. Pandas (pip install pandas)
+4. Numpy (pip install numpy)
+5. streamlit (pip install streamlit)
+6. pymysql (pip install pymysql)
