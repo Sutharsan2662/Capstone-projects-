@@ -61,5 +61,4 @@ select country, sum(points) as total_points from doubles_data group by country;
 select country, count(competitor_id) as No_of_competitor from doubles_data group by country;
 
 -- 6
-select competitor_name, points from doubles_data order by points desc limit 7;
 select competitior_name, competitions_played, points from doubles_data order by points desc;
