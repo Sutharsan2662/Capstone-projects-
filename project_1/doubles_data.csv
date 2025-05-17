@@ -1,1001 +1,1001 @@
-rank_id,ranks,movement,points,competitions_played,competitor_id,competitor_name,country,country_code,abbreviation
-1,1,0,9350,22,sr:competitor:49363,"Pavic, Mate",Croatia,HRV,PAV
-2,1,0,9350,22,sr:competitor:51836,"Arevalo-Gonzalez, Marcelo",El Salvador,SLV,ARE
-3,3,0,7590,25,sr:competitor:14898,"Heliovaara, Harri",Finland,FIN,HEL
-4,4,0,7590,26,sr:competitor:637970,"Patten, Henry",Great Britain,GBR,PAT
-5,5,0,6460,20,sr:competitor:87690,"Thompson, Jordan",Australia,AUS,THO
-6,6,2,5910,20,sr:competitor:36593,"Krawietz, Kevin",Germany,DEU,KRA
-7,7,2,5820,19,sr:competitor:52293,"Putz, Tim",Germany,DEU,PUT
-8,8,-2,5760,22,sr:competitor:95801,"Vavassori, Andrea",Italy,ITA,VAV
-9,9,-2,5700,20,sr:competitor:15310,"Bolelli, Simone",Italy,ITA,BOL
-10,10,0,5035,16,sr:competitor:15568,"Granollers, Marcel",Spain,ESP,GRA
-11,11,0,5035,19,sr:competitor:16160,"Zeballos, Horacio",Argentina,ARG,ZEB
-12,12,0,4710,13,sr:competitor:124658,"Purcell, Max",Australia,AUS,PUR
-13,13,0,4610,24,sr:competitor:16608,"Mektic, Nikola",Croatia,HRV,MEK
-14,14,0,4460,34,sr:competitor:59131,"Glasspool, Lloyd",Great Britain,GBR,GLA
-15,15,0,4325,33,sr:competitor:108099,"Cash, Julian",Great Britain,GBR,CAS
-16,16,0,4180,27,sr:competitor:16151,"Venus, Michael",New Zealand,NZL,VEN
-17,17,0,3820,26,sr:competitor:53785,"Skupski, Neal",Great Britain,GBR,SKU
-18,18,2,2960,26,sr:competitor:210736,"Lammons, Nathaniel",USA,USA,LAM
-19,19,2,2960,34,sr:competitor:55989,"Withrow, Jackson",USA,USA,WIT
-20,20,2,2910,31,sr:competitor:47834,"Murray, Jamie",Great Britain,GBR,MUR
-21,21,-3,2865,24,sr:competitor:38181,"Molteni, Andres",Argentina,ARG,MOL
-22,22,11,2730,22,sr:competitor:74173,"Salisbury, Joe",Great Britain,GBR,SAL
-23,23,0,2703,36,sr:competitor:23899,"King, Evan",USA,USA,KIN
-24,24,-5,2640,19,sr:competitor:15548,"Gonzalez, Maximo",Argentina,ARG,GON
-25,25,0,2570,36,sr:competitor:52065,"Harrison, Christian",USA,USA,HAR
-26,26,2,2565,30,sr:competitor:56629,"Peers, John",Australia,AUS,PEE
-27,27,2,2560,26,sr:competitor:14553,"Ram, Rajeev",USA,USA,RAM
-28,28,2,2500,34,sr:competitor:206889,"Galloway, Robert",USA,USA,GAL
-29,29,12,2490,26,sr:competitor:70348,"Goransson, Andre",Sweden,SWE,GOR
-30,30,-3,2415,29,sr:competitor:106349,"Reboul, Fabien",France,FRA,REB
-31,31,0,2407,26,sr:competitor:76263,"Matos, Rafael",Brazil,BRA,MAT
-32,32,12,2400,26,sr:competitor:230186,"Verbeek, Sem",Netherlands,NLD,VER
-33,33,-9,2400,27,sr:competitor:52202,"Nys, Hugo",Monaco,MCO,NYS
-34,34,-8,2370,27,sr:competitor:22967,"Bhambri, Yuki",India,IND,BHA
-35,35,-1,2340,26,sr:competitor:14835,"Roger-Vasselin, Edouard",France,FRA,ROG
-36,36,-4,2340,27,sr:competitor:112805,"Zielinski, Jan",Poland,POL,ZIE
-37,37,-2,2280,27,sr:competitor:59324,"Pavlasek, Adam",Czechia,CZE,PAV
-38,38,1,2270,22,sr:competitor:15307,"Bopanna, Rohan",India,IND,BRO
-39,39,-3,2256,24,sr:competitor:121182,"Guinard, Manuel",France,FRA,GUI
-40,40,8,2256,32,sr:competitor:62410,"Johnson, Luke",Great Britain,GBR,JOH
-41,41,9,2210,31,sr:competitor:66864,"Arends, Sander",Netherlands,NLD,ARE
-42,42,-4,2195,22,sr:competitor:16409,"Ebden, Matthew",Australia,AUS,EBD
-43,43,-6,2115,35,sr:competitor:106559,"Doumbia, Sadio",France,FRA,DOU
-44,44,-4,2096,28,sr:competitor:45105,"Behar, Ariel",Uruguay,URY,BEH
-45,45,2,2040,28,sr:competitor:81059,"Gille, Sander",Belgium,BEL,GIL
-46,46,-1,1994,34,sr:competitor:114831,"Erler, Alexander",Austria,AUT,ERL
-47,47,-5,1985,25,sr:competitor:16124,"Melo, Marcelo",Brazil,BRA,MEL
-48,48,-5,1976,28,sr:competitor:41475,"Arneodo, Romain",Monaco,MCO,ARN
-49,49,2,1935,36,sr:competitor:231188,"Frantzen, Constantin",Germany,DEU,FRA
-50,50,-4,1870,10,sr:competitor:203681,"Korda, Sebastian",USA,USA,KOR
-51,51,-2,1805,32,sr:competitor:15305,"Gonzalez, Santiago",Mexico,MEX,GON
-52,52,0,1780,31,sr:competitor:108755,"Jebens, Hendrik",Germany,DEU,JEB
-53,53,2,1760,33,sr:competitor:47295,"Andreozzi, Guido",Argentina,ARG,AND
-54,54,3,1640,32,sr:competitor:127646,"Cabral, Francisco",Portugal,PRT,CAB
-55,55,-1,1635,26,sr:competitor:16275,"Dodig, Ivan",Croatia,HRV,DOD
-56,56,0,1620,32,sr:competitor:78793,"Miedler, Lucas",Austria,AUT,MIE
-57,57,2,1575,29,sr:competitor:104917,"Vliegen, Joran",Belgium,BEL,VLI
-58,58,0,1570,41,sr:competitor:231090,"Arribage, Theo",France,FRA,ARR
-59,59,9,1560,41,sr:competitor:112969,"Schnaitter, Jakob",Germany,DEU,SCH
-60,59,9,1560,41,sr:competitor:936355,"Wallner, Mark",Germany,DEU,WAL
-61,61,-8,1555,24,sr:competitor:47966,"Olivetti, Albano",France,FRA,OLI
-62,62,0,1497,37,sr:competitor:16823,"Romboli, Fernando",Brazil,BRA,ROM
-63,63,-2,1495,29,sr:competitor:81763,"Jacq, Gregoire",France,FRA,JAC
-64,64,-1,1483,32,sr:competitor:52244,"Balaji, N. Sriram",India,IND,BAL
-65,65,-5,1477,26,sr:competitor:69362,"Mansouri, Skander",Tunisia,TUN,MAN
-66,66,-2,1460,24,sr:competitor:17038,"Smith, John-Patrick",Australia,AUS,SMI
-67,67,-1,1433,37,sr:competitor:111195,"Luz, Orlando",Brazil,BRA,LUZ
-68,68,-3,1410,28,sr:competitor:15588,"Rojer, Jean-Julien",Netherlands,NLD,ROJ
-69,69,1,1380,30,sr:competitor:152900,"Rikl, Patrik",Czechia,CZE,RIK
-70,70,-3,1372,34,sr:competitor:48646,"Barrientos, Nicolas",Colombia,COL,BAR
-71,71,0,1350,29,sr:competitor:49306,"Reyes-Varela, Miguel",Mexico,MEX,REY
-72,72,0,1312,31,sr:competitor:204781,"Nouza, Petr",Czechia,CZE,NOU
-73,73,1,1260,25,sr:competitor:25189,"Krajicek, Austin",USA,USA,KRA
-74,74,1,1225,28,sr:competitor:52263,"Hidalgo, Diego",Ecuador,ECU,HID
-75,75,1,1189,27,sr:competitor:838776,"Tracy, James",USA,USA,TRA
-76,76,-3,1169,30,sr:competitor:918463,"Bollipalli, Rithvik Choudary",India,IND,BOL
-77,77,7,1168,33,sr:competitor:223868,"Matuszewski, Piotr",Poland,POL,MAT
-78,78,3,1146,38,sr:competitor:147104,"Romios, Matthew Christopher",Australia,AUS,ROM
-79,79,-2,1145,23,sr:competitor:16198,"Escobar, Gonzalo",Ecuador,ECU,ESC
-80,80,-2,1141,30,sr:competitor:16042,"Haase, Robin",Netherlands,NLD,HAA
-81,81,-1,1120,15,sr:competitor:63438,"McDonald, Mackenzie",USA,USA,MCD
-82,82,0,1095,12,sr:competitor:871495,"Michelsen, Alex",USA,USA,MIC
-83,83,0,1095,33,sr:competitor:287215,"Seggerman, Ryan",USA,USA,SEG
-84,84,6,1078,37,sr:competitor:98413,"Drzewiecki, Karol",Poland,POL,DRZ
-85,85,0,1058,20,sr:competitor:393598,"Cash, Robert",USA,USA,CAS
-86,86,1,1035,30,sr:competitor:52951,"Pel, David",Netherlands,NLD,PEL
-87,87,12,1000,23,sr:competitor:77223,"Martinez, Pedro",Spain,ESP,MAR
-88,88,3,955,28,sr:competitor:243522,"Paul, Jakub",Switzerland,CHE,PAU
-89,89,-1,942,29,sr:competitor:16043,"Middelkoop, Matwe",Netherlands,NLD,MID
-90,90,2,913,28,sr:competitor:234124,"Stevens, Bart",Netherlands,NLD,STE
-91,91,-5,906,23,sr:competitor:104421,"Mies, Andreas",Germany,DEU,MIE
-92,92,-13,900,12,sr:competitor:300540,"Machac, Tomas",Czechia,CZE,MAC
-93,93,8,900,14,sr:competitor:808628,"Shelton, Ben",USA,USA,SHE
-94,94,-1,872,35,sr:competitor:1020797,"Trhac, Patrik",USA,USA,TRH
-95,95,0,867,24,sr:competitor:16573,"Demoliner, Marcelo",Brazil,BRA,DEM
-96,96,8,847,35,sr:competitor:16992,"Willis, Marcus",Great Britain,GBR,WIL
-97,97,13,829,31,sr:competitor:450383,"Harper, Cleeve",Canada,CAN,HAR
-98,98,30,820,10,sr:competitor:126356,"Munar, Jaume",Spain,ESP,MUN
-99,99,-3,810,8,sr:competitor:125006,"Borges, Nuno",Portugal,PRT,BOR
-100,100,8,809,31,sr:competitor:60920,"Nedunchezhiyan, Jeevan",India,IND,NED
-101,101,1,807,20,sr:competitor:76361,"Kadhe, Arjun",India,IND,KAD
-102,102,20,806,32,sr:competitor:25021,"Cervantes, Inigo",Spain,ESP,CER
-103,103,2,797,35,sr:competitor:73572,"Zormann, Marcelo",Brazil,BRA,ZOR
-104,104,5,795,31,sr:competitor:53759,"Prashanth, N. Vijay Sundar",India,IND,PRA
-105,105,-11,793,25,sr:competitor:197678,"Tsitsipas, Petros",Greece,GRC,TSI
-106,106,0,793,25,sr:competitor:305776,"Soto, Matias",Chile,CHL,SOT
-107,107,-10,787,36,sr:competitor:209202,"Chandrasekar, Anirudh",India,IND,CHA
-108,108,-10,784,38,sr:competitor:77653,"Cornea, Victor",Romania,ROU,COR
-109,109,-9,766,19,sr:competitor:25457,"Nedovyesov, Aleksandr",Kazakhstan,KAZ,NED
-110,110,-3,766,36,sr:competitor:121032,"Stalder, Reese",USA,USA,STA
-111,111,-22,765,9,sr:competitor:75813,"Zhang, Zhizhen",China,CHN,ZHA
-112,112,4,760,40,sr:competitor:256001,"Ho, Ray",Chinese Taipei,TPE,RAY
-113,113,-2,757,31,sr:competitor:234044,"Kirkov, Vasil",USA,USA,KIR
-114,114,1,754,34,sr:competitor:50037,"Bortolotti, Marco",Italy,ITA,BOR
-115,115,-3,744,30,sr:competitor:296270,"Stevenson, David",Great Britain,GBR,STE
-116,116,-3,743,33,sr:competitor:16854,"Molchanov, Denys",Ukraine,UKR,MOL
-117,117,9,725,24,sr:competitor:263917,"Draxl, Liam",Canada,CAN,DRA
-118,118,-4,711,34,sr:competitor:95923,"Paris, Joshua",Great Britain,GBR,PAR
-119,119,4,701,31,sr:competitor:240880,"Hilderbrand, Trey",USA,USA,HIL
-120,120,-17,696,34,sr:competitor:157396,"Veldheer, Mick",Netherlands,NLD,VEL
-121,121,-4,690,14,sr:competitor:102151,"Tabilo, Alejandro",Chile,CHL,TAB
-122,122,3,675,27,sr:competitor:548169,"Yuzuki, Takeru",Japan,JPN,YUZ
-123,123,-4,674,24,sr:competitor:141882,"Blancaneaux, Geoffrey",France,FRA,BLA
-124,124,0,664,30,sr:competitor:16492,"Eysseric, Jonathan",France,FRA,EYS
-125,125,-7,662,16,sr:competitor:299130,"Hijikata, Rinky",Australia,AUS,HIJ
-126,126,7,658,35,sr:competitor:113889,"Liutarevich, Ivan",Neutral,,LIU
-127,127,-6,657,21,sr:competitor:146040,"Gomez, Federico Agustin",Argentina,ARG,GOM
-128,128,-1,648,13,sr:competitor:39712,"Saville, Luke",Australia,AUS,SAV
-129,129,1,630,11,sr:competitor:163480,"Bublik, Alexander",Kazakhstan,KAZ,BUB
-130,130,1,630,19,sr:competitor:534043,"Darderi, Luciano",Italy,ITA,DAR
-131,131,-11,629,38,sr:competitor:52260,"Vega, David",Spain,ESP,VEG
-132,132,2,606,11,sr:competitor:35766,"Begemann, Andre",Germany,DEU,BEG
-133,133,-4,595,31,sr:competitor:111607,"Ingildsen, Johannes",Denmark,DNK,ING
-134,134,3,591,18,sr:competitor:100069,"Sachko, Vitaliy",Ukraine,UKR,SAC
-135,135,3,590,35,sr:competitor:297502,"Bayldon, Blake",Australia,AUS,BAY
-136,136,3,589,27,sr:competitor:124708,"Cukierman, Daniel",Israel,ISR,CUK
-137,137,-5,587,37,sr:competitor:77011,"Martos Gornes, Sergio",Spain,ESP,MAR
-138,138,6,581,30,sr:competitor:42151,"Nam, Ji Sung",Republic of Korea,KOR,NAM
-139,139,10,572,28,sr:competitor:58877,"Ramanathan, Ramkumar",India,IND,RAM
-140,140,20,570,33,sr:competitor:92845,"Goldhoff, George",USA,USA,GOL
-141,141,7,569,31,sr:competitor:390480,"Watanabe, Seita",Japan,JPN,WAT
-142,142,10,566,33,sr:competitor:145008,"Uesugi, Kaito",Japan,JPN,UES
-143,143,-7,564,23,sr:competitor:78387,"Hach Verdugo, Hans",Mexico,MEX,HAC
-144,144,-3,562,26,sr:competitor:119150,"Fancutt, Thomas",Australia,AUS,FAN
-145,145,-3,560,12,sr:competitor:392066,"Navone, Mariano",Argentina,ARG,NAV
-146,146,-1,551,29,sr:competitor:72420,"Merino, Alexander",Peru,PER,MER
-147,147,-1,551,30,sr:competitor:55745,"Negritu, Christoph",Germany,DEU,NEG
-148,148,-8,551,34,sr:competitor:25458,"Martinez, Luis David",Venezuela,VEN,MAR
-149,149,-2,548,22,sr:competitor:280601,"Oberleitner, Neil",Austria,AUT,OBE
-150,150,4,546,25,sr:competitor:113221,"Niklas-Salminen, Patrik",Finland,FIN,NIK
-151,151,-1,545,6,sr:competitor:128552,"Popyrin, Alexei",Australia,AUS,POP
-152,152,1,540,10,sr:competitor:90080,"Khachanov, Karen",Neutral,,KHA
-153,153,-10,537,39,sr:competitor:112061,"Walkow, Szymon",Poland,POL,WAL
-154,154,3,534,38,sr:competitor:98981,"Jecan, Alexandru",Romania,ROU,JEC
-155,155,1,527,27,sr:competitor:44637,"Rodriguez, Cristian",Colombia,COL,ROC
-156,156,2,527,30,sr:competitor:58989,"Sabanov, Matej",Serbia,SRB,SAB
-157,157,-22,526,34,sr:competitor:145936,"Kaliyanda Poonacha, Niki",India,IND,KAL
-158,158,1,520,5,sr:competitor:102339,"Van de Zandschulp, Botic",Netherlands,NLD,VAN
-159,159,2,515,31,sr:competitor:110707,"Pichler, David",Austria,AUT,PIC
-160,160,3,515,34,sr:competitor:297448,"Kiger, Mac",USA,USA,KIG
-161,161,1,510,14,sr:competitor:122368,"Griekspoor, Tallon",Netherlands,NLD,GRI
-162,162,-7,507,26,sr:competitor:380004,"Harper, Patrick",Australia,AUS,HAR
-163,163,1,506,20,sr:competitor:216502,"Broom, Charles",Great Britain,GBR,BRO
-164,164,1,504,21,sr:competitor:119140,"Ellis, Blake",Australia,AUS,ELL
-165,165,9,504,33,sr:competitor:263865,"Reynolds, Finn",New Zealand,NZL,REY
-166,166,33,503,17,sr:competitor:250231,"Shimizu, Yuta",Japan,JPN,SHI
-167,167,-1,501,28,sr:competitor:628218,"Karol, Milos",Slovakia,SVK,KAR
-168,168,-1,500,5,sr:competitor:44553,"Herbert, Pierre-Hugues",France,FRA,HER
-169,169,-1,496,10,sr:competitor:108767,"Hassan, Benjamin",Lebanon,LBN,HAS
-170,170,-1,495,9,sr:competitor:122366,"Tsitsipas, Stefanos",Greece,GRC,TSI
-171,171,2,495,25,sr:competitor:59700,"Isaro, Pruchya",Thailand,THA,ISA
-172,172,-1,486,23,sr:competitor:195458,"Added, Dan",France,FRA,ADD
-173,173,-1,479,13,sr:competitor:448357,"Spizzirri, Eliot",USA,USA,SPI
-174,174,3,466,14,sr:competitor:405977,"Schoolkate, Tristan",Australia,AUS,SCH
-175,175,1,464,20,sr:competitor:204495,"Vocel, Matej",Czechia,CZE,VOC
-176,176,2,461,13,sr:competitor:15809,"Martin, Fabrice",France,FRA,MAR
-177,177,2,452,37,sr:competitor:155860,"Lock, Courtney John",Zimbabwe,ZWE,LOC
-178,178,-3,447,37,sr:competitor:422955,"Sanchez, Luca",France,FRA,SAN
-179,179,1,446,15,sr:competitor:295508,"Vrbensky, Michael",Czechia,CZE,VRB
-180,180,1,446,32,sr:competitor:106395,"Ricca, Giorgio",Italy,ITA,RIC
-181,181,1,443,24,sr:competitor:99377,"Kestelboim, Mariano",Argentina,ARG,KES
-182,182,-12,441,33,sr:competitor:84671,"Britto, Luis",Brazil,BRA,BRI
-183,183,2,435,35,sr:competitor:37637,"Zeballos, Federico",Bolivia,BOL,ZEB
-184,183,2,435,35,sr:competitor:54609,"Arias, Boris",Bolivia,BOL,ARI
-185,185,45,434,18,sr:competitor:251091,"Noguchi, Rio",Japan,JPN,NOG
-186,186,12,425,12,sr:competitor:227358,"Walton, Adam",Australia,AUS,WAL
-187,187,-4,425,16,sr:competitor:530317,"Rincon, Daniel",Spain,ESP,RIN
-188,188,3,424,30,sr:competitor:99043,"Wang, Aoran",China,CHN,WAN
-189,189,-5,421,6,sr:competitor:94485,"Bonzi, Benjamin",France,FRA,BON
-190,190,-39,420,26,sr:competitor:69910,"Bergevi, Filip",Sweden,SWE,BER
-191,191,-4,411,23,sr:competitor:82579,"Uchida, Kaichi",Japan,JPN,UCH
-192,192,-4,409,23,sr:competitor:396126,"Barnat, Jiri",Czechia,CZE,BAR
-193,193,2,407,25,sr:competitor:221556,"Alves, Mateus",Brazil,BRA,ALV
-194,194,-5,407,34,sr:competitor:289021,"Charlton, Joshua",Australia,AUS,CHA
-195,195,-5,405,9,sr:competitor:671637,"Fils, Arthur",France,FRA,FIL
-196,196,-4,398,22,sr:competitor:96859,"Lock, Benjamin",Zimbabwe,ZWE,LOC
-197,197,-4,398,30,sr:competitor:310972,"Banthia, Siddhant",India,IND,BAN
-198,198,-4,397,30,sr:competitor:55293,"Sabanov, Ivan",Serbia,SRB,SAB
-199,199,-3,383,21,sr:competitor:218344,"Lawson, Alex",USA,USA,LAW
-200,200,-3,381,13,sr:competitor:43319,"Duran, Guillermo",Argentina,ARG,DUR
-201,201,-1,374,33,sr:competitor:163538,"Donski, Alexander",Bulgaria,BGR,DON
-202,202,-1,372,14,sr:competitor:64920,"Myneni, Saketh",India,IND,MYN
-203,203,1,360,5,sr:competitor:352776,"Draper, Jack",Great Britain,GBR,DRA
-204,204,1,360,6,sr:competitor:89632,"Jarry, Nicolas",Chile,CHL,JAR
-205,205,1,360,18,sr:competitor:169496,"Etcheverry, Tomas Martin",Argentina,ARG,ETC
-206,206,1,356,24,sr:competitor:163540,"Hermans, Mats",Netherlands,NLD,HER
-207,207,7,354,37,sr:competitor:880089,"Pereira, Tiago",Portugal,PRT,PER
-208,208,0,353,11,sr:competitor:342826,"Trotter, James Kent",Japan,JPN,TRO
-209,209,0,353,34,sr:competitor:853643,"Romano, Filippo",Italy,ITA,ROM
-210,210,-7,349,11,sr:competitor:49417,"Tu, Li",Australia,AUS,TUL
-211,211,-1,349,24,sr:competitor:50148,"Puttergill, Calum",Australia,AUS,PUT
-212,212,-1,343,26,sr:competitor:233144,"Duda, Filip",Czechia,CZE,DUD
-213,213,0,341,25,sr:competitor:723013,"Pokorny, Lukas",Slovakia,SVK,POK
-214,214,1,331,24,sr:competitor:163438,"Sun, Fajing",China,CHN,SUN
-215,215,1,330,2,sr:competitor:339377,"Lehecka, Jiri",Czechia,CZE,LEH
-216,216,2,329,32,sr:competitor:348308,"Sheehy, Joshua",USA,USA,SHE
-217,217,-15,322,22,sr:competitor:85877,"Villanueva, Gonzalo",Argentina,ARG,VIL
-218,218,4,322,22,sr:competitor:161868,"Huertas Del Pino, Connor",Peru,PER,HUE
-219,219,4,320,23,sr:competitor:15275,"Matsui, Toshihide",Japan,JPN,MAT
-220,220,11,320,30,sr:competitor:120956,"Alcantara, Francis Casey",Philippines,PHL,ALC
-221,221,12,317,10,sr:competitor:132558,"Kolar, Zdenek",Czechia,CZE,KOL
-222,222,-10,316,30,sr:competitor:161448,"Jones, Ben",Great Britain,GBR,JON
-223,223,2,315,7,sr:competitor:124930,"Safiullin, Roman",Neutral,,SAF
-224,224,3,315,11,sr:competitor:257721,"Baez, Sebastian",Argentina,ARG,BAE
-225,225,1,315,11,sr:competitor:399637,"Cobolli, Flavio",Italy,ITA,COB
-226,226,2,315,16,sr:competitor:255595,"Cerundolo, Francisco",Argentina,ARG,CER
-227,227,-3,314,32,sr:competitor:395828,"Saraiva Dos Santos, Paulo Andre",Brazil,BRA,SAR
-228,228,-7,307,26,sr:competitor:79223,"Delaney, Jake",Australia,AUS,DEL
-229,229,11,303,8,sr:competitor:496346,"Stricker, Dominic",Switzerland,CHE,STR
-230,230,2,303,15,sr:competitor:38180,"Mena, Facundo",Argentina,ARG,MEN
-231,231,-12,302,8,sr:competitor:539343,"Kym, Jerome",Switzerland,CHE,KYM
-232,232,2,300,3,sr:competitor:136042,"Fritz, Taylor",USA,USA,FRI
-233,233,2,298,14,sr:competitor:428657,"Shelbayh, Abdullah",Jordan,JOR,SHE
-234,234,2,298,28,sr:competitor:77501,"Wehnelt, Kai",Germany,DEU,WEH
-235,235,3,296,9,sr:competitor:212004,"Rodionov, Jurij",Austria,AUT,ROD
-236,236,21,296,13,sr:competitor:373852,"Zink, Tyler",USA,USA,ZIN
-237,237,2,296,17,sr:competitor:284801,"Boyer, Tristan",USA,USA,BOY
-238,238,-9,295,25,sr:competitor:169492,"Aboian, Leonardo",Argentina,ARG,ABO
-239,239,2,294,21,sr:competitor:214824,"Aguilar, Juan Carlos",Canada,CAN,AGU
-240,240,-20,294,24,sr:competitor:193930,"Sigouin, Benjamin",Canada,CAN,SIG
-241,241,37,294,27,sr:competitor:739643,"Loof, Thijmen",Netherlands,NLD,LOO
-242,242,19,290,23,sr:competitor:973963,"Watt, James",New Zealand,NZL,WAT
-243,243,21,285,33,sr:competitor:208123,"Maginley, Jody",Antigua and Barbuda,ATG,MAG
-244,244,0,282,11,sr:competitor:284805,"Nava, Emilio",USA,USA,NAV
-245,245,-8,282,33,sr:competitor:96629,"Duncan, Scott",Great Britain,GBR,DUN
-246,246,-1,281,23,sr:competitor:552469,"Agafonov, Egor",Neutral,,AGA
-247,247,41,278,32,sr:competitor:154490,"Pearson, Kody",Australia,AUS,PEA
-248,248,-2,278,33,sr:competitor:379924,"Whiting, Tennyson",USA,USA,WHI
-249,249,-7,277,26,sr:competitor:498580,"Aboian, Valerio",Argentina,ARG,ABO
-250,250,-3,277,32,sr:competitor:154740,"Delaney, Jesse",Australia,AUS,DEL
-251,251,-3,275,6,sr:competitor:294300,"Nakashima, Brandon",USA,USA,NAK
-252,252,-3,275,19,sr:competitor:145108,"Bertola, Remy",Switzerland,CHE,BER
-253,253,-3,274,30,sr:competitor:308834,"Schachter, Noah",USA,USA,SCH
-254,254,-3,273,22,sr:competitor:180104,"Reymond, Arthur",France,FRA,REY
-255,255,12,272,31,sr:competitor:412829,"Matsuda, Ryuki",Japan,JPN,MAT
-256,256,-3,272,41,sr:competitor:51304,"Stevenson, Kelsey",Canada,CAN,STE
-257,257,-3,270,5,sr:competitor:206879,"Eubanks, Christopher",USA,USA,EUB
-258,258,-3,270,7,sr:competitor:57163,"Zverev, Alexander",Germany,DEU,ZVE
-259,259,-3,270,9,sr:competitor:450283,"Mpetshi Perricard, Giovanni",France,FRA,MPE
-260,260,-8,265,20,sr:competitor:686709,"Simakin, Ilia",Neutral,,SIM
-261,261,-3,264,22,sr:competitor:927343,"Cadenasso, Gianluca",Italy,ITA,CAD
-262,262,-3,264,29,sr:competitor:126622,Ruehl. Tim,Germany,DEU,RUE
-263,263,-3,260,14,sr:competitor:168420,"Andrade, Andres",Ecuador,ECU,AND
-264,264,-2,258,28,sr:competitor:48225,"Dutra Da Silva, Daniel",Brazil,BRA,DUT
-265,265,-2,257,30,sr:competitor:731833,"Kielan, Szymon",Poland,POL,KIE
-266,266,-1,256,10,sr:competitor:156664,"TE, Rigele",China,CHN,RIG
-267,267,-1,256,21,sr:competitor:505542,"Grevelius, Erik",Sweden,SWE,GRE
-268,268,0,255,3,sr:competitor:145112,"Huesler, Marc-Andrea",Switzerland,CHE,HUE
-269,269,21,255,9,sr:competitor:682913,"Rocha, Henrique",Portugal,PRT,ROC
-270,270,49,254,21,sr:competitor:287543,"Hulme, Matt",Australia,AUS,HUL
-271,271,-2,253,9,sr:competitor:121668,"Meligeni Alves, Felipe",Brazil,BRA,MEL
-272,272,10,253,17,sr:competitor:220588,"Hsu, Yu Hsiou",Chinese Taipei,TPE,HSU
-273,273,-3,253,21,sr:competitor:437794,"Heinonen, Adam",Sweden,SWE,HEI
-274,274,205,252,18,sr:competitor:51100,"Roca Batalla, Oriol",Spain,ESP,ROC
-275,275,-3,252,20,sr:competitor:53483,"Masur, Daniel",Germany,DEU,MAS
-276,276,-3,252,23,sr:competitor:614090,"Pieczonka, Filip",Poland,POL,PIE
-277,277,-3,250,5,sr:competitor:130398,"Kecmanovic, Miomir",Serbia,SRB,KEC
-278,278,-3,250,24,sr:competitor:126402,"Denolly, Corentin",France,FRA,DEN
-279,279,-3,249,13,sr:competitor:79227,"Sinclair, Colin",Northern Mariana Islands,MNP,SIN
-280,280,-9,248,34,sr:competitor:322589,"Pujol Navarro, Bruno",Spain,ESP,PUJ
-281,281,-4,247,31,sr:competitor:217192,"Ouakaa, Aziz",Tunisia,TUN,OUA
-282,282,10,244,24,sr:competitor:398360,"Urrea, Andres",Colombia,COL,URR
-283,283,-4,242,10,sr:competitor:130436,"Habib, Hady",Lebanon,LBN,HAB
-284,284,-41,241,10,sr:competitor:51974,"Daniell, Marcus",New Zealand,NZL,DAN
-285,285,-5,240,14,sr:competitor:774476,"Debru, Gabriel",France,FRA,DEB
-286,286,14,236,31,sr:competitor:645442,"Genov, Anthony",Bulgaria,BGR,GEN
-287,287,-2,236,32,sr:competitor:96535,"Virgili, Augusto",Italy,ITA,VIR
-288,288,-2,235,29,sr:competitor:452787,"Kumar, Pranav",USA,USA,KUM
-289,289,-6,233,22,sr:competitor:60614,"Poljak, David",Czechia,CZE,POL
-290,290,-1,232,24,sr:competitor:207777,"Imamura, Masamichi",Japan,JPN,IMA
-291,291,0,230,21,sr:competitor:645452,"Nesterov, Pyotr",Bulgaria,BGR,NES
-292,292,1,228,25,sr:competitor:185434,"Rodriguez Taverna, Santiago",Argentina,ARG,ROD
-293,293,1,226,16,sr:competitor:378220,"Huertas Del Pino Cordova, Arklon",Peru,PER,HUE
-294,294,1,225,4,sr:competitor:47975,"Hanfmann, Yannick",Germany,DEU,HAN
-295,294,1,225,4,sr:competitor:129368,"Koepfer, Dominik",Germany,DEU,KOE
-296,296,1,225,7,sr:competitor:15931,"Brown, Dustin",Jamaica,JAM,BRO
-297,297,-13,223,28,sr:competitor:381022,"Wendelken, Harry",Great Britain,GBR,WEN
-298,298,1,222,16,sr:competitor:809324,"Pacheco Mendez, Rodrigo",Mexico,MEX,PAC
-299,299,-1,222,25,sr:competitor:161220,"Pavel, Bogdan",Romania,ROU,PAV
-300,300,-13,221,34,sr:competitor:154570,"Orlov, Vladyslav",Ukraine,UKR,ORL
-301,301,0,220,13,sr:competitor:47760,"Weissborn, Tristan-Samuel",Austria,AUT,WEI
-302,302,0,219,21,sr:competitor:95939,"Whitehouse, Mark",Great Britain,GBR,WHI
-303,303,0,217,6,sr:competitor:310974,"De Jong, Jesper",Netherlands,NLD,DEJ
-304,304,0,217,10,sr:competitor:145122,"Martineau, Matteo",France,FRA,MAR
-305,305,0,217,15,sr:competitor:759900,"Lanik, Tomas",Slovakia,SVK,LAN
-306,306,0,216,22,sr:competitor:84301,"Reese, Hunter",USA,USA,REE
-307,307,18,216,25,sr:competitor:447733,"Hands, Tom",Great Britain,GBR,HAN
-308,308,0,215,5,sr:competitor:49172,"Dzumhur, Damir",Bosnia & Herzegovina,BIH,DZU
-309,309,0,214,21,sr:competitor:439474,"Jermar, Jan",Czechia,CZE,JER
-310,310,7,214,25,sr:competitor:193912,"Dev, S D Prajwal",India,IND,DEV
-311,311,-1,211,9,sr:competitor:113905,"Moreno de Alboran, Nicolas",USA,USA,MAN
-312,312,-1,211,28,sr:competitor:407791,"Mackinlay, James",Great Britain,GBR,MAC
-313,313,-1,211,37,sr:competitor:223788,"Stepanov, Roy",Israel,ISR,STE
-314,314,0,208,5,sr:competitor:603098,"Fery, Arthur",Great Britain,GBR,FER
-315,315,0,208,22,sr:competitor:121248,"Roveri Sidney, Gabriel",Brazil,BRA,ROV
-316,316,0,208,23,sr:competitor:244388,"Kalyanpur, Adil",India,IND,KAL
-317,317,-10,208,36,sr:competitor:124934,"Lomakin, Grigoriy",Kazakhstan,KAZ,LOM
-318,318,61,205,12,sr:competitor:134602,"Perez, Alfredo",USA,USA,PER
-319,319,-1,204,12,sr:competitor:93597,"Pellegrino, Andrea",Italy,ITA,PEL
-320,320,0,201,13,sr:competitor:82133,"Dellien, Murkel",Bolivia,BOL,DEV
-321,321,0,201,27,sr:competitor:220590,"Huang, Tsung-Hao",Chinese Taipei,TPE,HUA
-322,322,0,200,4,sr:competitor:67154,"Barrere, Gregoire",France,FRA,BAR
-323,323,0,200,5,sr:competitor:124656,"Vukic, Aleksandar",Australia,AUS,VUK
-324,324,0,199,12,sr:competitor:686911,"Poljicak, Mili",Croatia,HRV,POL
-325,325,1,197,13,sr:competitor:240264,"Reis Da Silva, Joao Lucas",Brazil,BRA,REI
-326,326,1,195,31,sr:competitor:272245,"Latinovic, Stefan",Serbia,SRB,LAT
-327,327,8,194,15,sr:competitor:286367,"Krutykh, Oleksii",Ukraine,UKR,KRU
-328,328,-15,193,31,sr:competitor:202735,"Carou, Ignacio",Uruguay,URY,CAR
-329,329,1,190,5,sr:competitor:14508,"Mahut, Nicolas",France,FRA,MAH
-330,329,0,190,5,sr:competitor:83397,"Ofner, Sebastian",Austria,AUT,OFN
-331,331,0,190,31,sr:competitor:458575,"Agostini, Simone",Italy,ITA,AGO
-332,332,0,188,20,sr:competitor:138712,"Oradini, Giovanni",Italy,ITA,ORA
-333,333,0,187,17,sr:competitor:303808,"Nijboer, Ryan",Netherlands,NLD,NIJ
-334,334,2,186,18,sr:competitor:976405,"Taguchi, Ryotaro",Japan,JPN,TAG
-335,335,2,185,13,sr:competitor:457059,"Montes-de la Torre, Inaki",Spain,ESP,MON
-336,336,-8,184,14,sr:competitor:305558,"Roncadelli, Franco",Uruguay,URY,RON
-337,337,3,182,20,sr:competitor:750283,"Isomura, Kokoro",Japan,JPN,ISO
-338,338,3,181,25,sr:competitor:202681,"Marrero Curbelo, Ivan",Spain,ESP,MAR
-339,339,3,180,1,sr:competitor:112783,"Berrettini, Matteo",Italy,ITA,BER
-340,340,3,180,2,sr:competitor:57703,"Pouille, Lucas",France,FRA,POU
-341,340,3,180,2,sr:competitor:163504,"Medvedev, Daniil",Neutral,,MED
-342,342,3,180,2,sr:competitor:225050,"Sinner, Jannik",Italy,ITA,SIN
-343,343,-126,180,2,sr:competitor:46391,"Struff, Jan-Lennard",Germany,DEU,STR
-344,344,3,180,4,sr:competitor:214182,"de Minaur, Alex",Australia,AUS,DE
-345,345,1,180,5,sr:competitor:104847,"Sonego, Lorenzo",Italy,ITA,SON
-346,346,2,180,6,sr:competitor:682911,"Faria, Jaime",Portugal,PRT,FAR
-347,347,2,180,25,sr:competitor:103625,"Geerts, Michael",Belgium,BEL,GEE
-348,348,2,179,25,sr:competitor:182086,"Bass, Finn",Great Britain,GBR,BAS
-349,349,2,178,24,sr:competitor:452691,"Araujo, Pedro",Portugal,PRT,ARA
-350,350,2,178,24,sr:competitor:435758,"Vanshelboim, Eric",Ukraine,UKR,VAN
-351,351,2,177,13,sr:competitor:49663,"Escoffier, Antoine",France,FRA,ESC
-352,352,-14,177,20,sr:competitor:196672,"Davis, James",Great Britain,GBR,DAV
-353,353,1,176,9,sr:competitor:226124,"Holmgren, August",Denmark,DNK,HOL
-354,354,1,176,25,sr:competitor:130442,"Rai, Ajeet",New Zealand,NZL,RAI
-355,355,1,175,4,sr:competitor:90798,"Halys, Quentin",France,FRA,HAL
-356,356,1,175,30,sr:competitor:681071,"Ganta, Sai Karteek Reddy",India,IND,GAN
-357,357,1,174,7,sr:competitor:387066,"Forejtek, Jonas",Czechia,CZE,FOR
-358,358,1,170,9,sr:competitor:515510,"Heide, Gustavo",Brazil,BRA,HEI
-359,359,1,169,15,sr:competitor:362982,"Barreiros Reyes, Mateo",Brazil,BRA,BAR
-360,360,-21,169,22,sr:competitor:54903,"Karlovskiy, Evgeny",Neutral,,KAR
-361,361,2,167,17,sr:competitor:620338,"Sharipov, Marat",Neutral,,SHA
-362,362,2,165,7,sr:competitor:947875,"Zhou, Yi",China,CHN,ZHO
-363,363,-1,164,12,sr:competitor:205767,"Cretu, Cezar (2001)",Romania,ROU,CRE
-364,364,1,164,13,sr:competitor:359608,"Maestrelli, Francesco",Italy,ITA,MAE
-365,365,2,164,25,sr:competitor:16852,"Uzhylovskyi, Volodoymyr",Ukraine,UKR,UZV
-366,366,-85,163,6,sr:competitor:121122,"Freund, Simon",Sweden,SWE,FRE
-367,367,1,163,12,sr:competitor:679701,"Gueymard Wayenburg, Sascha",France,FRA,GUE
-368,368,1,163,21,sr:competitor:873679,"Bondioli, Federico",Italy,ITA,BON
-369,369,1,162,5,sr:competitor:80665,"Polmans, Marc",Australia,AUS,POL
-370,370,1,162,12,sr:competitor:65606,"Agamenone, Franco",Italy,ITA,AGA
-371,371,1,161,16,sr:competitor:215778,"Izquierdo Luque, Rafael",Spain,ESP,IZQ
-372,372,-11,160,16,sr:competitor:55787,"Olivo, Renzo",Argentina,ARG,OLI
-373,373,0,160,17,sr:competitor:312436,"Hudd, Emile",Great Britain,GBR,HUD
-374,374,0,159,17,sr:competitor:312728,"Stewart, Hamish",Great Britain,GBR,STE
-375,375,2,159,19,sr:competitor:111609,"Barroso Campos, Alberto",Spain,ESP,BAR
-376,376,-1,158,23,sr:competitor:229024,"Zahraj, Patrick",Germany,DEU,ZAH
-377,377,-1,157,11,sr:competitor:286541,"Zhukayev, Beibit",Kazakhstan,KAZ,ZHU
-378,378,16,157,19,sr:competitor:118166,"Bakshi, Aleksandre",Georgia,GEO,BAK
-379,379,-1,156,16,sr:competitor:861549,"Vavassori, Matteo",Italy,ITA,VAV
-380,380,0,155,20,sr:competitor:116616,"Clarke, Jay",Great Britain,GBR,CLA
-381,381,49,155,23,sr:competitor:115239,"Kaukovalta, Patrick",Finland,FIN,KAU
-382,382,0,155,29,sr:competitor:418163,"Perfetti, Noah",Italy,ITA,PER
-383,383,0,154,15,sr:competitor:564952,"Kusuhara, Yusuke",Japan,JPN,KUS
-384,384,-3,154,29,sr:competitor:767058,"Lobanov, Aleksandr",Neutral,,LOB
-385,385,-1,153,17,sr:competitor:644676,"Milev, Yanaki",Bulgaria,BGR,MIL
-386,386,-1,153,19,sr:competitor:96239,"Durasovic, Viktor",Norway,NOR,DUR
-387,387,-1,153,20,sr:competitor:538457,"Chopra, Keshav",USA,USA,CHO
-388,388,2,152,20,sr:competitor:252233,"Tang, Sheng",China,CHN,TAN
-389,389,26,152,20,sr:competitor:138528,"Mejia, Nicolas",Colombia,COL,MEJ
-390,390,49,151,21,sr:competitor:273883,"Rocha, Francisco",Portugal,PRT,ROC
-391,391,25,151,21,sr:competitor:256375,"Jeong, Yeongseok",Republic of Korea,KOR,JEO
-392,392,-5,150,3,sr:competitor:763108,"Mensik, Jakub",Czechia,CZE,MEN
-393,393,-5,150,5,sr:competitor:185388,"Humbert, Ugo",France,FRA,HUM
-394,394,-5,150,8,sr:competitor:106755,"Rublev, Andrey",Neutral,,RUB
-395,395,-4,150,22,sr:competitor:272273,"Mansilla Diez, Mario",Spain,ESP,MAN
-396,396,-4,149,7,sr:competitor:565070,"Monday, Johannus",Great Britain,GBR,MON
-397,397,-4,148,11,sr:competitor:210502,"Kopp, Sandro",Austria,AUT,KOP
-398,398,-32,148,24,sr:competitor:437734,"Shin, Woobin",Republic of Korea,KOR,SHI
-399,399,3,148,28,sr:competitor:156826,"van Wyk, Kris",South Africa,ZAF,VAN
-400,400,21,148,48,sr:competitor:759758,"Sakellaridis, Dimitris",Greece,GRC,SAK
-401,401,3,147,23,sr:competitor:855911,"Hrazdil, Jan",Czechia,CZE,HRA
-402,402,64,145,18,sr:competitor:165234,"Vasa, Eero",Finland,FIN,VAS
-403,403,-6,145,21,sr:competitor:385204,"Verbin, Pavel",Neutral,,VER
-404,404,-6,145,24,sr:competitor:217038,"Seeman, Johannes",Estonia,EST,SEE
-405,405,-6,144,10,sr:competitor:655845,"Quinn, Ethan",USA,USA,QUI
-406,406,-6,144,16,sr:competitor:16781,"Sharan, Divij",India,IND,SHA
-407,407,-6,144,19,sr:competitor:298118,"Summers, Matthew",Great Britain,GBR,SUM
-408,408,27,144,28,sr:competitor:246745,"Tajima, Naoki",Japan,JPN,TAJ
-409,409,-6,143,10,sr:competitor:321667,"Mayot, Harold",France,FRA,MAY
-410,410,-5,142,25,sr:competitor:280559,"Catini, Niccolo",Italy,ITA,CAT
-411,411,-77,141,9,sr:competitor:17359,"Oswald, Philipp",Austria,AUT,OSW
-412,412,31,141,13,sr:competitor:406397,"Woodall, William",USA,USA,WOO
-413,413,-7,141,21,sr:competitor:785974,"La Serna, Juan Manuel",Argentina,ARG,LA
-414,414,-7,141,22,sr:competitor:497320,"Visker, Niels",Netherlands,NLD,VIS
-415,415,-7,140,4,sr:competitor:405969,"Paulson, Andrew",Czechia,CZE,PAU
-416,416,-6,140,9,sr:competitor:763106,"Barton, Hynek",Czechia,CZE,BAR
-417,417,-6,139,10,sr:competitor:52276,"Krueger, Mitchell",USA,USA,KRU
-418,418,-6,139,22,sr:competitor:501410,"Hignett, Liam",Great Britain,GBR,HIG
-419,419,-6,138,17,sr:competitor:345060,"Kingsley, Cannon",USA,USA,KIN
-420,420,-6,138,27,sr:competitor:761136,"Basel, Valentin",Argentina,ARG,BAS
-421,421,2137,137,6,sr:competitor:861511,"Engel, Justin",Germany,DEU,ENG
-422,422,-5,135,1,sr:competitor:163636,"Klein, Lukas",Slovakia,SVK,KLE
-423,422,0,135,1,sr:competitor:508498,"Rehberg, Max Hans",Germany,DEU,REH
-424,424,-6,135,5,sr:competitor:57021,"Kovalik, Jozef",Slovakia,SVK,KOV
-425,425,-6,135,9,sr:competitor:54573,"Coria, Federico",Argentina,ARG,COR
-426,426,-4,134,12,sr:competitor:74441,"Couacaud, Enzo",France,FRA,COU
-427,427,-3,132,5,sr:competitor:503814,"Mochizuki, Shintaro",Japan,JPN,MOC
-428,428,-3,132,26,sr:competitor:404753,"Saritas, Gokberk",Turkiye,TUR,SAR
-429,429,-3,131,7,sr:competitor:938667,"Schwaerzler, Joel",Austria,AUT,SCH
-430,430,-7,131,23,sr:competitor:215696,"Schell, Niklas",Germany,DEU,SCH
-431,431,-2,130,20,sr:competitor:1025093,"Bianchi, Juan Jose",Venezuela,VEN,BIA
-432,432,-36,129,18,sr:competitor:269535,"Potenza, Luca",Italy,ITA,POT
-433,433,0,128,9,sr:competitor:210526,"Kopriva, Vit",Czechia,CZE,KOP
-434,434,0,128,15,sr:competitor:524256,"Beckley, Alec",South Africa,ZAF,BEC
-435,435,58,127,11,sr:competitor:622876,"Vallejo, Adolfo Daniel",Paraguay,PRY,VAL
-436,436,0,127,14,sr:competitor:269523,"Bax, Florent",France,FRA,BAX
-437,437,105,127,16,sr:competitor:283759,"Chidekh, Clement",France,FRA,CHI
-438,438,0,127,19,sr:competitor:390486,"Farjat, Tomas",Argentina,ARG,FAR
-439,439,3,125,11,sr:competitor:177686,"Barranco Cosano, Javier",Spain,ESP,BAR
-440,440,4,125,15,sr:competitor:186629,"Kirkin, Ergi",Turkiye,TUR,KIR
-441,441,41,125,18,sr:competitor:920395,"Shah, Aryan",India,IND,SHA
-442,442,3,125,22,sr:competitor:675167,"Javia, Dev",India,IND,JAV
-443,443,4,124,12,sr:competitor:266711,"Pavlovic, Luka",France,FRA,PAV
-444,444,5,123,7,sr:competitor:283965,"Suresh, Dhakshineswar",India,IND,SUR
-445,445,5,123,20,sr:competitor:342822,"Ichikawa, Taisei",Japan,JPN,ICH
-446,446,5,123,22,sr:competitor:837590,"Arutiunian, Erik",Belarus,BLR,ARU
-447,447,5,123,32,sr:competitor:160104,"Vance, Jamie",USA,USA,VAN
-448,448,5,122,12,sr:competitor:88992,"Muller, Alexandre",France,FRA,MUL
-449,449,5,122,12,sr:competitor:682903,"Nakagawa, Shunsuke",Japan,JPN,NAK
-450,450,5,122,13,sr:competitor:570833,"Rodriguez Rodriguez, Johan Alexander",Colombia,COL,ROD
-451,451,5,122,18,sr:competitor:210636,"Poling, Karl",USA,USA,POL
-452,452,5,122,22,sr:competitor:297608,"Hazawa, Shinji",Japan,JPN,HAZ
-453,453,5,122,23,sr:competitor:181384,"Sinha, Nitin Kumar",India,IND,SIN
-454,454,5,122,36,sr:competitor:322729,"Bueno Gil, Alvaro",Spain,ESP,BUE
-455,455,5,121,6,sr:competitor:132834,"Barrios Vera, Marcelo Tomas",Chile,CHL,BAR
-456,456,-25,121,11,sr:competitor:263857,"De Krom, Michiel",Netherlands,NLD,DE
-457,457,30,121,14,sr:competitor:317355,"Somani, Parikshit",India,IND,SOM
-458,458,4,121,14,sr:competitor:137890,"Vale, Duarte",Portugal,PRT,VAL
-459,459,2,121,14,sr:competitor:241710,"Kikuchi, Yuta",Japan,JPN,KIK
-460,460,3,121,18,sr:competitor:418167,"Garcian, Axel",France,FRA,GAR
-461,461,4,120,9,sr:competitor:307112,"Erel, Yanki",Turkiye,TUR,ERE
-462,462,5,120,25,sr:competitor:783794,"Singh, Karan (IND)",India,IND,SIN
-463,463,5,119,7,sr:competitor:369572,"Boulais, Justin",Canada,CAN,BOU
-464,464,5,119,12,sr:competitor:224936,"Nanda, Govind",USA,USA,NAN
-465,465,5,119,13,sr:competitor:46259,"Neuchrist, Maximilian",Austria,AUT,NEU
-466,466,6,118,13,sr:competitor:341218,"Colson, Tibo",Belgium,BEL,COL
-467,467,6,118,20,sr:competitor:50901,"Popko, Dmitry",Kazakhstan,KAZ,POP
-468,468,7,118,20,sr:competitor:294248,"Hellum Lilleengen, Lukas",Norway,NOR,HEL
-469,469,5,118,20,sr:competitor:389078,"Lalami Laaroussi, Younes",Morocco,MAR,LAL
-470,470,6,118,21,sr:competitor:76251,"Bobrov, Bogdan",Neutral,,BOB
-471,471,6,118,25,sr:competitor:256481,"Marques, Diogo",Portugal,PRT,MAR
-472,472,6,117,15,sr:competitor:194668,"Wenger, Damien",Switzerland,CHE,WEN
-473,473,7,117,24,sr:competitor:100317,"Turker, Mert Naci",Turkiye,TUR,TUR
-474,474,-26,116,13,sr:competitor:114885,"Nikles, Johan",Switzerland,CHE,NIK
-475,475,6,116,13,sr:competitor:684577,"Muller, Rik",Netherlands,NLD,MUL
-476,476,7,115,2,sr:competitor:997473,"Bernet, Henry",Switzerland,CHE,BER
-477,477,-49,115,15,sr:competitor:15743,"Istomin, Denis",Uzbekistan,UZB,IST
-478,478,6,114,9,sr:competitor:801374,"Gea, Arthur",France,FRA,GEA
-479,479,7,114,18,sr:competitor:199196,"Sanchez Izquierdo, Nikolas",Spain,ESP,SAI
-480,480,-48,113,14,sr:competitor:220932,"Shin, Sanhui",Republic of Korea,KOR,SHI
-481,481,-17,113,25,sr:competitor:209356,"Moreno, Daniel",Mexico,MEX,MOR
-482,482,3,112,16,sr:competitor:107483,"Monzon, Ignacio",Argentina,ARG,MON
-483,483,5,112,18,sr:competitor:403357,"Thayne, Wally",USA,USA,THA
-484,484,5,112,19,sr:competitor:282183,"Rottoli, Lorenzo",Italy,ITA,ROT
-485,485,5,112,20,sr:competitor:260947,"Falabella, Lautaro Agustin",Argentina,ARG,FAL
-486,486,5,112,24,sr:competitor:990785,"Zheng, Zhan",China,CHN,ZHE
-487,487,-41,112,28,sr:competitor:376372,"Perez, Brandon",Venezuela,VEN,PER
-488,488,4,111,9,sr:competitor:50360,"Margaroli, Luca",Switzerland,CHE,MAR
-489,489,5,111,14,sr:competitor:283451,"Rodriguez, Lorenzo Joaquin",Argentina,ARG,ROD
-490,490,56,111,15,sr:competitor:219398,"Park, Uisung",Republic of Korea,KOR,PAR
-491,491,10,111,16,sr:competitor:378320,"Story, James",Great Britain,GBR,STO
-492,492,3,111,17,sr:competitor:609146,"Okonkwo, Oliver",Great Britain,GBR,OKO
-493,493,3,110,2,sr:competitor:14882,"Djokovic, Novak",Serbia,SRB,DJO
-494,494,3,110,4,sr:competitor:39711,"Duckworth, James",Australia,AUS,DUC
-495,495,-58,110,14,sr:competitor:54975,"Casanova, Hernan",Argentina,ARG,CAS
-496,496,-25,110,18,sr:competitor:833418,"Del Pino, Mateo",Argentina,ARG,DEL
-497,497,2,110,21,sr:competitor:170964,"Bittoun Kouzmine, Constantin",France,FRA,BIT
-498,498,2,109,11,sr:competitor:47767,"Lamasine, Tristan",France,FRA,LAM
-499,499,3,109,19,sr:competitor:978579,"Ghazouani Durand, Yanis",France,FRA,GHA
-500,500,5,107,14,sr:competitor:57759,"Oliveira, Gonzalo",Venezuela,VEN,OLI
-501,1,0,10665,18,sr:competitor:72376,"Siniakova, Katerina",Czechia,CZE,SIN
-502,2,0,8825,15,sr:competitor:51387,"Townsend, Taylor",USA,USA,TOW
-503,3,0,8125,23,sr:competitor:74949,"Routliffe, Erin",New Zealand,NZL,ROU
-504,4,0,6775,18,sr:competitor:64496,"Ostapenko, Jelena",Latvia,LVA,OST
-505,5,0,6385,17,sr:competitor:43860,"Dabrowski, Gabriela",Canada,CAN,DAB
-506,6,0,5355,15,sr:competitor:19202,"Errani, Sara",Italy,ITA,ERR
-507,6,0,5355,15,sr:competitor:69208,"Paolini, Jasmine",Italy,ITA,PAO
-508,8,0,4690,24,sr:competitor:19932,"Muhammad, Asia",USA,USA,MUH
-509,9,0,4630,21,sr:competitor:41520,"Kichenok, Lyudmyla",Ukraine,UKR,KIC
-510,10,1,4523,31,sr:competitor:19607,"Zhang, Shuai",China,CHN,ZHA
-511,11,-1,4521,17,sr:competitor:18936,"Hsieh, Su-Wei",Chinese Taipei,TPE,HSI
-512,12,1,4338,23,sr:competitor:64021,"Krawczyk, Desirae",USA,USA,KRA
-513,13,-1,4246,16,sr:competitor:588071,"Shnaider, Diana",Neutral,,SHN
-514,14,3,3985,17,sr:competitor:123824,"Dolehide, Caroline",USA,USA,DOL
-515,15,1,3968,27,sr:competitor:47810,"Khromacheva, Irina",Neutral,,KHR
-516,16,-2,3945,25,sr:competitor:48625,"Chan, Hao-Ching",Chinese Taipei,TPE,CHA
-517,17,1,3913,30,sr:competitor:69718,"Danilina, Anna",Kazakhstan,KAZ,DAN
-518,18,1,3869,13,sr:competitor:871583,"Andreeva, Mirra",Neutral,,AND
-519,19,-4,3835,19,sr:competitor:66968,"Kudermetova, Veronika",Neutral,,KUD
-520,20,0,3820,25,sr:competitor:119670,"Perez, Ellen",Australia,AUS,PER
-521,21,0,3726,27,sr:competitor:99131,"Bucsa, Cristina",Spain,ESP,BUC
-522,22,1,3650,26,sr:competitor:46084,"Melichar-Martinez, Nicole",USA,USA,MEL
-523,23,-1,3640,14,sr:competitor:37508,"Siegemund, Laura",Germany,DEU,SIE
-524,24,2,3351,22,sr:competitor:50537,"Schuurs, Demi",Netherlands,NLD,SCH
-525,25,0,3296,5,sr:competitor:373352,"Gauff, Coco",USA,USA,GAU
-526,26,-2,3265,11,sr:competitor:33593,"Mladenovic, Kristina",France,FRA,MLA
-527,27,0,3073,28,sr:competitor:24431,"Panova, Alexandra",Neutral,,PAN
-528,28,0,2785,28,sr:competitor:150122,"Jiang, Xinyu",China,CHN,JIA
-529,29,0,2779,29,sr:competitor:66432,"Kato, Miyu",Japan,JPN,KAT
-530,30,0,2767,32,sr:competitor:182178,"Wu, Fang-Hsien",Chinese Taipei,TPE,FAN
-531,31,0,2676,28,sr:competitor:129714,"Nicholls, Olivia",Great Britain,GBR,NIC
-532,32,0,2665,16,sr:competitor:78551,"Mertens, Elise",Belgium,BEL,MER
-533,33,0,2615,17,sr:competitor:289507,"Fernandez, Leylah Annie",Canada,CAN,FER
-534,34,0,2611,27,sr:competitor:142996,"Mihalikova, Tereza",Slovakia,SVK,MIH
-535,35,3,2543,19,sr:competitor:96075,"Stefani, Luisa",Brazil,BRA,STE
-536,36,-1,2534,24,sr:competitor:43102,"Babos, Timea",Hungary,HUN,BAB
-537,37,-1,2419,23,sr:competitor:18354,"Mattek-Sands, Bethanie",USA,USA,MAT
-538,38,-1,2366,19,sr:competitor:91960,"Kenin, Sofia",USA,USA,KEN
-539,39,0,2324,28,sr:competitor:166124,"Olmos, Giuliana",Mexico,MEX,OLM
-540,40,0,2290,10,sr:competitor:60392,"Sorribes Tormo, Sara",Spain,ESP,SOR
-541,41,0,2255,22,sr:competitor:19655,"Niculescu, Monica",Romania,ROU,NIC
-542,42,0,2186,24,sr:competitor:51481,"Sutjiadi, Aldila",Indonesia,IDN,SUT
-543,43,0,2155,16,sr:competitor:272217,"Wang, Xinyu",China,CHN,WAN
-544,44,1,2053,28,sr:competitor:19974,"Xu, Yifan",China,CHN,YIF
-545,45,3,1994,9,sr:competitor:103901,"Ruse, Elena-Gabriela",Romania,ROU,RUS
-546,46,0,1976,19,sr:competitor:153652,"Guo, Hanyu",China,CHN,GUO
-547,47,2,1921,24,sr:competitor:49682,"Kichenok, Nadiia",Ukraine,UKR,KIC
-548,48,-4,1907,8,sr:competitor:60398,"Krejcikova, Barbora",Czechia,CZE,KRE
-549,49,2,1889,31,sr:competitor:70784,"Hozumi, Eri",Japan,JPN,HOZ
-550,50,0,1875,26,sr:competitor:19731,"Piter, Katarzyna",Poland,POL,PIT
-551,51,1,1863,22,sr:competitor:157672,"Stollar, Fanny",Hungary,HUN,STO
-552,52,1,1827,15,sr:competitor:47697,"Zheng, Saisai",China,CHN,ZHE
-553,53,3,1811,14,sr:competitor:128584,"Samsonova, Liudmila",Neutral,,SAM
-554,54,0,1776,11,sr:competitor:59702,"Haddad Maia, Beatriz",Brazil,BRA,HAD
-555,55,0,1752,29,sr:competitor:43547,"Aoyama, Shuko",Japan,JPN,AOY
-556,56,1,1711,7,sr:competitor:278887,"Kostyuk, Marta",Ukraine,UKR,KOS
-557,57,-10,1692,28,sr:competitor:47801,"Eikeri, Ulrikke",Norway,NOR,EIK
-558,58,0,1618,15,sr:competitor:138452,"Shibahara, Ena",Japan,JPN,SHI
-559,59,0,1606,27,sr:competitor:61606,"Sizikova, Yana",Neutral,,SIZ
-560,60,0,1568,33,sr:competitor:60668,"Ninomiya, Makoto",Japan,JPN,NIN
-561,61,0,1556,11,sr:competitor:44834,"Pegula, Jessica",USA,USA,PEG
-562,62,12,1449,15,sr:competitor:67759,"Alexandrova, Ekaterina",Neutral,,ALE
-563,63,1,1386,11,sr:competitor:41877,"Yuan, Yue",China,CHN,YUA
-564,64,-2,1340,16,sr:competitor:53789,"Dart, Harriet",Great Britain,GBR,DAR
-565,65,1,1292,12,sr:competitor:360038,"Stearns, Peyton",USA,USA,STE
-566,66,1,1290,27,sr:competitor:215476,"Siskova, Anna",Czechia,CZE,SIS
-567,67,-2,1245,11,sr:competitor:88310,"Sherif Ahmed Abdelaziz, Maiar",Egypt,EGY,SHE
-568,68,0,1243,30,sr:competitor:52695,"Moratelli, Angelica",Italy,ITA,MOR
-569,69,10,1236,30,sr:competitor:44977,"Santamaria, Sabrina",USA,USA,SAN
-570,70,0,1195,31,sr:competitor:194106,"Tang, Qianhui",China,CHN,TAN
-571,71,0,1168,13,sr:competitor:252223,"Rakhimova, Kamilla",Neutral,,RAK
-572,72,10,1163,14,sr:competitor:401055,"Noskova, Linda",Czechia,CZE,NOS
-573,73,0,1150,8,sr:competitor:45915,"Yang, Zhaoxuan",China,CHN,YAN
-574,74,-2,1116,29,sr:competitor:37504,"Kalashnikova, Oksana",Georgia,GEO,KAL
-575,75,-6,1102,30,sr:competitor:69602,"Lumsden, Maia",Great Britain,GBR,LUM
-576,76,-1,1101,12,sr:competitor:45545,"Putintseva, Yulia",Kazakhstan,KAZ,PUT
-577,77,-14,1092,13,sr:competitor:135854,"Neel, Ingrid",Estonia,EST,NEE
-578,78,15,1085,15,sr:competitor:41524,"Krunic, Aleksandra",Serbia,SRB,KA
-579,79,-3,1084,15,sr:competitor:105463,"Bouzkova, Marie",Czechia,CZE,BOU
-580,80,0,1082,28,sr:competitor:173748,"Detiuc, Anastasia",Czechia,CZE,DET
-581,81,0,1068,34,sr:competitor:73542,"Gleason, Quinn",USA,USA,GLE
-582,82,-5,1063,29,sr:competitor:48451,"Cavalle-Reimers, Yvonne",Spain,ESP,CAV
-583,83,-5,1013,31,sr:competitor:168526,"Appleton, Emily",Great Britain,GBR,APP
-584,84,5,972,21,sr:competitor:108621,"Kempen, Magali",Belgium,BEL,KEM
-585,85,-2,959,12,sr:competitor:192130,"Blinkova, Anna",Neutral,,BLI
-586,86,-1,942,34,sr:competitor:121760,"Anshba, Amina",Neutral,,ANS
-587,87,-1,930,6,sr:competitor:179146,"Kalinskaya, Anna",Neutral,,KAL
-588,88,-1,923,11,sr:competitor:52025,"Wang, Yafan",China,CHN,WAN
-589,89,-1,901,29,sr:competitor:71754,"Martins, Ingrid",Brazil,BRA,MAR
-590,90,0,898,26,sr:competitor:799304,"Pridankina, Elena",Neutral,,PRI
-591,91,0,871,31,sr:competitor:182054,"Skoch, Miriam",Czechia,CZE,SKO
-592,92,8,850,29,sr:competitor:51651,"Rosatello, Camilla",Italy,ITA,ROS
-593,93,-9,842,12,sr:competitor:234150,"Potapova, Anastasia",Neutral,,POT
-594,94,-2,827,36,sr:competitor:54175,"Zimmermann, Kimberley",Belgium,BEL,ZIM
-595,95,0,823,13,sr:competitor:42289,"Linette, Magda",Poland,POL,LIN
-596,96,0,811,32,sr:competitor:418583,"Haverlag, Isabelle",Netherlands,NLD,HAV
-597,97,0,804,17,sr:competitor:111189,"Zarazua, Renata",Mexico,MEX,ZAR
-598,98,0,793,9,sr:competitor:318195,"Parry, Diane",France,FRA,PAR
-599,99,6,789,13,sr:competitor:235260,"Chwalinska, Maja",Poland,POL,CHW
-600,100,-1,785,18,sr:competitor:210558,"Jorge, Francisca",Portugal,PRT,JOR
-601,101,1,773,14,sr:competitor:41404,"Watson, Heather",Great Britain,GBR,WAT
-602,102,2,753,11,sr:competitor:286435,"Gadecki, Olivia",Australia,AUS,GAD
-603,103,3,740,19,sr:competitor:453301,"Jorge, Matilde",Portugal,PRT,JOR
-604,104,3,735,32,sr:competitor:143140,"Aney, Jessie",USA,USA,ANE
-605,105,3,734,34,sr:competitor:51943,"Strakhova, Valeriya",Ukraine,UKR,STR
-606,106,-3,734,19,sr:competitor:227486,"Zantedeschi, Aurora",Italy,ITA,ZAN
-607,107,-13,733,18,sr:competitor:72450,"Hibino, Nao",Japan,JPN,HIB
-608,108,4,732,24,sr:competitor:378340,"Corley, Carmen",USA,USA,COR
-609,109,0,730,16,sr:competitor:64085,"Pigossi, Laura",Brazil,BRA,PIG
-610,110,0,727,24,sr:competitor:215598,"Vedder, Eva",Netherlands,NLD,VED
-611,111,3,725,8,sr:competitor:72758,"Cristian, Jaqueline",Romania,ROU,CRI
-612,112,-1,722,14,sr:competitor:549759,"Krueger, Ashlyn",USA,USA,KRU
-613,113,4,693,20,sr:competitor:161270,"Salden, Lara",Belgium,BEL,SAL
-614,114,1,677,32,sr:competitor:628178,"Brooks, Madeleine",Great Britain,GBR,BRO
-615,115,-14,672,5,sr:competitor:18298,"Zvonareva, Vera",Neutral,,ZVO
-616,116,0,660,14,sr:competitor:335171,"Uchijima, Moyuka",Japan,JPN,UCH
-617,117,1,657,16,sr:competitor:345070,"Arseneault, Ariana",Canada,CAN,ARS
-618,118,1,650,4,sr:competitor:19546,"Pavlyuchenkova, Anastasia",Neutral,,PAV
-619,119,2,640,12,sr:competitor:262759,"Wang, Xiyu",China,CHN,WAN
-620,120,2,639,27,sr:competitor:53288,"Silva, Eden",Great Britain,GBR,SIL
-621,121,2,636,20,sr:competitor:303814,"Tikhonova, Anastasia",Neutral,,TIK
-622,122,-2,633,22,sr:competitor:87090,"Chong, Eudice","Hong Kong, China",HKG,CHO
-623,123,1,626,19,sr:competitor:473609,"Kubka, Martyna",Poland,POL,KUB
-624,124,12,620,15,sr:competitor:92879,"Shymanovich, Iryna",Neutral,,SHY
-625,125,1,615,15,sr:competitor:120666,"Stojanovic, Nina",Serbia,SRB,STO
-626,126,1,611,20,sr:competitor:67430,"Cascino, Estelle",France,FRA,CAS
-627,127,23,609,27,sr:competitor:92877,"Fossa Huergo, Nicole",Italy,ITA,FOS
-628,128,26,606,11,sr:competitor:227390,"Brancaccio, Nuria",Italy,ITA,BRA
-629,129,-1,602,28,sr:competitor:46428,"Maleckova, Jesika",Czechia,CZE,MAL
-630,130,-1,600,13,sr:competitor:150574,"Bondar, Anna",Hungary,HUN,BON
-631,131,-1,599,25,sr:competitor:98607,"Chang, Sophie",USA,USA,CHA
-632,132,-1,592,15,sr:competitor:297588,"Romero Gormaz, Leyre",Spain,ESP,ROM
-633,133,0,585,10,sr:competitor:319455,"Baptiste, Hailey",USA,USA,BAP
-634,134,-2,585,12,sr:competitor:23158,"Stephens, Sloane",USA,USA,STE
-635,135,-1,584,14,sr:competitor:115507,"Bolsova, Aliona",Spain,ESP,BOL
-636,136,-11,581,20,sr:competitor:19847,"Rus, Arantxa",Netherlands,NLD,RUS
-637,137,-24,579,23,sr:competitor:49907,"Murray Sharan, Samantha",Great Britain,GBR,MUS
-638,138,-3,578,12,sr:competitor:42492,"Kawa, Katarzyna",Poland,POL,KAW
-639,139,8,570,19,sr:competitor:256447,"Monnet, Carole",France,FRA,MON
-640,140,22,561,28,sr:competitor:189384,"Kulambayeva, Zhibek",Kazakhstan,KAZ,KUL
-641,141,-3,560,2,sr:competitor:228418,"Navarro, Emma",USA,USA,NAV
-642,142,-2,557,6,sr:competitor:242602,"McNally, Catherine",USA,USA,MCC
-643,143,-2,557,13,sr:competitor:771430,"Naef, Celine",Switzerland,CHE,NAE
-644,144,-7,557,23,sr:competitor:148276,"Zheng, Wushuang",China,CHN,ZHE
-645,145,-1,550,24,sr:competitor:137990,"Failla, Jessica",USA,USA,FAI
-646,146,2,546,24,sr:competitor:99429,"Hule, Petra",Australia,AUS,HUL
-647,147,-1,542,6,sr:competitor:373354,"Cocciaretto, Elisabetta",Italy,ITA,COC
-648,148,-3,539,15,sr:competitor:147506,"Fourlis, Jaimee",Australia,AUS,FOU
-649,149,3,538,12,sr:competitor:52183,"Bara, Irina Maria",Romania,ROU,BARA
-650,150,-11,529,28,sr:competitor:61526,"Thombare, Prarthana",India,IND,THO
-651,151,0,529,23,sr:competitor:119216,"Herrero Linana, Alicia",Spain,ESP,HER
-652,152,3,515,17,sr:competitor:776340,"Joint, Maya",Australia,AUS,JOI
-653,153,3,508,20,sr:competitor:137932,"Mikulskyte, Justina",Lithuania,LTU,MIK
-654,154,5,503,32,sr:competitor:143146,"Smith, Alana",USA,USA,SMI
-655,155,-2,498,13,sr:competitor:867519,"Tsao, Chia Yi",Chinese Taipei,TPE,TSA
-656,156,2,498,31,sr:competitor:448121,"Rogers, Anna",USA,USA,ROG
-657,157,6,492,25,sr:competitor:102637,"McAdoo, Rasheeda",USA,USA,MCA
-658,158,-9,490,23,sr:competitor:50915,"Plipuech, Peangtarn",Thailand,THA,PLI
-659,159,11,489,22,sr:competitor:195408,"Shimizu, Ayano",Japan,JPN,SHI
-660,160,0,487,12,sr:competitor:256547,"Parks, Alycia",USA,USA,PAR
-661,161,16,485,26,sr:competitor:235252,"Kozyreva, Maria",Neutral,,KOZ
-662,162,-5,478,43,sr:competitor:325837,"Sakellaridi, Sapfo",Greece,GRC,SAK
-663,163,-20,476,14,sr:competitor:118096,"Papadakis, Lena",Germany,DEU,PAP
-664,164,1,474,29,sr:competitor:45827,"Lechemia, Elixane",France,FRA,LEC
-665,165,1,474,22,sr:competitor:203893,"Kucmova, Aneta",Czechia,CZE,KUC
-666,166,9,472,19,sr:competitor:183957,"Kobori, Momoko",Japan,JPN,KOB
-667,167,1,471,29,sr:competitor:46528,"Perrin, Conny",Switzerland,CHE,PER
-668,168,12,470,30,sr:competitor:206995,"Rosca, Christina",USA,USA,ROS
-669,169,2,463,15,sr:competitor:448081,"Noha Akugue, Noma",Germany,DEU,NOH
-670,170,3,459,10,sr:competitor:87834,"Hon, Priscilla",Australia,AUS,HON
-671,171,36,458,27,sr:competitor:378144,"Karatancheva, Lia",Bulgaria,BGR,KAR
-672,172,-3,457,32,sr:competitor:65610,"Wagner, Anita",Bosnia & Herzegovina,BIH,WAG
-673,173,1,454,7,sr:competitor:287769,"Kessler, McCartney",USA,USA,KES
-674,174,2,451,5,sr:competitor:569013,"Fernandez, Bianca Jolie",Canada,CAN,FER
-675,175,-33,444,4,sr:competitor:133662,"Badosa, Paula",Spain,ESP,BAD
-676,176,3,438,17,sr:competitor:676251,"Wuerth, Tara",Croatia,HRV,WUR
-677,177,4,437,27,sr:competitor:805538,"Cross, Kayla",Canada,CAN,CRO
-678,178,17,434,29,sr:competitor:119874,"Ibbou, Ines",Algeria,DZA,IBB
-679,179,5,432,27,sr:competitor:245673,"Feng, Shuo",China,CHN,FEN
-680,180,5,428,12,sr:competitor:141892,"Carle, Maria",Argentina,ARG,CAR
-681,181,5,425,8,sr:competitor:242630,"Osorio, Camila",Colombia,COL,OSO
-682,182,5,425,32,sr:competitor:41359,"Yashina, Ekaterina",Neutral,,YAS
-683,183,-16,424,14,sr:competitor:160190,"Hartono, Arianne",Netherlands,NLD,HAR
-684,184,-1,423,14,sr:competitor:208125,"Liang, En-Shuo",Chinese Taipei,TPE,LIA
-685,185,5,423,20,sr:competitor:156040,"Cho, I-Hsuan",Chinese Taipei,TPE,CHO
-686,185,5,423,20,sr:competitor:210670,"Cho, Yi Tsen",Chinese Taipei,TPE,CHO
-687,187,5,422,7,sr:competitor:608348,"Kupres, Mia",Canada,CAN,KUP
-688,188,-10,422,22,sr:competitor:91916,"Grey, Sarah Beth",Great Britain,GBR,GRE
-689,189,4,421,28,sr:competitor:46650,"Kolb, Nadia",Ukraine,UKR,KOL
-690,190,-1,420,19,sr:competitor:250285,"Falkowska, Weronika",Poland,POL,FAL
-691,191,5,419,21,sr:competitor:170880,"Kononova, Maria",Neutral,,KON
-692,192,2,418,26,sr:competitor:97031,"Christofi, Eleni",Greece,GRC,CHR
-693,193,7,416,24,sr:competitor:353358,"Tran, Lian",Netherlands,NLD,TRA
-694,194,-33,412,18,sr:competitor:369524,"Erjavec, Veronika",Slovenia,SVN,ERJ
-695,195,-23,411,7,sr:competitor:245295,"Waltert, Simona",Switzerland,CHE,WAL
-696,196,33,411,25,sr:competitor:152106,"Zaar, Lisa",Sweden,SWE,ZAA
-697,197,-9,410,24,sr:competitor:215806,"Hewitt, Dalayna",USA,USA,HEW
-698,198,-1,409,7,sr:competitor:105099,"Birrell, Kimberly",Australia,AUS,BIR
-699,199,0,403,34,sr:competitor:59762,"Barnett, Alicia",Great Britain,GBR,BAR
-700,200,1,401,11,sr:competitor:110055,"Bronzetti, Lucia",Italy,ITA,BRO
-701,201,-19,401,20,sr:competitor:45139,"Papamichail, Despina",Greece,GRC,PAP
-702,202,-4,400,25,sr:competitor:93657,"Karamoko, Naima",Switzerland,CHE,KAR
-703,203,-1,400,18,sr:competitor:70728,"Bhosale, Rutuja",India,IND,BHO
-704,204,-1,398,26,sr:competitor:64315,"Kuwata, Hiroko",Japan,JPN,KUW
-705,205,7,398,25,sr:competitor:904005,"Ibragimova, Alevtina",Neutral,,IBR
-706,206,-2,397,17,sr:competitor:568715,"Semenistaja, Darja",Latvia,LVA,SEM
-707,207,-1,397,27,sr:competitor:46625,"Raina, Ankita",India,IND,RAI
-708,208,-3,396,9,sr:competitor:675189,"Preston, Taylah",Australia,AUS,PRE
-709,209,1,390,10,sr:competitor:329535,"Tauson, Clara",Denmark,DNK,TAU
-710,210,1,389,23,sr:competitor:290994,"Wong, Hong Yi Cody","Hong Kong, China",HKG,WON
-711,211,2,387,24,sr:competitor:310984,"Sato, Naho",Japan,JPN,SAT
-712,212,2,385,20,sr:competitor:414533,"Abbagnato, Anastasia",Italy,ITA,ABB
-713,213,2,382,30,sr:competitor:244216,"Giavara, Haley",USA,USA,GIA
-714,214,-5,380,20,sr:competitor:79443,"Cabrera, Lizette",Australia,AUS,CAB
-715,215,10,379,21,sr:competitor:48486,"Gorgodze, Ekaterine",Georgia,GEO,GOR
-716,216,0,377,27,sr:competitor:23688,"Moore, Tara",Great Britain,GBR,MOO
-717,217,20,375,13,sr:competitor:52489,"Schoofs, Bibiane",Netherlands,NLD,SCH
-718,218,-1,373,11,sr:competitor:47948,"Rosolska, Alicja",Poland,POL,ROS
-719,219,-1,370,17,sr:competitor:153748,"Jones, Makenna",USA,USA,JON
-720,220,-12,368,10,sr:competitor:226306,"Corley, Ivana",USA,USA,COR
-721,221,0,365,10,sr:competitor:789688,"Ngounoue, Clervie",USA,USA,NGO
-722,222,-2,363,31,sr:competitor:80427,"Osborne, Alexandra",Australia,AUS,OSB
-723,223,0,362,17,sr:competitor:190882,"Aiava, Destanee",Australia,AUS,AIA
-724,224,0,358,21,sr:competitor:67194,"Kolb, Maryna",Ukraine,UKR,KOL
-725,225,-6,358,17,sr:competitor:505998,"Zamarripa, Maribella",USA,USA,ZAM
-726,226,0,357,14,sr:competitor:119410,"Krywoj, Melany Solange",Argentina,ARG,KRY
-727,227,0,355,4,sr:competitor:75825,"Bektas, Emina",USA,USA,BEK
-728,228,36,354,17,sr:competitor:406199,"Jacquemot, Elsa",France,FRA,JAC
-729,229,3,353,26,sr:competitor:448613,"Falkner, Ziva",Slovenia,SVN,FAL
-730,230,-2,352,9,sr:competitor:41737,"Jang, Su Jeong",Republic of Korea,KOR,JAN
-731,231,-1,350,6,sr:competitor:49118,"Harrison, Catherine",USA,USA,HAR
-732,232,-1,350,21,sr:competitor:496316,"Gimbrere, Jasmijn",Netherlands,NLD,GIM
-733,233,0,348,16,sr:competitor:731427,"Micic, Elena",Australia,AUS,MIC
-734,234,21,347,16,sr:competitor:341216,"Charaeva, Alina",Neutral,,CHA
-735,235,-1,341,12,sr:competitor:26120,"Marino, Rebecca",Canada,CAN,MAR
-736,236,0,339,33,sr:competitor:88494,"Christie, Freya",Great Britain,GBR,CHR
-737,237,1,336,16,sr:competitor:82609,"Grammatikopoulou, Valentini",Greece,GRC,GRA
-738,238,69,334,14,sr:competitor:54397,"Tig, Patricia Maria",Romania,ROU,TIG
-739,239,19,334,27,sr:competitor:447703,"Sato, Hikaru",Japan,JPN,SAT
-740,240,1,333,28,sr:competitor:59213,"Perez Garcia, Maria Paulina",Colombia,COL,PER
-741,241,1,331,34,sr:competitor:233478,"Bayerlova, Michaela",Czechia,CZE,BAY
-742,242,-20,329,17,sr:competitor:51315,"Anderson, Robin",USA,USA,AND
-743,243,1,329,19,sr:competitor:868599,"McDonald, Ella",Great Britain,GBR,MCD
-744,244,1,327,5,sr:competitor:152804,"Vondrousova, Marketa",Czechia,CZE,VON
-745,245,2,322,12,sr:competitor:337813,"Riera, Julia",Argentina,ARG,RIE
-746,246,19,321,20,sr:competitor:132412,"Fita Boluda, Angela",Spain,ESP,FIT
-747,247,-1,320,23,sr:competitor:807358,"Rakotomanga Rajaonah, Tiantsoa Sarah",France,FRA,RAK
-748,248,0,319,20,sr:competitor:282597,"Park, Sohyun",Republic of Korea,KOR,PAR
-749,249,0,319,22,sr:competitor:870981,"Li, Yu-Yun",Chinese Taipei,TPE,YU-
-750,250,-7,318,21,sr:competitor:289093,"Belgraver, Julie",France,FRA,BEL
-751,251,-1,317,19,sr:competitor:432605,"Makarova, Ekaterina",Neutral,,MAK
-752,252,-1,317,23,sr:competitor:222546,"Kuzmova, Katarina",Slovakia,SVK,KUZ
-753,253,47,315,4,sr:competitor:67757,"Pera, Bernarda",USA,USA,PER
-754,254,-2,315,20,sr:competitor:260987,"Osuigwe, Whitney",USA,USA,OSU
-755,255,-2,315,21,sr:competitor:445209,"Xiao, Zhenghua",China,CHN,XIA
-756,256,-92,314,13,sr:competitor:71284,"Bains, Naiktha",Great Britain,GBR,BAI
-757,257,-22,313,13,sr:competitor:385206,"Radisic, Nika",Slovenia,SVN,RAD
-758,258,46,311,13,sr:competitor:63220,"Ponchet, Jessika",France,FRA,PON
-759,259,29,311,15,sr:competitor:496378,"Yamazaki, Ikumi",Japan,JPN,YAM
-760,260,-3,307,6,sr:competitor:172590,"Burrage, Jodie",Great Britain,GBR,BUR
-761,261,-2,306,21,sr:competitor:517274,"Rajecki, Amelia",Great Britain,GBR,RAJ
-762,262,4,306,24,sr:competitor:181062,"Kung, Leonie",Switzerland,CHE,KUN
-763,263,8,306,20,sr:competitor:192572,"Portillo Ramirez, Maria Jose",Mexico,MEX,POR
-764,264,-4,305,8,sr:competitor:1017327,"Samson, Laura",Czechia,CZE,SAM
-765,265,-3,303,16,sr:competitor:73500,"Loeb, Jamie",USA,USA,LOE
-766,266,-3,303,13,sr:competitor:416473,"Reyngold, Ekaterina",Neutral,,REY
-767,267,0,300,14,sr:competitor:763112,"Struplova, Julie",Czechia,CZE,STR
-768,268,0,299,33,sr:competitor:315663,"Barry, Monique",New Zealand,NZL,BAR
-769,269,0,299,23,sr:competitor:60028,"Zeballos Melgar, Noelia",Bolivia,BOL,ZEM
-770,270,33,298,25,sr:competitor:70970,"Bhatia, Riya",India,IND,BHA
-771,271,-1,298,26,sr:competitor:731441,"Vargova, Nina",Slovakia,SVK,VAR
-772,272,0,293,15,sr:competitor:49963,"Omae, Akiko",Japan,JPN,OMA
-773,273,14,292,15,sr:competitor:234398,"Nahimana, Sada",Burundi,BDI,NAH
-774,274,-1,292,18,sr:competitor:198498,"Hutchinson, Holly",Great Britain,GBR,HUT
-775,275,-1,290,6,sr:competitor:90664,"Kalinina, Anhelina",Ukraine,UKR,KAL
-776,276,0,290,22,sr:competitor:70822,"Morisaki, Kanako",Japan,JPN,MOR
-777,277,-16,289,28,sr:competitor:47985,"Marcinkevica, Diana",Latvia,LVA,MAR
-778,278,-1,287,19,sr:competitor:842594,"Li, Zongyu",China,CHN,ZON
-779,279,31,286,16,sr:competitor:194690,"Mateas, Maria",USA,USA,MAT
-780,280,-2,286,21,sr:competitor:673491,"Szabo, Briana",Romania,ROU,SZA
-781,281,-2,286,19,sr:competitor:265553,"Naito, Yuki",Japan,JPN,NAI
-782,282,-2,286,26,sr:competitor:409673,"Zelnickova, Radka",Slovakia,SVK,ZEL
-783,283,-2,284,6,sr:competitor:18588,"Safarova, Lucie",Czechia,CZE,SAF
-784,284,-2,284,20,sr:competitor:104929,"Tona, Miriana",Italy,ITA,TON
-785,285,-2,283,11,sr:competitor:41374,"Tomova, Viktoriya",Bulgaria,BGR,TOM
-786,286,-30,283,18,sr:competitor:52533,"Jakupovic, Dalila",Slovenia,SVN,JAK
-787,287,2,283,18,sr:competitor:283489,"Imamura, Saki",Japan,JPN,IMA
-788,288,-4,281,28,sr:competitor:59662,"Sanchez, Ana Sofia",Mexico,MEX,SAN
-789,289,-4,280,7,sr:competitor:202363,"Sun, Lulu",New Zealand,NZL,SUN
-790,290,-4,280,27,sr:competitor:78785,"Rodriguez, Victoria",Mexico,MEX,ROD
-791,291,-16,277,17,sr:competitor:499098,"Ito, Aoi",Japan,JPN,ITO
-792,292,-2,272,4,sr:competitor:845268,"Korneeva, Alina",Neutral,,KOR
-793,293,-2,272,21,sr:competitor:343066,"Hosogi, Sakura",Japan,JPN,HOS
-794,294,-2,271,10,sr:competitor:534045,"Gibson, Talia",Australia,AUS,GIB
-795,295,-2,269,12,sr:competitor:812502,"Xu, Mingge",Great Britain,GBR,MIN
-796,296,61,269,19,sr:competitor:380368,"Sebestova, Ivana",Czechia,CZE,SEB
-797,297,117,268,6,sr:competitor:192108,"Yastremska, Dayana",Ukraine,UKR,YAS
-798,298,-4,266,16,sr:competitor:355958,"Visscher, Stephanie Judith",Netherlands,NLD,VIS
-799,299,-4,264,22,sr:competitor:343294,"Kubanova, Karolina",Czechia,CZE,KUB
-800,300,-2,262,23,sr:competitor:282057,"Guo, Meiqi",China,CHN,GUO
-801,301,-2,262,23,sr:competitor:510530,"Abe, Hiromi",Japan,JPN,ABE
-802,302,-1,261,25,sr:competitor:63238,"Morderger, Yana",Germany,DEU,MOR
-803,303,-1,260,3,sr:competitor:62924,"Boulter, Katie",Great Britain,GBR,BOU
-804,304,-64,258,6,sr:competitor:662615,"Salkova, Dominika",Czechia,CZE,SAL
-805,305,0,258,22,sr:competitor:395740,"Bhamidipaty, Shrivalli Rashmikaa",India,IND,BHA
-806,306,0,257,21,sr:competitor:223862,"Laboutkova, Aneta",Czechia,CZE,LAB
-807,307,1,256,15,sr:competitor:142942,"Bozovic, Alexandra",Australia,AUS,BOZ
-808,308,1,255,13,sr:competitor:278943,"Lansere, Sofya",Neutral,,LAN
-809,309,23,254,7,sr:competitor:110299,"Zidansek, Tamara",Slovenia,SVN,ZID
-810,310,1,254,15,sr:competitor:292540,"Matsuda, Misaki",Japan,JPN,MAT
-811,311,2,253,27,sr:competitor:810694,"Okuwaki, Rinon",Japan,JPN,OKU
-812,312,2,252,10,sr:competitor:165866,"Miyazaki, Yuriko Lily",Great Britain,GBR,MIY
-813,313,-17,251,23,sr:competitor:61922,"Drazic, Mariana",Croatia,HRV,DRA
-814,314,1,248,22,sr:competitor:246945,"Da Silva Fick, Gabriella",Australia,AUS,DA
-815,315,-18,246,4,sr:competitor:755469,"Todoni, Anca Alexia",Romania,ROU,TOD
-816,316,0,245,7,sr:competitor:99405,"Inglis, Maddison",Australia,AUS,ING
-817,317,5,244,14,sr:competitor:226092,"Shimizu, Eri",Japan,JPN,SHI
-818,318,-1,242,14,sr:competitor:194572,"Dartron, Emeline",France,FRA,DAR
-819,319,18,241,12,sr:competitor:403329,"Toth, Amarissa Kiara",Hungary,HUN,TOT
-820,320,-2,240,1,sr:competitor:42339,"Garcia, Caroline",France,FRA,GAR
-821,321,17,240,15,sr:competitor:813490,"Hobgarski, Katharina",Germany,DEU,HOB
-822,322,-10,240,25,sr:competitor:37638,"Sema, Erika",Japan,JPN,SEM
-823,323,-4,239,15,sr:competitor:129534,"Hruncakova, Viktoria",Slovakia,SVK,HRU
-824,324,-3,238,3,sr:competitor:45902,"Sasnovich, Aliaksandra",Neutral,,SAS
-825,325,-1,236,25,sr:competitor:213144,"Lemaitre, Tiphanie",France,FRA,LEM
-826,326,-1,235,15,sr:competitor:567285,"Hietaranta, Laura",Finland,FIN,HIE
-827,327,-1,234,18,sr:competitor:436690,"Tkacheva, Mariia",Neutral,,TKA
-828,328,-1,229,23,sr:competitor:849533,"Lin, Fang An",Chinese Taipei,TPE,LIN
-829,329,-1,229,24,sr:competitor:233266,"Ovcharenko, Ekaterina",Neutral,,OVC
-830,330,-1,229,25,sr:competitor:54983,"Morderger, Tayisiya",Germany,DEU,MOR
-831,331,-1,228,16,sr:competitor:337811,"Ortenzi, Jazmin",Argentina,ARG,ORT
-832,332,-1,228,17,sr:competitor:936009,"van Emst, Sarah",Netherlands,NLD,VAN
-833,333,0,227,16,sr:competitor:285629,"Hindova, Denisa",Czechia,CZE,HIN
-834,334,0,226,3,sr:competitor:45835,"Hunter, Storm",Australia,AUS,HUN
-835,335,-96,226,3,sr:competitor:55401,"Jabeur, Ons",Tunisia,TUN,JAB
-836,336,3,225,22,sr:competitor:154806,"Laskutova, Ksenia",Russia,RUS,LAS
-837,337,-2,225,29,sr:competitor:201105,"Yuan, Chengyiyi",China,CHN,YUA
-838,338,-2,224,8,sr:competitor:137948,"Chang, Hanna",USA,USA,CHA
-839,339,1,224,22,sr:competitor:345134,"Lee, Ya-Hsin",Chinese Taipei,TPE,LEE
-840,340,1,223,19,sr:competitor:136372,"Parnaby, Alana",Australia,AUS,PAR
-841,341,2,221,20,sr:competitor:624838,"Shi, Han",China,CHN,SHI
-842,342,2,220,21,sr:competitor:122668,"Daniel, Jaeda",USA,USA,DAN
-843,343,2,219,12,sr:competitor:58053,"Sharma, Astra",Australia,AUS,SHA
-844,344,2,219,16,sr:competitor:282219,"Sakatsume, Himeno",Japan,JPN,SAK
-845,345,2,218,14,sr:competitor:102191,"Aksu, Ayla",Turkiye,TUR,AKS
-846,346,-26,217,12,sr:competitor:86894,"Shinde, Vasanti",India,IND,SHI
-847,347,7,217,23,sr:competitor:254553,"Nagy, Adrienn",Hungary,HUN,NAG
-848,348,0,216,6,sr:competitor:110803,"Minnen, Greet",Belgium,BEL,MIN
-849,349,0,216,11,sr:competitor:896765,"Ishii, Sayaka",Japan,JPN,ISH
-850,350,12,215,15,sr:competitor:98523,"Ye, Qiu Yu",China,CHN,QIU
-851,351,-1,215,17,sr:competitor:513582,"Chaudhari, Vaidehi",India,IND,CHA
-852,352,-1,214,14,sr:competitor:107327,"In-Albon, Ylena",Switzerland,CHE,IN-
-853,353,-1,212,17,sr:competitor:801396,"Gureva, Anastasiia",Neutral,,GUR
-854,354,-31,212,19,sr:competitor:209716,"Mansouri, Yasmine",France,FRA,MAN
-855,355,-2,212,21,sr:competitor:330689,"Kovapitukted, Punnin",Thailand,THA,KOV
-856,356,10,212,26,sr:competitor:745799,"Urgesi, Federica",Italy,ITA,URG
-857,357,-2,210,12,sr:competitor:138654,"Duerst, Jenny",Switzerland,CHE,DUE
-858,358,-2,210,14,sr:competitor:750327,"Iatcenko, Polina",Neutral,,IAT
-859,359,-1,209,12,sr:competitor:1020177,"Huang, Yujia",China,CHN,HUA
-860,360,-106,207,9,sr:competitor:762762,"Seidel, Ella",Germany,DEU,SEI
-861,361,-2,206,21,sr:competitor:435794,"Zolotareva, Anastasia",Neutral,,ZOL
-862,362,122,205,16,sr:competitor:264863,"Novak, Kristina",Slovenia,SVN,NOV
-863,363,-3,205,15,sr:competitor:586739,"Ambrosio, Silvia",Italy,ITA,AMB
-864,364,-3,205,25,sr:competitor:152762,"Kuczer, Daria",Poland,POL,KUC
-865,365,66,204,12,sr:competitor:655811,"Avdeeva, Julia",Neutral,,AVD
-866,366,-3,203,9,sr:competitor:319349,"Rouvroy, Margaux",France,FRA,ROU
-867,367,-3,202,2,sr:competitor:341112,"Zakharova, Anastasia",Neutral,,ZAK
-868,368,-3,201,19,sr:competitor:262023,"Wang, Meiling",China,CHN,WAN
-869,369,-1,196,28,sr:competitor:158636,"Prisacariu, Andreea",Romania,ROU,PRI
-870,370,-1,195,10,sr:competitor:87078,"Hourigan, Paige Mary",New Zealand,NZL,HOU
-871,371,15,195,9,sr:competitor:54171,"Benoit, Marie",Belgium,BEL,BEN
-872,372,-2,194,18,sr:competitor:348196,"Amariei, Ilinca Dalina",Romania,ROU,AMA
-873,373,79,193,17,sr:competitor:565020,"Maklakova, Ekaterina",Neutral,,MAK
-874,374,-7,189,16,sr:competitor:164852,"Okalova, Martina",Slovakia,SVK,OKA
-875,375,-2,189,19,sr:competitor:751899,"Brace, Cadence",Canada,CAN,BRA
-876,376,-34,187,11,sr:competitor:329009,"Ryser, Valentina",Switzerland,CHE,RYS
-877,377,-1,186,12,sr:competitor:843378,"Perez Alarcon, Lucciana",Peru,PER,PER
-878,378,16,186,11,sr:competitor:280635,"Schmidt, Antonia",Germany,DEU,SCH
-879,379,-2,186,12,sr:competitor:812476,"Zaytseva, Ksenia",Neutral,,ZAY
-880,380,-2,185,23,sr:competitor:750329,"Candiotto, Ana",Brazil,BRA,CAN
-881,381,-2,184,2,sr:competitor:42459,"Rogers, Shelby",USA,USA,ROG
-882,382,-2,184,19,sr:competitor:280989,"Kawamura, Mana",Japan,JPN,KAW
-883,383,-2,183,8,sr:competitor:467037,"Kudermetova, Polina",Neutral,,KUD
-884,384,-2,183,18,sr:competitor:119496,"McPhee, Kaylah",Australia,AUS,MCP
-885,385,-1,181,6,sr:competitor:153736,"Glushko, Lina",Israel,ISR,GLU
-886,386,-3,180,10,sr:competitor:103375,"Serban, Raluca Georgiana",Cyprus,CYP,SER
-887,387,-2,179,16,sr:competitor:42864,"Lizarazo, Yuliana",Colombia,COL,LIZ
-888,388,11,179,16,sr:competitor:1022815,"Akli, Ayana",USA,USA,AKL
-889,389,-18,179,24,sr:competitor:20158,"Webley-Smith, Emily",Great Britain,GBR,WEB
-890,390,7,178,24,sr:competitor:99775,"Saigo, Yukina",Japan,JPN,SAI
-891,391,-4,177,14,sr:competitor:801420,"Fontenel, Chelsea",Switzerland,CHE,FON
-892,392,9,175,11,sr:competitor:459317,"Nugroho, Priska Madelyn",Indonesia,IDN,NUG
-893,393,-19,175,14,sr:competitor:25822,"Shapatava, Sofia",Georgia,GEO,SHA
-894,394,-6,175,14,sr:competitor:120664,"Pedretti, Thaisa Grana",Brazil,BRA,PED
-895,395,-6,175,21,sr:competitor:96981,"Xun, Fang Ying",China,CHN,XUN
-896,396,-5,173,11,sr:competitor:720625,"Radivojevic, Lola",Serbia,SRB,RAD
-897,397,-7,173,15,sr:competitor:130624,"Gasanova, Anastasia",Neutral,,GAS
-898,398,-6,171,4,sr:competitor:48455,"Golubic, Viktorija",Switzerland,CHE,GOL
-899,399,41,171,10,sr:competitor:273017,"Mandlik, Elizabeth",USA,USA,MAN
-900,400,-7,171,26,sr:competitor:153744,"Pereira, Rebeca",Brazil,BRA,PER
-901,401,164,171,6,sr:competitor:63682,"Lazaro Garcia, Andrea",Spain,ESP,LAZ
-902,402,-7,171,20,sr:competitor:341196,"Back, Dayeon",Republic of Korea,KOR,BAC
-903,403,-5,169,6,sr:competitor:100341,"Bolkvadze, Mariam",Georgia,GEO,BOL
-904,404,-4,169,22,sr:competitor:185412,"Labrana, Fernanda",Chile,CHL,LAB
-905,405,-3,168,22,sr:competitor:206957,"Nagata, Anri",Japan,JPN,NAG
-906,406,-3,166,20,sr:competitor:47876,"Shinikova, Isabella",Bulgaria,BGR,SHI
-907,407,-3,166,21,sr:competitor:1008651,"Adams, Julia",USA,USA,ADA
-908,408,22,165,12,sr:competitor:804342,"Stoiber, Ranah Akua",Great Britain,GBR,STO
-909,409,-3,165,26,sr:competitor:66516,"Ayukawa, Mana",Japan,JPN,AYU
-910,410,-2,164,12,sr:competitor:880229,"Cayetano, Eryn",USA,USA,CAY
-911,411,10,164,25,sr:competitor:171354,"Romero, Camila",Ecuador,ECU,ROM
-912,412,-2,164,26,sr:competitor:873729,"Bojica, Stefania",Romania,ROU,BOJ
-913,413,-41,163,4,sr:competitor:210716,"Lamens, Suzan",Netherlands,NLD,LAM
-914,414,-2,161,5,sr:competitor:366114,"Avanesyan, Elina",Armenia,ARM,AVA
-915,415,-2,161,17,sr:competitor:741607,"Simunyu, Celine",Ireland,IRL,SIM
-916,416,-1,160,18,sr:competitor:283483,"Kozaki, Funa",Japan,JPN,KOZ
-917,417,-1,159,23,sr:competitor:80723,"Herazo Gonzalez, Maria Fernanda",Colombia,COL,HER
-918,418,43,159,15,sr:competitor:878645,"Osuigwe, Victoria",USA,USA,OSU
-919,419,31,159,19,sr:competitor:476218,"Kawaguchi, Natsumi",Japan,JPN,KAW
-920,420,-2,158,5,sr:competitor:728549,"Valentova, Tereza",Czechia,CZE,VAL
-921,421,1,157,14,sr:competitor:133080,"Hinojosa Gomez, Jessica",Mexico,MEX,HIN
-922,422,-3,157,8,sr:competitor:145930,"Hayashi, Erina",Japan,JPN,HAY
-923,423,0,157,11,sr:competitor:686597,"Pavlova, Kira",Neutral,,PAV
-924,424,8,157,16,sr:competitor:179248,"Yoshioka, Kisa",Japan,JPN,YOS
-925,425,10,157,24,sr:competitor:447759,"Katsumi, Nanari",Japan,JPN,KAT
-926,426,-2,157,24,sr:competitor:171026,"Tsygourova, Katerina",Switzerland,CHE,TSY
-927,427,-2,156,5,sr:competitor:45584,"Zhu, Lin",China,CHN,ZHU
-928,428,-23,156,14,sr:competitor:192138,"Corley, Paris",USA,USA,COR
-929,429,-3,156,17,sr:competitor:1027517,"Ebeling Koning, Loes",Netherlands,NLD,EBE
-930,430,-3,156,19,sr:competitor:182056,"Robbe, Alice",France,FRA,ROB
-931,431,2,155,7,sr:competitor:25066,"McHale, Christina",USA,USA,MCH
-932,432,-3,155,12,sr:competitor:310982,"Naklo, Thasaporn",Thailand,THA,NAK
-933,433,13,155,15,sr:competitor:677411,"Barrera Aguirre, Isabella",USA,USA,BAR
-934,434,-25,155,21,sr:competitor:72634,"Ozeki, Michika",Japan,JPN,OZE
-935,435,-1,152,13,sr:competitor:119664,"Smith, Alicia",Australia,AUS,SMI
-936,436,0,151,4,sr:competitor:499484,"Montgomery, Robin",USA,USA,MON
-937,437,0,151,11,sr:competitor:196664,"Shalimova, Ekaterina",Neutral,,SHA
-938,438,0,151,21,sr:competitor:858867,"Pace, Francesca",Italy,ITA,PAC
-939,439,0,150,6,sr:competitor:90814,"Teichmann, Jil",Switzerland,CHE,TEI
-940,440,1,150,2,sr:competitor:790640,"Marcinko, Petra",Croatia,HRV,MAR
-941,441,2,150,16,sr:competitor:827440,"Fedorova, Aglaya",Neutral,,FED
-942,442,-35,149,12,sr:competitor:46273,"Dinu, Cristina",Romania,ROU,DIN
-943,443,1,148,19,sr:competitor:522258,"Ricci, Beatrice",Italy,ITA,RIC
-944,444,1,148,23,sr:competitor:569009,"Ccuno, Romina",Peru,PER,CCU
-945,445,3,147,15,sr:competitor:620340,"Korokozidi, Elena",Greece,GRC,KOR
-946,446,3,146,14,sr:competitor:675193,"Costoulas, Sofia",Belgium,BEL,COS
-947,447,4,145,13,sr:competitor:158690,"Vasilescu, Arina Gabriela",Romania,ROU,VAS
-948,448,32,145,18,sr:competitor:157368,"Kazionova, Ekaterina",Neutral,,KAZ
-949,449,4,144,11,sr:competitor:138330,"Thamchaiwat, Bunyawi",Thailand,THA,THA
-950,450,6,144,9,sr:competitor:208181,"Hatouka, Yuliya",Neutral,,HAT
-951,451,22,144,12,sr:competitor:221510,"Chiesa, Enola",Italy,ITA,CHI
-952,452,3,143,9,sr:competitor:627278,"Eala, Alexandra",Philippines,PHL,EAL
-953,453,4,143,13,sr:competitor:217036,"Malygina, Elena",Estonia,EST,MAL
-954,454,-58,143,15,sr:competitor:1020859,"Pawlikowska,  Zuzanna",Poland,POL,PAW
-955,455,226,141,6,sr:competitor:183861,"Bassols Ribera, Marina",Spain,ESP,BAS
-956,456,2,140,3,sr:competitor:58515,"Collins, Danielle",USA,USA,COL
-957,457,-15,140,10,sr:competitor:960043,"Zolotareva, Rada",Neutral,,ZOL
-958,458,2,140,13,sr:competitor:915371,"van Den Broek, Isis Louise",Netherlands,NLD,VAN
-959,459,3,140,14,sr:competitor:340365,"Milovanovic, Elena",Serbia,SRB,MIL
-960,460,4,140,30,sr:competitor:341238,"Boehner, Laura",Germany,DEU,BOE
-961,461,4,139,9,sr:competitor:588449,"Laskevich, Evialina",Neutral,,LAS
-962,462,4,139,18,sr:competitor:98105,"Matoula, Martha",Greece,GRC,MAT
-963,463,4,139,19,sr:competitor:220654,"Sandberg, Vivien",Germany,DEU,SAN
-964,464,4,138,13,sr:competitor:202795,"Vismane, Daniela",Latvia,LVA,VIS
-965,465,-90,137,6,sr:competitor:43527,"Kumkhum, Luksika",Thailand,THA,KUM
-966,466,30,137,14,sr:competitor:420997,"Bossi, Camilla",Brazil,BRA,BOS
-967,467,4,136,3,sr:competitor:595220,"Stakusic, Marina",Canada,CAN,STA
-968,468,4,136,9,sr:competitor:431743,"Okutoyi, Angella",Kenya,KEN,OKU
-969,469,5,136,19,sr:competitor:360054,"Allen, Kolie",USA,USA,ALL
-970,470,6,135,15,sr:competitor:766176,"Di Girolami, Tilwith",Belgium,BEL,DI
-971,471,-8,135,16,sr:competitor:389048,"Weckerle, Marie",Luxembourg,LUX,WEC
-972,472,43,134,13,sr:competitor:72860,"Kim, Na Ri",Republic of Korea,KOR,KIM
-973,473,22,134,13,sr:competitor:378226,"Crawley, Fiona",USA,USA,CRA
-974,474,3,134,17,sr:competitor:827398,"Stankovic, Anja",Serbia,SRB,STA
-975,475,3,132,3,sr:competitor:71034,"Sramkova, Rebecca",Slovakia,SVK,SRA
-976,476,3,132,9,sr:competitor:112957,"Jeanjean, Leolia",France,FRA,JEA
-977,477,47,132,8,sr:competitor:421379,"Rencheli, Abigail",USA,USA,REN
-978,478,47,132,14,sr:competitor:18731,"Paszek, Tamira",Austria,AUT,PAS
-979,479,2,132,23,sr:competitor:568103,"Tran, Demi",Netherlands,NLD,TRA
-980,480,2,131,2,sr:competitor:19704,"Martic, Petra",Croatia,HRV,MAR
-981,481,26,131,10,sr:competitor:750331,"Iliev, Sarah",France,FRA,ILI
-982,482,-13,131,17,sr:competitor:522848,"Rocchetti, Sofia",Italy,ITA,ROC
-983,483,3,131,17,sr:competitor:154744,"Lee, Eunhye (2000)",Republic of Korea,KOR,LEE
-984,484,3,131,20,sr:competitor:857871,"de Stefano, Samira",Italy,ITA,DE
-985,485,6,130,6,sr:competitor:343160,"Volynets, Katie",USA,USA,VOL
-986,486,2,130,16,sr:competitor:784898,"Giovannini, Luisina",Argentina,ARG,GIO
-987,487,-4,130,10,sr:competitor:106341,"Knutson, Gabriela",Czechia,CZE,KNU
-988,488,1,130,13,sr:competitor:932867,"Firman, Anastasiia",Ukraine,UKR,FIR
-989,489,-19,130,19,sr:competitor:265743,"Burdina, Evgeniya",Neutral,,BUR
-990,490,2,129,10,sr:competitor:784280,"Prozorova, Tatiana",Neutral,,PRO
-991,491,-80,129,12,sr:competitor:831284,"Kuramochi, Miho",Japan,JPN,KUR
-992,492,-64,128,10,sr:competitor:213140,"Lene, Emma",France,FRA,LEN
-993,493,0,128,13,sr:competitor:840734,"Walker, Brandy",USA,USA,WAL
-994,494,3,126,14,sr:competitor:511932,"Kovaleva, Anastasia",Neutral,,KOV
-995,495,77,126,14,sr:competitor:460837,"Tjen, Janice",Indonesia,IDN,TJE
-996,496,4,125,3,sr:competitor:71730,"Kulikov, Angela",USA,USA,KUL
-997,497,-22,125,5,sr:competitor:47969,"Werner, Caroline",Germany,DEU,WER
-998,498,3,125,12,sr:competitor:262701,"Hodzic, Mina",Germany,DEU,HOD
-999,499,32,125,14,sr:competitor:410299,"Cherubini, Diletta",Italy,ITA,CHE
-1000,500,49,125,16,sr:competitor:720627,"Senic, Natalija",Serbia,SRB,SEN
+rank_id,ranks,movement,points,competitions_played,competitor_id,competitor_name,country
+1,1,0,9350,22,sr:competitor:49363,"Pavic, Mate",Croatia
+2,1,0,9350,22,sr:competitor:51836,"Arevalo-Gonzalez, Marcelo",El Salvador
+3,3,0,7590,25,sr:competitor:14898,"Heliovaara, Harri",Finland
+4,4,0,7590,26,sr:competitor:637970,"Patten, Henry",Great Britain
+5,5,0,6460,20,sr:competitor:87690,"Thompson, Jordan",Australia
+6,6,2,5910,20,sr:competitor:36593,"Krawietz, Kevin",Germany
+7,7,2,5820,19,sr:competitor:52293,"Putz, Tim",Germany
+8,8,-2,5760,22,sr:competitor:95801,"Vavassori, Andrea",Italy
+9,9,-2,5700,20,sr:competitor:15310,"Bolelli, Simone",Italy
+10,10,0,5035,16,sr:competitor:15568,"Granollers, Marcel",Spain
+11,11,0,5035,19,sr:competitor:16160,"Zeballos, Horacio",Argentina
+12,12,0,4710,13,sr:competitor:124658,"Purcell, Max",Australia
+13,13,0,4610,24,sr:competitor:16608,"Mektic, Nikola",Croatia
+14,14,0,4460,34,sr:competitor:59131,"Glasspool, Lloyd",Great Britain
+15,15,0,4325,33,sr:competitor:108099,"Cash, Julian",Great Britain
+16,16,0,4180,27,sr:competitor:16151,"Venus, Michael",New Zealand
+17,17,0,3820,26,sr:competitor:53785,"Skupski, Neal",Great Britain
+18,18,2,2960,26,sr:competitor:210736,"Lammons, Nathaniel",USA
+19,19,2,2960,34,sr:competitor:55989,"Withrow, Jackson",USA
+20,20,2,2910,31,sr:competitor:47834,"Murray, Jamie",Great Britain
+21,21,-3,2865,24,sr:competitor:38181,"Molteni, Andres",Argentina
+22,22,11,2730,22,sr:competitor:74173,"Salisbury, Joe",Great Britain
+23,23,0,2703,36,sr:competitor:23899,"King, Evan",USA
+24,24,-5,2640,19,sr:competitor:15548,"Gonzalez, Maximo",Argentina
+25,25,0,2570,36,sr:competitor:52065,"Harrison, Christian",USA
+26,26,2,2565,30,sr:competitor:56629,"Peers, John",Australia
+27,27,2,2560,26,sr:competitor:14553,"Ram, Rajeev",USA
+28,28,2,2500,34,sr:competitor:206889,"Galloway, Robert",USA
+29,29,12,2490,26,sr:competitor:70348,"Goransson, Andre",Sweden
+30,30,-3,2415,29,sr:competitor:106349,"Reboul, Fabien",France
+31,31,0,2407,26,sr:competitor:76263,"Matos, Rafael",Brazil
+32,32,12,2400,26,sr:competitor:230186,"Verbeek, Sem",Netherlands
+33,33,-9,2400,27,sr:competitor:52202,"Nys, Hugo",Monaco
+34,34,-8,2370,27,sr:competitor:22967,"Bhambri, Yuki",India
+35,35,-1,2340,26,sr:competitor:14835,"Roger-Vasselin, Edouard",France
+36,36,-4,2340,27,sr:competitor:112805,"Zielinski, Jan",Poland
+37,37,-2,2280,27,sr:competitor:59324,"Pavlasek, Adam",Czechia
+38,38,1,2270,22,sr:competitor:15307,"Bopanna, Rohan",India
+39,39,-3,2256,24,sr:competitor:121182,"Guinard, Manuel",France
+40,40,8,2256,32,sr:competitor:62410,"Johnson, Luke",Great Britain
+41,41,9,2210,31,sr:competitor:66864,"Arends, Sander",Netherlands
+42,42,-4,2195,22,sr:competitor:16409,"Ebden, Matthew",Australia
+43,43,-6,2115,35,sr:competitor:106559,"Doumbia, Sadio",France
+44,44,-4,2096,28,sr:competitor:45105,"Behar, Ariel",Uruguay
+45,45,2,2040,28,sr:competitor:81059,"Gille, Sander",Belgium
+46,46,-1,1994,34,sr:competitor:114831,"Erler, Alexander",Austria
+47,47,-5,1985,25,sr:competitor:16124,"Melo, Marcelo",Brazil
+48,48,-5,1976,28,sr:competitor:41475,"Arneodo, Romain",Monaco
+49,49,2,1935,36,sr:competitor:231188,"Frantzen, Constantin",Germany
+50,50,-4,1870,10,sr:competitor:203681,"Korda, Sebastian",USA
+51,51,-2,1805,32,sr:competitor:15305,"Gonzalez, Santiago",Mexico
+52,52,0,1780,31,sr:competitor:108755,"Jebens, Hendrik",Germany
+53,53,2,1760,33,sr:competitor:47295,"Andreozzi, Guido",Argentina
+54,54,3,1640,32,sr:competitor:127646,"Cabral, Francisco",Portugal
+55,55,-1,1635,26,sr:competitor:16275,"Dodig, Ivan",Croatia
+56,56,0,1620,32,sr:competitor:78793,"Miedler, Lucas",Austria
+57,57,2,1575,29,sr:competitor:104917,"Vliegen, Joran",Belgium
+58,58,0,1570,41,sr:competitor:231090,"Arribage, Theo",France
+59,59,9,1560,41,sr:competitor:112969,"Schnaitter, Jakob",Germany
+60,59,9,1560,41,sr:competitor:936355,"Wallner, Mark",Germany
+61,61,-8,1555,24,sr:competitor:47966,"Olivetti, Albano",France
+62,62,0,1497,37,sr:competitor:16823,"Romboli, Fernando",Brazil
+63,63,-2,1495,29,sr:competitor:81763,"Jacq, Gregoire",France
+64,64,-1,1483,32,sr:competitor:52244,"Balaji, N. Sriram",India
+65,65,-5,1477,26,sr:competitor:69362,"Mansouri, Skander",Tunisia
+66,66,-2,1460,24,sr:competitor:17038,"Smith, John-Patrick",Australia
+67,67,-1,1433,37,sr:competitor:111195,"Luz, Orlando",Brazil
+68,68,-3,1410,28,sr:competitor:15588,"Rojer, Jean-Julien",Netherlands
+69,69,1,1380,30,sr:competitor:152900,"Rikl, Patrik",Czechia
+70,70,-3,1372,34,sr:competitor:48646,"Barrientos, Nicolas",Colombia
+71,71,0,1350,29,sr:competitor:49306,"Reyes-Varela, Miguel",Mexico
+72,72,0,1312,31,sr:competitor:204781,"Nouza, Petr",Czechia
+73,73,1,1260,25,sr:competitor:25189,"Krajicek, Austin",USA
+74,74,1,1225,28,sr:competitor:52263,"Hidalgo, Diego",Ecuador
+75,75,1,1189,27,sr:competitor:838776,"Tracy, James",USA
+76,76,-3,1169,30,sr:competitor:918463,"Bollipalli, Rithvik Choudary",India
+77,77,7,1168,33,sr:competitor:223868,"Matuszewski, Piotr",Poland
+78,78,3,1146,38,sr:competitor:147104,"Romios, Matthew Christopher",Australia
+79,79,-2,1145,23,sr:competitor:16198,"Escobar, Gonzalo",Ecuador
+80,80,-2,1141,30,sr:competitor:16042,"Haase, Robin",Netherlands
+81,81,-1,1120,15,sr:competitor:63438,"McDonald, Mackenzie",USA
+82,82,0,1095,12,sr:competitor:871495,"Michelsen, Alex",USA
+83,83,0,1095,33,sr:competitor:287215,"Seggerman, Ryan",USA
+84,84,6,1078,37,sr:competitor:98413,"Drzewiecki, Karol",Poland
+85,85,0,1058,20,sr:competitor:393598,"Cash, Robert",USA
+86,86,1,1035,30,sr:competitor:52951,"Pel, David",Netherlands
+87,87,12,1000,23,sr:competitor:77223,"Martinez, Pedro",Spain
+88,88,3,955,28,sr:competitor:243522,"Paul, Jakub",Switzerland
+89,89,-1,942,29,sr:competitor:16043,"Middelkoop, Matwe",Netherlands
+90,90,2,913,28,sr:competitor:234124,"Stevens, Bart",Netherlands
+91,91,-5,906,23,sr:competitor:104421,"Mies, Andreas",Germany
+92,92,-13,900,12,sr:competitor:300540,"Machac, Tomas",Czechia
+93,93,8,900,14,sr:competitor:808628,"Shelton, Ben",USA
+94,94,-1,872,35,sr:competitor:1020797,"Trhac, Patrik",USA
+95,95,0,867,24,sr:competitor:16573,"Demoliner, Marcelo",Brazil
+96,96,8,847,35,sr:competitor:16992,"Willis, Marcus",Great Britain
+97,97,13,829,31,sr:competitor:450383,"Harper, Cleeve",Canada
+98,98,30,820,10,sr:competitor:126356,"Munar, Jaume",Spain
+99,99,-3,810,8,sr:competitor:125006,"Borges, Nuno",Portugal
+100,100,8,809,31,sr:competitor:60920,"Nedunchezhiyan, Jeevan",India
+101,101,1,807,20,sr:competitor:76361,"Kadhe, Arjun",India
+102,102,20,806,32,sr:competitor:25021,"Cervantes, Inigo",Spain
+103,103,2,797,35,sr:competitor:73572,"Zormann, Marcelo",Brazil
+104,104,5,795,31,sr:competitor:53759,"Prashanth, N. Vijay Sundar",India
+105,105,-11,793,25,sr:competitor:197678,"Tsitsipas, Petros",Greece
+106,106,0,793,25,sr:competitor:305776,"Soto, Matias",Chile
+107,107,-10,787,36,sr:competitor:209202,"Chandrasekar, Anirudh",India
+108,108,-10,784,38,sr:competitor:77653,"Cornea, Victor",Romania
+109,109,-9,766,19,sr:competitor:25457,"Nedovyesov, Aleksandr",Kazakhstan
+110,110,-3,766,36,sr:competitor:121032,"Stalder, Reese",USA
+111,111,-22,765,9,sr:competitor:75813,"Zhang, Zhizhen",China
+112,112,4,760,40,sr:competitor:256001,"Ho, Ray",Chinese Taipei
+113,113,-2,757,31,sr:competitor:234044,"Kirkov, Vasil",USA
+114,114,1,754,34,sr:competitor:50037,"Bortolotti, Marco",Italy
+115,115,-3,744,30,sr:competitor:296270,"Stevenson, David",Great Britain
+116,116,-3,743,33,sr:competitor:16854,"Molchanov, Denys",Ukraine
+117,117,9,725,24,sr:competitor:263917,"Draxl, Liam",Canada
+118,118,-4,711,34,sr:competitor:95923,"Paris, Joshua",Great Britain
+119,119,4,701,31,sr:competitor:240880,"Hilderbrand, Trey",USA
+120,120,-17,696,34,sr:competitor:157396,"Veldheer, Mick",Netherlands
+121,121,-4,690,14,sr:competitor:102151,"Tabilo, Alejandro",Chile
+122,122,3,675,27,sr:competitor:548169,"Yuzuki, Takeru",Japan
+123,123,-4,674,24,sr:competitor:141882,"Blancaneaux, Geoffrey",France
+124,124,0,664,30,sr:competitor:16492,"Eysseric, Jonathan",France
+125,125,-7,662,16,sr:competitor:299130,"Hijikata, Rinky",Australia
+126,126,7,658,35,sr:competitor:113889,"Liutarevich, Ivan",Neutral
+127,127,-6,657,21,sr:competitor:146040,"Gomez, Federico Agustin",Argentina
+128,128,-1,648,13,sr:competitor:39712,"Saville, Luke",Australia
+129,129,1,630,11,sr:competitor:163480,"Bublik, Alexander",Kazakhstan
+130,130,1,630,19,sr:competitor:534043,"Darderi, Luciano",Italy
+131,131,-11,629,38,sr:competitor:52260,"Vega, David",Spain
+132,132,2,606,11,sr:competitor:35766,"Begemann, Andre",Germany
+133,133,-4,595,31,sr:competitor:111607,"Ingildsen, Johannes",Denmark
+134,134,3,591,18,sr:competitor:100069,"Sachko, Vitaliy",Ukraine
+135,135,3,590,35,sr:competitor:297502,"Bayldon, Blake",Australia
+136,136,3,589,27,sr:competitor:124708,"Cukierman, Daniel",Israel
+137,137,-5,587,37,sr:competitor:77011,"Martos Gornes, Sergio",Spain
+138,138,6,581,30,sr:competitor:42151,"Nam, Ji Sung",Republic of Korea
+139,139,10,572,28,sr:competitor:58877,"Ramanathan, Ramkumar",India
+140,140,20,570,33,sr:competitor:92845,"Goldhoff, George",USA
+141,141,7,569,31,sr:competitor:390480,"Watanabe, Seita",Japan
+142,142,10,566,33,sr:competitor:145008,"Uesugi, Kaito",Japan
+143,143,-7,564,23,sr:competitor:78387,"Hach Verdugo, Hans",Mexico
+144,144,-3,562,26,sr:competitor:119150,"Fancutt, Thomas",Australia
+145,145,-3,560,12,sr:competitor:392066,"Navone, Mariano",Argentina
+146,146,-1,551,29,sr:competitor:72420,"Merino, Alexander",Peru
+147,147,-1,551,30,sr:competitor:55745,"Negritu, Christoph",Germany
+148,148,-8,551,34,sr:competitor:25458,"Martinez, Luis David",Venezuela
+149,149,-2,548,22,sr:competitor:280601,"Oberleitner, Neil",Austria
+150,150,4,546,25,sr:competitor:113221,"Niklas-Salminen, Patrik",Finland
+151,151,-1,545,6,sr:competitor:128552,"Popyrin, Alexei",Australia
+152,152,1,540,10,sr:competitor:90080,"Khachanov, Karen",Neutral
+153,153,-10,537,39,sr:competitor:112061,"Walkow, Szymon",Poland
+154,154,3,534,38,sr:competitor:98981,"Jecan, Alexandru",Romania
+155,155,1,527,27,sr:competitor:44637,"Rodriguez, Cristian",Colombia
+156,156,2,527,30,sr:competitor:58989,"Sabanov, Matej",Serbia
+157,157,-22,526,34,sr:competitor:145936,"Kaliyanda Poonacha, Niki",India
+158,158,1,520,5,sr:competitor:102339,"Van de Zandschulp, Botic",Netherlands
+159,159,2,515,31,sr:competitor:110707,"Pichler, David",Austria
+160,160,3,515,34,sr:competitor:297448,"Kiger, Mac",USA
+161,161,1,510,14,sr:competitor:122368,"Griekspoor, Tallon",Netherlands
+162,162,-7,507,26,sr:competitor:380004,"Harper, Patrick",Australia
+163,163,1,506,20,sr:competitor:216502,"Broom, Charles",Great Britain
+164,164,1,504,21,sr:competitor:119140,"Ellis, Blake",Australia
+165,165,9,504,33,sr:competitor:263865,"Reynolds, Finn",New Zealand
+166,166,33,503,17,sr:competitor:250231,"Shimizu, Yuta",Japan
+167,167,-1,501,28,sr:competitor:628218,"Karol, Milos",Slovakia
+168,168,-1,500,5,sr:competitor:44553,"Herbert, Pierre-Hugues",France
+169,169,-1,496,10,sr:competitor:108767,"Hassan, Benjamin",Lebanon
+170,170,-1,495,9,sr:competitor:122366,"Tsitsipas, Stefanos",Greece
+171,171,2,495,25,sr:competitor:59700,"Isaro, Pruchya",Thailand
+172,172,-1,486,23,sr:competitor:195458,"Added, Dan",France
+173,173,-1,479,13,sr:competitor:448357,"Spizzirri, Eliot",USA
+174,174,3,466,14,sr:competitor:405977,"Schoolkate, Tristan",Australia
+175,175,1,464,20,sr:competitor:204495,"Vocel, Matej",Czechia
+176,176,2,461,13,sr:competitor:15809,"Martin, Fabrice",France
+177,177,2,452,37,sr:competitor:155860,"Lock, Courtney John",Zimbabwe
+178,178,-3,447,37,sr:competitor:422955,"Sanchez, Luca",France
+179,179,1,446,15,sr:competitor:295508,"Vrbensky, Michael",Czechia
+180,180,1,446,32,sr:competitor:106395,"Ricca, Giorgio",Italy
+181,181,1,443,24,sr:competitor:99377,"Kestelboim, Mariano",Argentina
+182,182,-12,441,33,sr:competitor:84671,"Britto, Luis",Brazil
+183,183,2,435,35,sr:competitor:37637,"Zeballos, Federico",Bolivia
+184,183,2,435,35,sr:competitor:54609,"Arias, Boris",Bolivia
+185,185,45,434,18,sr:competitor:251091,"Noguchi, Rio",Japan
+186,186,12,425,12,sr:competitor:227358,"Walton, Adam",Australia
+187,187,-4,425,16,sr:competitor:530317,"Rincon, Daniel",Spain
+188,188,3,424,30,sr:competitor:99043,"Wang, Aoran",China
+189,189,-5,421,6,sr:competitor:94485,"Bonzi, Benjamin",France
+190,190,-39,420,26,sr:competitor:69910,"Bergevi, Filip",Sweden
+191,191,-4,411,23,sr:competitor:82579,"Uchida, Kaichi",Japan
+192,192,-4,409,23,sr:competitor:396126,"Barnat, Jiri",Czechia
+193,193,2,407,25,sr:competitor:221556,"Alves, Mateus",Brazil
+194,194,-5,407,34,sr:competitor:289021,"Charlton, Joshua",Australia
+195,195,-5,405,9,sr:competitor:671637,"Fils, Arthur",France
+196,196,-4,398,22,sr:competitor:96859,"Lock, Benjamin",Zimbabwe
+197,197,-4,398,30,sr:competitor:310972,"Banthia, Siddhant",India
+198,198,-4,397,30,sr:competitor:55293,"Sabanov, Ivan",Serbia
+199,199,-3,383,21,sr:competitor:218344,"Lawson, Alex",USA
+200,200,-3,381,13,sr:competitor:43319,"Duran, Guillermo",Argentina
+201,201,-1,374,33,sr:competitor:163538,"Donski, Alexander",Bulgaria
+202,202,-1,372,14,sr:competitor:64920,"Myneni, Saketh",India
+203,203,1,360,5,sr:competitor:352776,"Draper, Jack",Great Britain
+204,204,1,360,6,sr:competitor:89632,"Jarry, Nicolas",Chile
+205,205,1,360,18,sr:competitor:169496,"Etcheverry, Tomas Martin",Argentina
+206,206,1,356,24,sr:competitor:163540,"Hermans, Mats",Netherlands
+207,207,7,354,37,sr:competitor:880089,"Pereira, Tiago",Portugal
+208,208,0,353,11,sr:competitor:342826,"Trotter, James Kent",Japan
+209,209,0,353,34,sr:competitor:853643,"Romano, Filippo",Italy
+210,210,-7,349,11,sr:competitor:49417,"Tu, Li",Australia
+211,211,-1,349,24,sr:competitor:50148,"Puttergill, Calum",Australia
+212,212,-1,343,26,sr:competitor:233144,"Duda, Filip",Czechia
+213,213,0,341,25,sr:competitor:723013,"Pokorny, Lukas",Slovakia
+214,214,1,331,24,sr:competitor:163438,"Sun, Fajing",China
+215,215,1,330,2,sr:competitor:339377,"Lehecka, Jiri",Czechia
+216,216,2,329,32,sr:competitor:348308,"Sheehy, Joshua",USA
+217,217,-15,322,22,sr:competitor:85877,"Villanueva, Gonzalo",Argentina
+218,218,4,322,22,sr:competitor:161868,"Huertas Del Pino, Connor",Peru
+219,219,4,320,23,sr:competitor:15275,"Matsui, Toshihide",Japan
+220,220,11,320,30,sr:competitor:120956,"Alcantara, Francis Casey",Philippines
+221,221,12,317,10,sr:competitor:132558,"Kolar, Zdenek",Czechia
+222,222,-10,316,30,sr:competitor:161448,"Jones, Ben",Great Britain
+223,223,2,315,7,sr:competitor:124930,"Safiullin, Roman",Neutral
+224,224,3,315,11,sr:competitor:257721,"Baez, Sebastian",Argentina
+225,225,1,315,11,sr:competitor:399637,"Cobolli, Flavio",Italy
+226,226,2,315,16,sr:competitor:255595,"Cerundolo, Francisco",Argentina
+227,227,-3,314,32,sr:competitor:395828,"Saraiva Dos Santos, Paulo Andre",Brazil
+228,228,-7,307,26,sr:competitor:79223,"Delaney, Jake",Australia
+229,229,11,303,8,sr:competitor:496346,"Stricker, Dominic",Switzerland
+230,230,2,303,15,sr:competitor:38180,"Mena, Facundo",Argentina
+231,231,-12,302,8,sr:competitor:539343,"Kym, Jerome",Switzerland
+232,232,2,300,3,sr:competitor:136042,"Fritz, Taylor",USA
+233,233,2,298,14,sr:competitor:428657,"Shelbayh, Abdullah",Jordan
+234,234,2,298,28,sr:competitor:77501,"Wehnelt, Kai",Germany
+235,235,3,296,9,sr:competitor:212004,"Rodionov, Jurij",Austria
+236,236,21,296,13,sr:competitor:373852,"Zink, Tyler",USA
+237,237,2,296,17,sr:competitor:284801,"Boyer, Tristan",USA
+238,238,-9,295,25,sr:competitor:169492,"Aboian, Leonardo",Argentina
+239,239,2,294,21,sr:competitor:214824,"Aguilar, Juan Carlos",Canada
+240,240,-20,294,24,sr:competitor:193930,"Sigouin, Benjamin",Canada
+241,241,37,294,27,sr:competitor:739643,"Loof, Thijmen",Netherlands
+242,242,19,290,23,sr:competitor:973963,"Watt, James",New Zealand
+243,243,21,285,33,sr:competitor:208123,"Maginley, Jody",Antigua and Barbuda
+244,244,0,282,11,sr:competitor:284805,"Nava, Emilio",USA
+245,245,-8,282,33,sr:competitor:96629,"Duncan, Scott",Great Britain
+246,246,-1,281,23,sr:competitor:552469,"Agafonov, Egor",Neutral
+247,247,41,278,32,sr:competitor:154490,"Pearson, Kody",Australia
+248,248,-2,278,33,sr:competitor:379924,"Whiting, Tennyson",USA
+249,249,-7,277,26,sr:competitor:498580,"Aboian, Valerio",Argentina
+250,250,-3,277,32,sr:competitor:154740,"Delaney, Jesse",Australia
+251,251,-3,275,6,sr:competitor:294300,"Nakashima, Brandon",USA
+252,252,-3,275,19,sr:competitor:145108,"Bertola, Remy",Switzerland
+253,253,-3,274,30,sr:competitor:308834,"Schachter, Noah",USA
+254,254,-3,273,22,sr:competitor:180104,"Reymond, Arthur",France
+255,255,12,272,31,sr:competitor:412829,"Matsuda, Ryuki",Japan
+256,256,-3,272,41,sr:competitor:51304,"Stevenson, Kelsey",Canada
+257,257,-3,270,5,sr:competitor:206879,"Eubanks, Christopher",USA
+258,258,-3,270,7,sr:competitor:57163,"Zverev, Alexander",Germany
+259,259,-3,270,9,sr:competitor:450283,"Mpetshi Perricard, Giovanni",France
+260,260,-8,265,20,sr:competitor:686709,"Simakin, Ilia",Neutral
+261,261,-3,264,22,sr:competitor:927343,"Cadenasso, Gianluca",Italy
+262,262,-3,264,29,sr:competitor:126622,Ruehl. Tim,Germany
+263,263,-3,260,14,sr:competitor:168420,"Andrade, Andres",Ecuador
+264,264,-2,258,28,sr:competitor:48225,"Dutra Da Silva, Daniel",Brazil
+265,265,-2,257,30,sr:competitor:731833,"Kielan, Szymon",Poland
+266,266,-1,256,10,sr:competitor:156664,"TE, Rigele",China
+267,267,-1,256,21,sr:competitor:505542,"Grevelius, Erik",Sweden
+268,268,0,255,3,sr:competitor:145112,"Huesler, Marc-Andrea",Switzerland
+269,269,21,255,9,sr:competitor:682913,"Rocha, Henrique",Portugal
+270,270,49,254,21,sr:competitor:287543,"Hulme, Matt",Australia
+271,271,-2,253,9,sr:competitor:121668,"Meligeni Alves, Felipe",Brazil
+272,272,10,253,17,sr:competitor:220588,"Hsu, Yu Hsiou",Chinese Taipei
+273,273,-3,253,21,sr:competitor:437794,"Heinonen, Adam",Sweden
+274,274,205,252,18,sr:competitor:51100,"Roca Batalla, Oriol",Spain
+275,275,-3,252,20,sr:competitor:53483,"Masur, Daniel",Germany
+276,276,-3,252,23,sr:competitor:614090,"Pieczonka, Filip",Poland
+277,277,-3,250,5,sr:competitor:130398,"Kecmanovic, Miomir",Serbia
+278,278,-3,250,24,sr:competitor:126402,"Denolly, Corentin",France
+279,279,-3,249,13,sr:competitor:79227,"Sinclair, Colin",Northern Mariana Islands
+280,280,-9,248,34,sr:competitor:322589,"Pujol Navarro, Bruno",Spain
+281,281,-4,247,31,sr:competitor:217192,"Ouakaa, Aziz",Tunisia
+282,282,10,244,24,sr:competitor:398360,"Urrea, Andres",Colombia
+283,283,-4,242,10,sr:competitor:130436,"Habib, Hady",Lebanon
+284,284,-41,241,10,sr:competitor:51974,"Daniell, Marcus",New Zealand
+285,285,-5,240,14,sr:competitor:774476,"Debru, Gabriel",France
+286,286,14,236,31,sr:competitor:645442,"Genov, Anthony",Bulgaria
+287,287,-2,236,32,sr:competitor:96535,"Virgili, Augusto",Italy
+288,288,-2,235,29,sr:competitor:452787,"Kumar, Pranav",USA
+289,289,-6,233,22,sr:competitor:60614,"Poljak, David",Czechia
+290,290,-1,232,24,sr:competitor:207777,"Imamura, Masamichi",Japan
+291,291,0,230,21,sr:competitor:645452,"Nesterov, Pyotr",Bulgaria
+292,292,1,228,25,sr:competitor:185434,"Rodriguez Taverna, Santiago",Argentina
+293,293,1,226,16,sr:competitor:378220,"Huertas Del Pino Cordova, Arklon",Peru
+294,294,1,225,4,sr:competitor:47975,"Hanfmann, Yannick",Germany
+295,294,1,225,4,sr:competitor:129368,"Koepfer, Dominik",Germany
+296,296,1,225,7,sr:competitor:15931,"Brown, Dustin",Jamaica
+297,297,-13,223,28,sr:competitor:381022,"Wendelken, Harry",Great Britain
+298,298,1,222,16,sr:competitor:809324,"Pacheco Mendez, Rodrigo",Mexico
+299,299,-1,222,25,sr:competitor:161220,"Pavel, Bogdan",Romania
+300,300,-13,221,34,sr:competitor:154570,"Orlov, Vladyslav",Ukraine
+301,301,0,220,13,sr:competitor:47760,"Weissborn, Tristan-Samuel",Austria
+302,302,0,219,21,sr:competitor:95939,"Whitehouse, Mark",Great Britain
+303,303,0,217,6,sr:competitor:310974,"De Jong, Jesper",Netherlands
+304,304,0,217,10,sr:competitor:145122,"Martineau, Matteo",France
+305,305,0,217,15,sr:competitor:759900,"Lanik, Tomas",Slovakia
+306,306,0,216,22,sr:competitor:84301,"Reese, Hunter",USA
+307,307,18,216,25,sr:competitor:447733,"Hands, Tom",Great Britain
+308,308,0,215,5,sr:competitor:49172,"Dzumhur, Damir",Bosnia & Herzegovina
+309,309,0,214,21,sr:competitor:439474,"Jermar, Jan",Czechia
+310,310,7,214,25,sr:competitor:193912,"Dev, S D Prajwal",India
+311,311,-1,211,9,sr:competitor:113905,"Moreno de Alboran, Nicolas",USA
+312,312,-1,211,28,sr:competitor:407791,"Mackinlay, James",Great Britain
+313,313,-1,211,37,sr:competitor:223788,"Stepanov, Roy",Israel
+314,314,0,208,5,sr:competitor:603098,"Fery, Arthur",Great Britain
+315,315,0,208,22,sr:competitor:121248,"Roveri Sidney, Gabriel",Brazil
+316,316,0,208,23,sr:competitor:244388,"Kalyanpur, Adil",India
+317,317,-10,208,36,sr:competitor:124934,"Lomakin, Grigoriy",Kazakhstan
+318,318,61,205,12,sr:competitor:134602,"Perez, Alfredo",USA
+319,319,-1,204,12,sr:competitor:93597,"Pellegrino, Andrea",Italy
+320,320,0,201,13,sr:competitor:82133,"Dellien, Murkel",Bolivia
+321,321,0,201,27,sr:competitor:220590,"Huang, Tsung-Hao",Chinese Taipei
+322,322,0,200,4,sr:competitor:67154,"Barrere, Gregoire",France
+323,323,0,200,5,sr:competitor:124656,"Vukic, Aleksandar",Australia
+324,324,0,199,12,sr:competitor:686911,"Poljicak, Mili",Croatia
+325,325,1,197,13,sr:competitor:240264,"Reis Da Silva, Joao Lucas",Brazil
+326,326,1,195,31,sr:competitor:272245,"Latinovic, Stefan",Serbia
+327,327,8,194,15,sr:competitor:286367,"Krutykh, Oleksii",Ukraine
+328,328,-15,193,31,sr:competitor:202735,"Carou, Ignacio",Uruguay
+329,329,1,190,5,sr:competitor:14508,"Mahut, Nicolas",France
+330,329,0,190,5,sr:competitor:83397,"Ofner, Sebastian",Austria
+331,331,0,190,31,sr:competitor:458575,"Agostini, Simone",Italy
+332,332,0,188,20,sr:competitor:138712,"Oradini, Giovanni",Italy
+333,333,0,187,17,sr:competitor:303808,"Nijboer, Ryan",Netherlands
+334,334,2,186,18,sr:competitor:976405,"Taguchi, Ryotaro",Japan
+335,335,2,185,13,sr:competitor:457059,"Montes-de la Torre, Inaki",Spain
+336,336,-8,184,14,sr:competitor:305558,"Roncadelli, Franco",Uruguay
+337,337,3,182,20,sr:competitor:750283,"Isomura, Kokoro",Japan
+338,338,3,181,25,sr:competitor:202681,"Marrero Curbelo, Ivan",Spain
+339,339,3,180,1,sr:competitor:112783,"Berrettini, Matteo",Italy
+340,340,3,180,2,sr:competitor:57703,"Pouille, Lucas",France
+341,340,3,180,2,sr:competitor:163504,"Medvedev, Daniil",Neutral
+342,342,3,180,2,sr:competitor:225050,"Sinner, Jannik",Italy
+343,343,-126,180,2,sr:competitor:46391,"Struff, Jan-Lennard",Germany
+344,344,3,180,4,sr:competitor:214182,"de Minaur, Alex",Australia
+345,345,1,180,5,sr:competitor:104847,"Sonego, Lorenzo",Italy
+346,346,2,180,6,sr:competitor:682911,"Faria, Jaime",Portugal
+347,347,2,180,25,sr:competitor:103625,"Geerts, Michael",Belgium
+348,348,2,179,25,sr:competitor:182086,"Bass, Finn",Great Britain
+349,349,2,178,24,sr:competitor:452691,"Araujo, Pedro",Portugal
+350,350,2,178,24,sr:competitor:435758,"Vanshelboim, Eric",Ukraine
+351,351,2,177,13,sr:competitor:49663,"Escoffier, Antoine",France
+352,352,-14,177,20,sr:competitor:196672,"Davis, James",Great Britain
+353,353,1,176,9,sr:competitor:226124,"Holmgren, August",Denmark
+354,354,1,176,25,sr:competitor:130442,"Rai, Ajeet",New Zealand
+355,355,1,175,4,sr:competitor:90798,"Halys, Quentin",France
+356,356,1,175,30,sr:competitor:681071,"Ganta, Sai Karteek Reddy",India
+357,357,1,174,7,sr:competitor:387066,"Forejtek, Jonas",Czechia
+358,358,1,170,9,sr:competitor:515510,"Heide, Gustavo",Brazil
+359,359,1,169,15,sr:competitor:362982,"Barreiros Reyes, Mateo",Brazil
+360,360,-21,169,22,sr:competitor:54903,"Karlovskiy, Evgeny",Neutral
+361,361,2,167,17,sr:competitor:620338,"Sharipov, Marat",Neutral
+362,362,2,165,7,sr:competitor:947875,"Zhou, Yi",China
+363,363,-1,164,12,sr:competitor:205767,"Cretu, Cezar (2001)",Romania
+364,364,1,164,13,sr:competitor:359608,"Maestrelli, Francesco",Italy
+365,365,2,164,25,sr:competitor:16852,"Uzhylovskyi, Volodoymyr",Ukraine
+366,366,-85,163,6,sr:competitor:121122,"Freund, Simon",Sweden
+367,367,1,163,12,sr:competitor:679701,"Gueymard Wayenburg, Sascha",France
+368,368,1,163,21,sr:competitor:873679,"Bondioli, Federico",Italy
+369,369,1,162,5,sr:competitor:80665,"Polmans, Marc",Australia
+370,370,1,162,12,sr:competitor:65606,"Agamenone, Franco",Italy
+371,371,1,161,16,sr:competitor:215778,"Izquierdo Luque, Rafael",Spain
+372,372,-11,160,16,sr:competitor:55787,"Olivo, Renzo",Argentina
+373,373,0,160,17,sr:competitor:312436,"Hudd, Emile",Great Britain
+374,374,0,159,17,sr:competitor:312728,"Stewart, Hamish",Great Britain
+375,375,2,159,19,sr:competitor:111609,"Barroso Campos, Alberto",Spain
+376,376,-1,158,23,sr:competitor:229024,"Zahraj, Patrick",Germany
+377,377,-1,157,11,sr:competitor:286541,"Zhukayev, Beibit",Kazakhstan
+378,378,16,157,19,sr:competitor:118166,"Bakshi, Aleksandre",Georgia
+379,379,-1,156,16,sr:competitor:861549,"Vavassori, Matteo",Italy
+380,380,0,155,20,sr:competitor:116616,"Clarke, Jay",Great Britain
+381,381,49,155,23,sr:competitor:115239,"Kaukovalta, Patrick",Finland
+382,382,0,155,29,sr:competitor:418163,"Perfetti, Noah",Italy
+383,383,0,154,15,sr:competitor:564952,"Kusuhara, Yusuke",Japan
+384,384,-3,154,29,sr:competitor:767058,"Lobanov, Aleksandr",Neutral
+385,385,-1,153,17,sr:competitor:644676,"Milev, Yanaki",Bulgaria
+386,386,-1,153,19,sr:competitor:96239,"Durasovic, Viktor",Norway
+387,387,-1,153,20,sr:competitor:538457,"Chopra, Keshav",USA
+388,388,2,152,20,sr:competitor:252233,"Tang, Sheng",China
+389,389,26,152,20,sr:competitor:138528,"Mejia, Nicolas",Colombia
+390,390,49,151,21,sr:competitor:273883,"Rocha, Francisco",Portugal
+391,391,25,151,21,sr:competitor:256375,"Jeong, Yeongseok",Republic of Korea
+392,392,-5,150,3,sr:competitor:763108,"Mensik, Jakub",Czechia
+393,393,-5,150,5,sr:competitor:185388,"Humbert, Ugo",France
+394,394,-5,150,8,sr:competitor:106755,"Rublev, Andrey",Neutral
+395,395,-4,150,22,sr:competitor:272273,"Mansilla Diez, Mario",Spain
+396,396,-4,149,7,sr:competitor:565070,"Monday, Johannus",Great Britain
+397,397,-4,148,11,sr:competitor:210502,"Kopp, Sandro",Austria
+398,398,-32,148,24,sr:competitor:437734,"Shin, Woobin",Republic of Korea
+399,399,3,148,28,sr:competitor:156826,"van Wyk, Kris",South Africa
+400,400,21,148,48,sr:competitor:759758,"Sakellaridis, Dimitris",Greece
+401,401,3,147,23,sr:competitor:855911,"Hrazdil, Jan",Czechia
+402,402,64,145,18,sr:competitor:165234,"Vasa, Eero",Finland
+403,403,-6,145,21,sr:competitor:385204,"Verbin, Pavel",Neutral
+404,404,-6,145,24,sr:competitor:217038,"Seeman, Johannes",Estonia
+405,405,-6,144,10,sr:competitor:655845,"Quinn, Ethan",USA
+406,406,-6,144,16,sr:competitor:16781,"Sharan, Divij",India
+407,407,-6,144,19,sr:competitor:298118,"Summers, Matthew",Great Britain
+408,408,27,144,28,sr:competitor:246745,"Tajima, Naoki",Japan
+409,409,-6,143,10,sr:competitor:321667,"Mayot, Harold",France
+410,410,-5,142,25,sr:competitor:280559,"Catini, Niccolo",Italy
+411,411,-77,141,9,sr:competitor:17359,"Oswald, Philipp",Austria
+412,412,31,141,13,sr:competitor:406397,"Woodall, William",USA
+413,413,-7,141,21,sr:competitor:785974,"La Serna, Juan Manuel",Argentina
+414,414,-7,141,22,sr:competitor:497320,"Visker, Niels",Netherlands
+415,415,-7,140,4,sr:competitor:405969,"Paulson, Andrew",Czechia
+416,416,-6,140,9,sr:competitor:763106,"Barton, Hynek",Czechia
+417,417,-6,139,10,sr:competitor:52276,"Krueger, Mitchell",USA
+418,418,-6,139,22,sr:competitor:501410,"Hignett, Liam",Great Britain
+419,419,-6,138,17,sr:competitor:345060,"Kingsley, Cannon",USA
+420,420,-6,138,27,sr:competitor:761136,"Basel, Valentin",Argentina
+421,421,2137,137,6,sr:competitor:861511,"Engel, Justin",Germany
+422,422,-5,135,1,sr:competitor:163636,"Klein, Lukas",Slovakia
+423,422,0,135,1,sr:competitor:508498,"Rehberg, Max Hans",Germany
+424,424,-6,135,5,sr:competitor:57021,"Kovalik, Jozef",Slovakia
+425,425,-6,135,9,sr:competitor:54573,"Coria, Federico",Argentina
+426,426,-4,134,12,sr:competitor:74441,"Couacaud, Enzo",France
+427,427,-3,132,5,sr:competitor:503814,"Mochizuki, Shintaro",Japan
+428,428,-3,132,26,sr:competitor:404753,"Saritas, Gokberk",Turkiye
+429,429,-3,131,7,sr:competitor:938667,"Schwaerzler, Joel",Austria
+430,430,-7,131,23,sr:competitor:215696,"Schell, Niklas",Germany
+431,431,-2,130,20,sr:competitor:1025093,"Bianchi, Juan Jose",Venezuela
+432,432,-36,129,18,sr:competitor:269535,"Potenza, Luca",Italy
+433,433,0,128,9,sr:competitor:210526,"Kopriva, Vit",Czechia
+434,434,0,128,15,sr:competitor:524256,"Beckley, Alec",South Africa
+435,435,58,127,11,sr:competitor:622876,"Vallejo, Adolfo Daniel",Paraguay
+436,436,0,127,14,sr:competitor:269523,"Bax, Florent",France
+437,437,105,127,16,sr:competitor:283759,"Chidekh, Clement",France
+438,438,0,127,19,sr:competitor:390486,"Farjat, Tomas",Argentina
+439,439,3,125,11,sr:competitor:177686,"Barranco Cosano, Javier",Spain
+440,440,4,125,15,sr:competitor:186629,"Kirkin, Ergi",Turkiye
+441,441,41,125,18,sr:competitor:920395,"Shah, Aryan",India
+442,442,3,125,22,sr:competitor:675167,"Javia, Dev",India
+443,443,4,124,12,sr:competitor:266711,"Pavlovic, Luka",France
+444,444,5,123,7,sr:competitor:283965,"Suresh, Dhakshineswar",India
+445,445,5,123,20,sr:competitor:342822,"Ichikawa, Taisei",Japan
+446,446,5,123,22,sr:competitor:837590,"Arutiunian, Erik",Belarus
+447,447,5,123,32,sr:competitor:160104,"Vance, Jamie",USA
+448,448,5,122,12,sr:competitor:88992,"Muller, Alexandre",France
+449,449,5,122,12,sr:competitor:682903,"Nakagawa, Shunsuke",Japan
+450,450,5,122,13,sr:competitor:570833,"Rodriguez Rodriguez, Johan Alexander",Colombia
+451,451,5,122,18,sr:competitor:210636,"Poling, Karl",USA
+452,452,5,122,22,sr:competitor:297608,"Hazawa, Shinji",Japan
+453,453,5,122,23,sr:competitor:181384,"Sinha, Nitin Kumar",India
+454,454,5,122,36,sr:competitor:322729,"Bueno Gil, Alvaro",Spain
+455,455,5,121,6,sr:competitor:132834,"Barrios Vera, Marcelo Tomas",Chile
+456,456,-25,121,11,sr:competitor:263857,"De Krom, Michiel",Netherlands
+457,457,30,121,14,sr:competitor:317355,"Somani, Parikshit",India
+458,458,4,121,14,sr:competitor:137890,"Vale, Duarte",Portugal
+459,459,2,121,14,sr:competitor:241710,"Kikuchi, Yuta",Japan
+460,460,3,121,18,sr:competitor:418167,"Garcian, Axel",France
+461,461,4,120,9,sr:competitor:307112,"Erel, Yanki",Turkiye
+462,462,5,120,25,sr:competitor:783794,"Singh, Karan (IND)",India
+463,463,5,119,7,sr:competitor:369572,"Boulais, Justin",Canada
+464,464,5,119,12,sr:competitor:224936,"Nanda, Govind",USA
+465,465,5,119,13,sr:competitor:46259,"Neuchrist, Maximilian",Austria
+466,466,6,118,13,sr:competitor:341218,"Colson, Tibo",Belgium
+467,467,6,118,20,sr:competitor:50901,"Popko, Dmitry",Kazakhstan
+468,468,7,118,20,sr:competitor:294248,"Hellum Lilleengen, Lukas",Norway
+469,469,5,118,20,sr:competitor:389078,"Lalami Laaroussi, Younes",Morocco
+470,470,6,118,21,sr:competitor:76251,"Bobrov, Bogdan",Neutral
+471,471,6,118,25,sr:competitor:256481,"Marques, Diogo",Portugal
+472,472,6,117,15,sr:competitor:194668,"Wenger, Damien",Switzerland
+473,473,7,117,24,sr:competitor:100317,"Turker, Mert Naci",Turkiye
+474,474,-26,116,13,sr:competitor:114885,"Nikles, Johan",Switzerland
+475,475,6,116,13,sr:competitor:684577,"Muller, Rik",Netherlands
+476,476,7,115,2,sr:competitor:997473,"Bernet, Henry",Switzerland
+477,477,-49,115,15,sr:competitor:15743,"Istomin, Denis",Uzbekistan
+478,478,6,114,9,sr:competitor:801374,"Gea, Arthur",France
+479,479,7,114,18,sr:competitor:199196,"Sanchez Izquierdo, Nikolas",Spain
+480,480,-48,113,14,sr:competitor:220932,"Shin, Sanhui",Republic of Korea
+481,481,-17,113,25,sr:competitor:209356,"Moreno, Daniel",Mexico
+482,482,3,112,16,sr:competitor:107483,"Monzon, Ignacio",Argentina
+483,483,5,112,18,sr:competitor:403357,"Thayne, Wally",USA
+484,484,5,112,19,sr:competitor:282183,"Rottoli, Lorenzo",Italy
+485,485,5,112,20,sr:competitor:260947,"Falabella, Lautaro Agustin",Argentina
+486,486,5,112,24,sr:competitor:990785,"Zheng, Zhan",China
+487,487,-41,112,28,sr:competitor:376372,"Perez, Brandon",Venezuela
+488,488,4,111,9,sr:competitor:50360,"Margaroli, Luca",Switzerland
+489,489,5,111,14,sr:competitor:283451,"Rodriguez, Lorenzo Joaquin",Argentina
+490,490,56,111,15,sr:competitor:219398,"Park, Uisung",Republic of Korea
+491,491,10,111,16,sr:competitor:378320,"Story, James",Great Britain
+492,492,3,111,17,sr:competitor:609146,"Okonkwo, Oliver",Great Britain
+493,493,3,110,2,sr:competitor:14882,"Djokovic, Novak",Serbia
+494,494,3,110,4,sr:competitor:39711,"Duckworth, James",Australia
+495,495,-58,110,14,sr:competitor:54975,"Casanova, Hernan",Argentina
+496,496,-25,110,18,sr:competitor:833418,"Del Pino, Mateo",Argentina
+497,497,2,110,21,sr:competitor:170964,"Bittoun Kouzmine, Constantin",France
+498,498,2,109,11,sr:competitor:47767,"Lamasine, Tristan",France
+499,499,3,109,19,sr:competitor:978579,"Ghazouani Durand, Yanis",France
+500,500,5,107,14,sr:competitor:57759,"Oliveira, Gonzalo",Venezuela
+501,1,0,10665,18,sr:competitor:72376,"Siniakova, Katerina",Czechia
+502,2,0,8825,15,sr:competitor:51387,"Townsend, Taylor",USA
+503,3,0,8125,23,sr:competitor:74949,"Routliffe, Erin",New Zealand
+504,4,0,6775,18,sr:competitor:64496,"Ostapenko, Jelena",Latvia
+505,5,0,6385,17,sr:competitor:43860,"Dabrowski, Gabriela",Canada
+506,6,0,5355,15,sr:competitor:19202,"Errani, Sara",Italy
+507,6,0,5355,15,sr:competitor:69208,"Paolini, Jasmine",Italy
+508,8,0,4690,24,sr:competitor:19932,"Muhammad, Asia",USA
+509,9,0,4630,21,sr:competitor:41520,"Kichenok, Lyudmyla",Ukraine
+510,10,1,4523,31,sr:competitor:19607,"Zhang, Shuai",China
+511,11,-1,4521,17,sr:competitor:18936,"Hsieh, Su-Wei",Chinese Taipei
+512,12,1,4338,23,sr:competitor:64021,"Krawczyk, Desirae",USA
+513,13,-1,4246,16,sr:competitor:588071,"Shnaider, Diana",Neutral
+514,14,3,3985,17,sr:competitor:123824,"Dolehide, Caroline",USA
+515,15,1,3968,27,sr:competitor:47810,"Khromacheva, Irina",Neutral
+516,16,-2,3945,25,sr:competitor:48625,"Chan, Hao-Ching",Chinese Taipei
+517,17,1,3913,30,sr:competitor:69718,"Danilina, Anna",Kazakhstan
+518,18,1,3869,13,sr:competitor:871583,"Andreeva, Mirra",Neutral
+519,19,-4,3835,19,sr:competitor:66968,"Kudermetova, Veronika",Neutral
+520,20,0,3820,25,sr:competitor:119670,"Perez, Ellen",Australia
+521,21,0,3726,27,sr:competitor:99131,"Bucsa, Cristina",Spain
+522,22,1,3650,26,sr:competitor:46084,"Melichar-Martinez, Nicole",USA
+523,23,-1,3640,14,sr:competitor:37508,"Siegemund, Laura",Germany
+524,24,2,3351,22,sr:competitor:50537,"Schuurs, Demi",Netherlands
+525,25,0,3296,5,sr:competitor:373352,"Gauff, Coco",USA
+526,26,-2,3265,11,sr:competitor:33593,"Mladenovic, Kristina",France
+527,27,0,3073,28,sr:competitor:24431,"Panova, Alexandra",Neutral
+528,28,0,2785,28,sr:competitor:150122,"Jiang, Xinyu",China
+529,29,0,2779,29,sr:competitor:66432,"Kato, Miyu",Japan
+530,30,0,2767,32,sr:competitor:182178,"Wu, Fang-Hsien",Chinese Taipei
+531,31,0,2676,28,sr:competitor:129714,"Nicholls, Olivia",Great Britain
+532,32,0,2665,16,sr:competitor:78551,"Mertens, Elise",Belgium
+533,33,0,2615,17,sr:competitor:289507,"Fernandez, Leylah Annie",Canada
+534,34,0,2611,27,sr:competitor:142996,"Mihalikova, Tereza",Slovakia
+535,35,3,2543,19,sr:competitor:96075,"Stefani, Luisa",Brazil
+536,36,-1,2534,24,sr:competitor:43102,"Babos, Timea",Hungary
+537,37,-1,2419,23,sr:competitor:18354,"Mattek-Sands, Bethanie",USA
+538,38,-1,2366,19,sr:competitor:91960,"Kenin, Sofia",USA
+539,39,0,2324,28,sr:competitor:166124,"Olmos, Giuliana",Mexico
+540,40,0,2290,10,sr:competitor:60392,"Sorribes Tormo, Sara",Spain
+541,41,0,2255,22,sr:competitor:19655,"Niculescu, Monica",Romania
+542,42,0,2186,24,sr:competitor:51481,"Sutjiadi, Aldila",Indonesia
+543,43,0,2155,16,sr:competitor:272217,"Wang, Xinyu",China
+544,44,1,2053,28,sr:competitor:19974,"Xu, Yifan",China
+545,45,3,1994,9,sr:competitor:103901,"Ruse, Elena-Gabriela",Romania
+546,46,0,1976,19,sr:competitor:153652,"Guo, Hanyu",China
+547,47,2,1921,24,sr:competitor:49682,"Kichenok, Nadiia",Ukraine
+548,48,-4,1907,8,sr:competitor:60398,"Krejcikova, Barbora",Czechia
+549,49,2,1889,31,sr:competitor:70784,"Hozumi, Eri",Japan
+550,50,0,1875,26,sr:competitor:19731,"Piter, Katarzyna",Poland
+551,51,1,1863,22,sr:competitor:157672,"Stollar, Fanny",Hungary
+552,52,1,1827,15,sr:competitor:47697,"Zheng, Saisai",China
+553,53,3,1811,14,sr:competitor:128584,"Samsonova, Liudmila",Neutral
+554,54,0,1776,11,sr:competitor:59702,"Haddad Maia, Beatriz",Brazil
+555,55,0,1752,29,sr:competitor:43547,"Aoyama, Shuko",Japan
+556,56,1,1711,7,sr:competitor:278887,"Kostyuk, Marta",Ukraine
+557,57,-10,1692,28,sr:competitor:47801,"Eikeri, Ulrikke",Norway
+558,58,0,1618,15,sr:competitor:138452,"Shibahara, Ena",Japan
+559,59,0,1606,27,sr:competitor:61606,"Sizikova, Yana",Neutral
+560,60,0,1568,33,sr:competitor:60668,"Ninomiya, Makoto",Japan
+561,61,0,1556,11,sr:competitor:44834,"Pegula, Jessica",USA
+562,62,12,1449,15,sr:competitor:67759,"Alexandrova, Ekaterina",Neutral
+563,63,1,1386,11,sr:competitor:41877,"Yuan, Yue",China
+564,64,-2,1340,16,sr:competitor:53789,"Dart, Harriet",Great Britain
+565,65,1,1292,12,sr:competitor:360038,"Stearns, Peyton",USA
+566,66,1,1290,27,sr:competitor:215476,"Siskova, Anna",Czechia
+567,67,-2,1245,11,sr:competitor:88310,"Sherif Ahmed Abdelaziz, Maiar",Egypt
+568,68,0,1243,30,sr:competitor:52695,"Moratelli, Angelica",Italy
+569,69,10,1236,30,sr:competitor:44977,"Santamaria, Sabrina",USA
+570,70,0,1195,31,sr:competitor:194106,"Tang, Qianhui",China
+571,71,0,1168,13,sr:competitor:252223,"Rakhimova, Kamilla",Neutral
+572,72,10,1163,14,sr:competitor:401055,"Noskova, Linda",Czechia
+573,73,0,1150,8,sr:competitor:45915,"Yang, Zhaoxuan",China
+574,74,-2,1116,29,sr:competitor:37504,"Kalashnikova, Oksana",Georgia
+575,75,-6,1102,30,sr:competitor:69602,"Lumsden, Maia",Great Britain
+576,76,-1,1101,12,sr:competitor:45545,"Putintseva, Yulia",Kazakhstan
+577,77,-14,1092,13,sr:competitor:135854,"Neel, Ingrid",Estonia
+578,78,15,1085,15,sr:competitor:41524,"Krunic, Aleksandra",Serbia
+579,79,-3,1084,15,sr:competitor:105463,"Bouzkova, Marie",Czechia
+580,80,0,1082,28,sr:competitor:173748,"Detiuc, Anastasia",Czechia
+581,81,0,1068,34,sr:competitor:73542,"Gleason, Quinn",USA
+582,82,-5,1063,29,sr:competitor:48451,"Cavalle-Reimers, Yvonne",Spain
+583,83,-5,1013,31,sr:competitor:168526,"Appleton, Emily",Great Britain
+584,84,5,972,21,sr:competitor:108621,"Kempen, Magali",Belgium
+585,85,-2,959,12,sr:competitor:192130,"Blinkova, Anna",Neutral
+586,86,-1,942,34,sr:competitor:121760,"Anshba, Amina",Neutral
+587,87,-1,930,6,sr:competitor:179146,"Kalinskaya, Anna",Neutral
+588,88,-1,923,11,sr:competitor:52025,"Wang, Yafan",China
+589,89,-1,901,29,sr:competitor:71754,"Martins, Ingrid",Brazil
+590,90,0,898,26,sr:competitor:799304,"Pridankina, Elena",Neutral
+591,91,0,871,31,sr:competitor:182054,"Skoch, Miriam",Czechia
+592,92,8,850,29,sr:competitor:51651,"Rosatello, Camilla",Italy
+593,93,-9,842,12,sr:competitor:234150,"Potapova, Anastasia",Neutral
+594,94,-2,827,36,sr:competitor:54175,"Zimmermann, Kimberley",Belgium
+595,95,0,823,13,sr:competitor:42289,"Linette, Magda",Poland
+596,96,0,811,32,sr:competitor:418583,"Haverlag, Isabelle",Netherlands
+597,97,0,804,17,sr:competitor:111189,"Zarazua, Renata",Mexico
+598,98,0,793,9,sr:competitor:318195,"Parry, Diane",France
+599,99,6,789,13,sr:competitor:235260,"Chwalinska, Maja",Poland
+600,100,-1,785,18,sr:competitor:210558,"Jorge, Francisca",Portugal
+601,101,1,773,14,sr:competitor:41404,"Watson, Heather",Great Britain
+602,102,2,753,11,sr:competitor:286435,"Gadecki, Olivia",Australia
+603,103,3,740,19,sr:competitor:453301,"Jorge, Matilde",Portugal
+604,104,3,735,32,sr:competitor:143140,"Aney, Jessie",USA
+605,105,3,734,34,sr:competitor:51943,"Strakhova, Valeriya",Ukraine
+606,106,-3,734,19,sr:competitor:227486,"Zantedeschi, Aurora",Italy
+607,107,-13,733,18,sr:competitor:72450,"Hibino, Nao",Japan
+608,108,4,732,24,sr:competitor:378340,"Corley, Carmen",USA
+609,109,0,730,16,sr:competitor:64085,"Pigossi, Laura",Brazil
+610,110,0,727,24,sr:competitor:215598,"Vedder, Eva",Netherlands
+611,111,3,725,8,sr:competitor:72758,"Cristian, Jaqueline",Romania
+612,112,-1,722,14,sr:competitor:549759,"Krueger, Ashlyn",USA
+613,113,4,693,20,sr:competitor:161270,"Salden, Lara",Belgium
+614,114,1,677,32,sr:competitor:628178,"Brooks, Madeleine",Great Britain
+615,115,-14,672,5,sr:competitor:18298,"Zvonareva, Vera",Neutral
+616,116,0,660,14,sr:competitor:335171,"Uchijima, Moyuka",Japan
+617,117,1,657,16,sr:competitor:345070,"Arseneault, Ariana",Canada
+618,118,1,650,4,sr:competitor:19546,"Pavlyuchenkova, Anastasia",Neutral
+619,119,2,640,12,sr:competitor:262759,"Wang, Xiyu",China
+620,120,2,639,27,sr:competitor:53288,"Silva, Eden",Great Britain
+621,121,2,636,20,sr:competitor:303814,"Tikhonova, Anastasia",Neutral
+622,122,-2,633,22,sr:competitor:87090,"Chong, Eudice","Hong Kong, China"
+623,123,1,626,19,sr:competitor:473609,"Kubka, Martyna",Poland
+624,124,12,620,15,sr:competitor:92879,"Shymanovich, Iryna",Neutral
+625,125,1,615,15,sr:competitor:120666,"Stojanovic, Nina",Serbia
+626,126,1,611,20,sr:competitor:67430,"Cascino, Estelle",France
+627,127,23,609,27,sr:competitor:92877,"Fossa Huergo, Nicole",Italy
+628,128,26,606,11,sr:competitor:227390,"Brancaccio, Nuria",Italy
+629,129,-1,602,28,sr:competitor:46428,"Maleckova, Jesika",Czechia
+630,130,-1,600,13,sr:competitor:150574,"Bondar, Anna",Hungary
+631,131,-1,599,25,sr:competitor:98607,"Chang, Sophie",USA
+632,132,-1,592,15,sr:competitor:297588,"Romero Gormaz, Leyre",Spain
+633,133,0,585,10,sr:competitor:319455,"Baptiste, Hailey",USA
+634,134,-2,585,12,sr:competitor:23158,"Stephens, Sloane",USA
+635,135,-1,584,14,sr:competitor:115507,"Bolsova, Aliona",Spain
+636,136,-11,581,20,sr:competitor:19847,"Rus, Arantxa",Netherlands
+637,137,-24,579,23,sr:competitor:49907,"Murray Sharan, Samantha",Great Britain
+638,138,-3,578,12,sr:competitor:42492,"Kawa, Katarzyna",Poland
+639,139,8,570,19,sr:competitor:256447,"Monnet, Carole",France
+640,140,22,561,28,sr:competitor:189384,"Kulambayeva, Zhibek",Kazakhstan
+641,141,-3,560,2,sr:competitor:228418,"Navarro, Emma",USA
+642,142,-2,557,6,sr:competitor:242602,"McNally, Catherine",USA
+643,143,-2,557,13,sr:competitor:771430,"Naef, Celine",Switzerland
+644,144,-7,557,23,sr:competitor:148276,"Zheng, Wushuang",China
+645,145,-1,550,24,sr:competitor:137990,"Failla, Jessica",USA
+646,146,2,546,24,sr:competitor:99429,"Hule, Petra",Australia
+647,147,-1,542,6,sr:competitor:373354,"Cocciaretto, Elisabetta",Italy
+648,148,-3,539,15,sr:competitor:147506,"Fourlis, Jaimee",Australia
+649,149,3,538,12,sr:competitor:52183,"Bara, Irina Maria",Romania
+650,150,-11,529,28,sr:competitor:61526,"Thombare, Prarthana",India
+651,151,0,529,23,sr:competitor:119216,"Herrero Linana, Alicia",Spain
+652,152,3,515,17,sr:competitor:776340,"Joint, Maya",Australia
+653,153,3,508,20,sr:competitor:137932,"Mikulskyte, Justina",Lithuania
+654,154,5,503,32,sr:competitor:143146,"Smith, Alana",USA
+655,155,-2,498,13,sr:competitor:867519,"Tsao, Chia Yi",Chinese Taipei
+656,156,2,498,31,sr:competitor:448121,"Rogers, Anna",USA
+657,157,6,492,25,sr:competitor:102637,"McAdoo, Rasheeda",USA
+658,158,-9,490,23,sr:competitor:50915,"Plipuech, Peangtarn",Thailand
+659,159,11,489,22,sr:competitor:195408,"Shimizu, Ayano",Japan
+660,160,0,487,12,sr:competitor:256547,"Parks, Alycia",USA
+661,161,16,485,26,sr:competitor:235252,"Kozyreva, Maria",Neutral
+662,162,-5,478,43,sr:competitor:325837,"Sakellaridi, Sapfo",Greece
+663,163,-20,476,14,sr:competitor:118096,"Papadakis, Lena",Germany
+664,164,1,474,29,sr:competitor:45827,"Lechemia, Elixane",France
+665,165,1,474,22,sr:competitor:203893,"Kucmova, Aneta",Czechia
+666,166,9,472,19,sr:competitor:183957,"Kobori, Momoko",Japan
+667,167,1,471,29,sr:competitor:46528,"Perrin, Conny",Switzerland
+668,168,12,470,30,sr:competitor:206995,"Rosca, Christina",USA
+669,169,2,463,15,sr:competitor:448081,"Noha Akugue, Noma",Germany
+670,170,3,459,10,sr:competitor:87834,"Hon, Priscilla",Australia
+671,171,36,458,27,sr:competitor:378144,"Karatancheva, Lia",Bulgaria
+672,172,-3,457,32,sr:competitor:65610,"Wagner, Anita",Bosnia & Herzegovina
+673,173,1,454,7,sr:competitor:287769,"Kessler, McCartney",USA
+674,174,2,451,5,sr:competitor:569013,"Fernandez, Bianca Jolie",Canada
+675,175,-33,444,4,sr:competitor:133662,"Badosa, Paula",Spain
+676,176,3,438,17,sr:competitor:676251,"Wuerth, Tara",Croatia
+677,177,4,437,27,sr:competitor:805538,"Cross, Kayla",Canada
+678,178,17,434,29,sr:competitor:119874,"Ibbou, Ines",Algeria
+679,179,5,432,27,sr:competitor:245673,"Feng, Shuo",China
+680,180,5,428,12,sr:competitor:141892,"Carle, Maria",Argentina
+681,181,5,425,8,sr:competitor:242630,"Osorio, Camila",Colombia
+682,182,5,425,32,sr:competitor:41359,"Yashina, Ekaterina",Neutral
+683,183,-16,424,14,sr:competitor:160190,"Hartono, Arianne",Netherlands
+684,184,-1,423,14,sr:competitor:208125,"Liang, En-Shuo",Chinese Taipei
+685,185,5,423,20,sr:competitor:156040,"Cho, I-Hsuan",Chinese Taipei
+686,185,5,423,20,sr:competitor:210670,"Cho, Yi Tsen",Chinese Taipei
+687,187,5,422,7,sr:competitor:608348,"Kupres, Mia",Canada
+688,188,-10,422,22,sr:competitor:91916,"Grey, Sarah Beth",Great Britain
+689,189,4,421,28,sr:competitor:46650,"Kolb, Nadia",Ukraine
+690,190,-1,420,19,sr:competitor:250285,"Falkowska, Weronika",Poland
+691,191,5,419,21,sr:competitor:170880,"Kononova, Maria",Neutral
+692,192,2,418,26,sr:competitor:97031,"Christofi, Eleni",Greece
+693,193,7,416,24,sr:competitor:353358,"Tran, Lian",Netherlands
+694,194,-33,412,18,sr:competitor:369524,"Erjavec, Veronika",Slovenia
+695,195,-23,411,7,sr:competitor:245295,"Waltert, Simona",Switzerland
+696,196,33,411,25,sr:competitor:152106,"Zaar, Lisa",Sweden
+697,197,-9,410,24,sr:competitor:215806,"Hewitt, Dalayna",USA
+698,198,-1,409,7,sr:competitor:105099,"Birrell, Kimberly",Australia
+699,199,0,403,34,sr:competitor:59762,"Barnett, Alicia",Great Britain
+700,200,1,401,11,sr:competitor:110055,"Bronzetti, Lucia",Italy
+701,201,-19,401,20,sr:competitor:45139,"Papamichail, Despina",Greece
+702,202,-4,400,25,sr:competitor:93657,"Karamoko, Naima",Switzerland
+703,203,-1,400,18,sr:competitor:70728,"Bhosale, Rutuja",India
+704,204,-1,398,26,sr:competitor:64315,"Kuwata, Hiroko",Japan
+705,205,7,398,25,sr:competitor:904005,"Ibragimova, Alevtina",Neutral
+706,206,-2,397,17,sr:competitor:568715,"Semenistaja, Darja",Latvia
+707,207,-1,397,27,sr:competitor:46625,"Raina, Ankita",India
+708,208,-3,396,9,sr:competitor:675189,"Preston, Taylah",Australia
+709,209,1,390,10,sr:competitor:329535,"Tauson, Clara",Denmark
+710,210,1,389,23,sr:competitor:290994,"Wong, Hong Yi Cody","Hong Kong, China"
+711,211,2,387,24,sr:competitor:310984,"Sato, Naho",Japan
+712,212,2,385,20,sr:competitor:414533,"Abbagnato, Anastasia",Italy
+713,213,2,382,30,sr:competitor:244216,"Giavara, Haley",USA
+714,214,-5,380,20,sr:competitor:79443,"Cabrera, Lizette",Australia
+715,215,10,379,21,sr:competitor:48486,"Gorgodze, Ekaterine",Georgia
+716,216,0,377,27,sr:competitor:23688,"Moore, Tara",Great Britain
+717,217,20,375,13,sr:competitor:52489,"Schoofs, Bibiane",Netherlands
+718,218,-1,373,11,sr:competitor:47948,"Rosolska, Alicja",Poland
+719,219,-1,370,17,sr:competitor:153748,"Jones, Makenna",USA
+720,220,-12,368,10,sr:competitor:226306,"Corley, Ivana",USA
+721,221,0,365,10,sr:competitor:789688,"Ngounoue, Clervie",USA
+722,222,-2,363,31,sr:competitor:80427,"Osborne, Alexandra",Australia
+723,223,0,362,17,sr:competitor:190882,"Aiava, Destanee",Australia
+724,224,0,358,21,sr:competitor:67194,"Kolb, Maryna",Ukraine
+725,225,-6,358,17,sr:competitor:505998,"Zamarripa, Maribella",USA
+726,226,0,357,14,sr:competitor:119410,"Krywoj, Melany Solange",Argentina
+727,227,0,355,4,sr:competitor:75825,"Bektas, Emina",USA
+728,228,36,354,17,sr:competitor:406199,"Jacquemot, Elsa",France
+729,229,3,353,26,sr:competitor:448613,"Falkner, Ziva",Slovenia
+730,230,-2,352,9,sr:competitor:41737,"Jang, Su Jeong",Republic of Korea
+731,231,-1,350,6,sr:competitor:49118,"Harrison, Catherine",USA
+732,232,-1,350,21,sr:competitor:496316,"Gimbrere, Jasmijn",Netherlands
+733,233,0,348,16,sr:competitor:731427,"Micic, Elena",Australia
+734,234,21,347,16,sr:competitor:341216,"Charaeva, Alina",Neutral
+735,235,-1,341,12,sr:competitor:26120,"Marino, Rebecca",Canada
+736,236,0,339,33,sr:competitor:88494,"Christie, Freya",Great Britain
+737,237,1,336,16,sr:competitor:82609,"Grammatikopoulou, Valentini",Greece
+738,238,69,334,14,sr:competitor:54397,"Tig, Patricia Maria",Romania
+739,239,19,334,27,sr:competitor:447703,"Sato, Hikaru",Japan
+740,240,1,333,28,sr:competitor:59213,"Perez Garcia, Maria Paulina",Colombia
+741,241,1,331,34,sr:competitor:233478,"Bayerlova, Michaela",Czechia
+742,242,-20,329,17,sr:competitor:51315,"Anderson, Robin",USA
+743,243,1,329,19,sr:competitor:868599,"McDonald, Ella",Great Britain
+744,244,1,327,5,sr:competitor:152804,"Vondrousova, Marketa",Czechia
+745,245,2,322,12,sr:competitor:337813,"Riera, Julia",Argentina
+746,246,19,321,20,sr:competitor:132412,"Fita Boluda, Angela",Spain
+747,247,-1,320,23,sr:competitor:807358,"Rakotomanga Rajaonah, Tiantsoa Sarah",France
+748,248,0,319,20,sr:competitor:282597,"Park, Sohyun",Republic of Korea
+749,249,0,319,22,sr:competitor:870981,"Li, Yu-Yun",Chinese Taipei
+750,250,-7,318,21,sr:competitor:289093,"Belgraver, Julie",France
+751,251,-1,317,19,sr:competitor:432605,"Makarova, Ekaterina",Neutral
+752,252,-1,317,23,sr:competitor:222546,"Kuzmova, Katarina",Slovakia
+753,253,47,315,4,sr:competitor:67757,"Pera, Bernarda",USA
+754,254,-2,315,20,sr:competitor:260987,"Osuigwe, Whitney",USA
+755,255,-2,315,21,sr:competitor:445209,"Xiao, Zhenghua",China
+756,256,-92,314,13,sr:competitor:71284,"Bains, Naiktha",Great Britain
+757,257,-22,313,13,sr:competitor:385206,"Radisic, Nika",Slovenia
+758,258,46,311,13,sr:competitor:63220,"Ponchet, Jessika",France
+759,259,29,311,15,sr:competitor:496378,"Yamazaki, Ikumi",Japan
+760,260,-3,307,6,sr:competitor:172590,"Burrage, Jodie",Great Britain
+761,261,-2,306,21,sr:competitor:517274,"Rajecki, Amelia",Great Britain
+762,262,4,306,24,sr:competitor:181062,"Kung, Leonie",Switzerland
+763,263,8,306,20,sr:competitor:192572,"Portillo Ramirez, Maria Jose",Mexico
+764,264,-4,305,8,sr:competitor:1017327,"Samson, Laura",Czechia
+765,265,-3,303,16,sr:competitor:73500,"Loeb, Jamie",USA
+766,266,-3,303,13,sr:competitor:416473,"Reyngold, Ekaterina",Neutral
+767,267,0,300,14,sr:competitor:763112,"Struplova, Julie",Czechia
+768,268,0,299,33,sr:competitor:315663,"Barry, Monique",New Zealand
+769,269,0,299,23,sr:competitor:60028,"Zeballos Melgar, Noelia",Bolivia
+770,270,33,298,25,sr:competitor:70970,"Bhatia, Riya",India
+771,271,-1,298,26,sr:competitor:731441,"Vargova, Nina",Slovakia
+772,272,0,293,15,sr:competitor:49963,"Omae, Akiko",Japan
+773,273,14,292,15,sr:competitor:234398,"Nahimana, Sada",Burundi
+774,274,-1,292,18,sr:competitor:198498,"Hutchinson, Holly",Great Britain
+775,275,-1,290,6,sr:competitor:90664,"Kalinina, Anhelina",Ukraine
+776,276,0,290,22,sr:competitor:70822,"Morisaki, Kanako",Japan
+777,277,-16,289,28,sr:competitor:47985,"Marcinkevica, Diana",Latvia
+778,278,-1,287,19,sr:competitor:842594,"Li, Zongyu",China
+779,279,31,286,16,sr:competitor:194690,"Mateas, Maria",USA
+780,280,-2,286,21,sr:competitor:673491,"Szabo, Briana",Romania
+781,281,-2,286,19,sr:competitor:265553,"Naito, Yuki",Japan
+782,282,-2,286,26,sr:competitor:409673,"Zelnickova, Radka",Slovakia
+783,283,-2,284,6,sr:competitor:18588,"Safarova, Lucie",Czechia
+784,284,-2,284,20,sr:competitor:104929,"Tona, Miriana",Italy
+785,285,-2,283,11,sr:competitor:41374,"Tomova, Viktoriya",Bulgaria
+786,286,-30,283,18,sr:competitor:52533,"Jakupovic, Dalila",Slovenia
+787,287,2,283,18,sr:competitor:283489,"Imamura, Saki",Japan
+788,288,-4,281,28,sr:competitor:59662,"Sanchez, Ana Sofia",Mexico
+789,289,-4,280,7,sr:competitor:202363,"Sun, Lulu",New Zealand
+790,290,-4,280,27,sr:competitor:78785,"Rodriguez, Victoria",Mexico
+791,291,-16,277,17,sr:competitor:499098,"Ito, Aoi",Japan
+792,292,-2,272,4,sr:competitor:845268,"Korneeva, Alina",Neutral
+793,293,-2,272,21,sr:competitor:343066,"Hosogi, Sakura",Japan
+794,294,-2,271,10,sr:competitor:534045,"Gibson, Talia",Australia
+795,295,-2,269,12,sr:competitor:812502,"Xu, Mingge",Great Britain
+796,296,61,269,19,sr:competitor:380368,"Sebestova, Ivana",Czechia
+797,297,117,268,6,sr:competitor:192108,"Yastremska, Dayana",Ukraine
+798,298,-4,266,16,sr:competitor:355958,"Visscher, Stephanie Judith",Netherlands
+799,299,-4,264,22,sr:competitor:343294,"Kubanova, Karolina",Czechia
+800,300,-2,262,23,sr:competitor:282057,"Guo, Meiqi",China
+801,301,-2,262,23,sr:competitor:510530,"Abe, Hiromi",Japan
+802,302,-1,261,25,sr:competitor:63238,"Morderger, Yana",Germany
+803,303,-1,260,3,sr:competitor:62924,"Boulter, Katie",Great Britain
+804,304,-64,258,6,sr:competitor:662615,"Salkova, Dominika",Czechia
+805,305,0,258,22,sr:competitor:395740,"Bhamidipaty, Shrivalli Rashmikaa",India
+806,306,0,257,21,sr:competitor:223862,"Laboutkova, Aneta",Czechia
+807,307,1,256,15,sr:competitor:142942,"Bozovic, Alexandra",Australia
+808,308,1,255,13,sr:competitor:278943,"Lansere, Sofya",Neutral
+809,309,23,254,7,sr:competitor:110299,"Zidansek, Tamara",Slovenia
+810,310,1,254,15,sr:competitor:292540,"Matsuda, Misaki",Japan
+811,311,2,253,27,sr:competitor:810694,"Okuwaki, Rinon",Japan
+812,312,2,252,10,sr:competitor:165866,"Miyazaki, Yuriko Lily",Great Britain
+813,313,-17,251,23,sr:competitor:61922,"Drazic, Mariana",Croatia
+814,314,1,248,22,sr:competitor:246945,"Da Silva Fick, Gabriella",Australia
+815,315,-18,246,4,sr:competitor:755469,"Todoni, Anca Alexia",Romania
+816,316,0,245,7,sr:competitor:99405,"Inglis, Maddison",Australia
+817,317,5,244,14,sr:competitor:226092,"Shimizu, Eri",Japan
+818,318,-1,242,14,sr:competitor:194572,"Dartron, Emeline",France
+819,319,18,241,12,sr:competitor:403329,"Toth, Amarissa Kiara",Hungary
+820,320,-2,240,1,sr:competitor:42339,"Garcia, Caroline",France
+821,321,17,240,15,sr:competitor:813490,"Hobgarski, Katharina",Germany
+822,322,-10,240,25,sr:competitor:37638,"Sema, Erika",Japan
+823,323,-4,239,15,sr:competitor:129534,"Hruncakova, Viktoria",Slovakia
+824,324,-3,238,3,sr:competitor:45902,"Sasnovich, Aliaksandra",Neutral
+825,325,-1,236,25,sr:competitor:213144,"Lemaitre, Tiphanie",France
+826,326,-1,235,15,sr:competitor:567285,"Hietaranta, Laura",Finland
+827,327,-1,234,18,sr:competitor:436690,"Tkacheva, Mariia",Neutral
+828,328,-1,229,23,sr:competitor:849533,"Lin, Fang An",Chinese Taipei
+829,329,-1,229,24,sr:competitor:233266,"Ovcharenko, Ekaterina",Neutral
+830,330,-1,229,25,sr:competitor:54983,"Morderger, Tayisiya",Germany
+831,331,-1,228,16,sr:competitor:337811,"Ortenzi, Jazmin",Argentina
+832,332,-1,228,17,sr:competitor:936009,"van Emst, Sarah",Netherlands
+833,333,0,227,16,sr:competitor:285629,"Hindova, Denisa",Czechia
+834,334,0,226,3,sr:competitor:45835,"Hunter, Storm",Australia
+835,335,-96,226,3,sr:competitor:55401,"Jabeur, Ons",Tunisia
+836,336,3,225,22,sr:competitor:154806,"Laskutova, Ksenia",Russia
+837,337,-2,225,29,sr:competitor:201105,"Yuan, Chengyiyi",China
+838,338,-2,224,8,sr:competitor:137948,"Chang, Hanna",USA
+839,339,1,224,22,sr:competitor:345134,"Lee, Ya-Hsin",Chinese Taipei
+840,340,1,223,19,sr:competitor:136372,"Parnaby, Alana",Australia
+841,341,2,221,20,sr:competitor:624838,"Shi, Han",China
+842,342,2,220,21,sr:competitor:122668,"Daniel, Jaeda",USA
+843,343,2,219,12,sr:competitor:58053,"Sharma, Astra",Australia
+844,344,2,219,16,sr:competitor:282219,"Sakatsume, Himeno",Japan
+845,345,2,218,14,sr:competitor:102191,"Aksu, Ayla",Turkiye
+846,346,-26,217,12,sr:competitor:86894,"Shinde, Vasanti",India
+847,347,7,217,23,sr:competitor:254553,"Nagy, Adrienn",Hungary
+848,348,0,216,6,sr:competitor:110803,"Minnen, Greet",Belgium
+849,349,0,216,11,sr:competitor:896765,"Ishii, Sayaka",Japan
+850,350,12,215,15,sr:competitor:98523,"Ye, Qiu Yu",China
+851,351,-1,215,17,sr:competitor:513582,"Chaudhari, Vaidehi",India
+852,352,-1,214,14,sr:competitor:107327,"In-Albon, Ylena",Switzerland
+853,353,-1,212,17,sr:competitor:801396,"Gureva, Anastasiia",Neutral
+854,354,-31,212,19,sr:competitor:209716,"Mansouri, Yasmine",France
+855,355,-2,212,21,sr:competitor:330689,"Kovapitukted, Punnin",Thailand
+856,356,10,212,26,sr:competitor:745799,"Urgesi, Federica",Italy
+857,357,-2,210,12,sr:competitor:138654,"Duerst, Jenny",Switzerland
+858,358,-2,210,14,sr:competitor:750327,"Iatcenko, Polina",Neutral
+859,359,-1,209,12,sr:competitor:1020177,"Huang, Yujia",China
+860,360,-106,207,9,sr:competitor:762762,"Seidel, Ella",Germany
+861,361,-2,206,21,sr:competitor:435794,"Zolotareva, Anastasia",Neutral
+862,362,122,205,16,sr:competitor:264863,"Novak, Kristina",Slovenia
+863,363,-3,205,15,sr:competitor:586739,"Ambrosio, Silvia",Italy
+864,364,-3,205,25,sr:competitor:152762,"Kuczer, Daria",Poland
+865,365,66,204,12,sr:competitor:655811,"Avdeeva, Julia",Neutral
+866,366,-3,203,9,sr:competitor:319349,"Rouvroy, Margaux",France
+867,367,-3,202,2,sr:competitor:341112,"Zakharova, Anastasia",Neutral
+868,368,-3,201,19,sr:competitor:262023,"Wang, Meiling",China
+869,369,-1,196,28,sr:competitor:158636,"Prisacariu, Andreea",Romania
+870,370,-1,195,10,sr:competitor:87078,"Hourigan, Paige Mary",New Zealand
+871,371,15,195,9,sr:competitor:54171,"Benoit, Marie",Belgium
+872,372,-2,194,18,sr:competitor:348196,"Amariei, Ilinca Dalina",Romania
+873,373,79,193,17,sr:competitor:565020,"Maklakova, Ekaterina",Neutral
+874,374,-7,189,16,sr:competitor:164852,"Okalova, Martina",Slovakia
+875,375,-2,189,19,sr:competitor:751899,"Brace, Cadence",Canada
+876,376,-34,187,11,sr:competitor:329009,"Ryser, Valentina",Switzerland
+877,377,-1,186,12,sr:competitor:843378,"Perez Alarcon, Lucciana",Peru
+878,378,16,186,11,sr:competitor:280635,"Schmidt, Antonia",Germany
+879,379,-2,186,12,sr:competitor:812476,"Zaytseva, Ksenia",Neutral
+880,380,-2,185,23,sr:competitor:750329,"Candiotto, Ana",Brazil
+881,381,-2,184,2,sr:competitor:42459,"Rogers, Shelby",USA
+882,382,-2,184,19,sr:competitor:280989,"Kawamura, Mana",Japan
+883,383,-2,183,8,sr:competitor:467037,"Kudermetova, Polina",Neutral
+884,384,-2,183,18,sr:competitor:119496,"McPhee, Kaylah",Australia
+885,385,-1,181,6,sr:competitor:153736,"Glushko, Lina",Israel
+886,386,-3,180,10,sr:competitor:103375,"Serban, Raluca Georgiana",Cyprus
+887,387,-2,179,16,sr:competitor:42864,"Lizarazo, Yuliana",Colombia
+888,388,11,179,16,sr:competitor:1022815,"Akli, Ayana",USA
+889,389,-18,179,24,sr:competitor:20158,"Webley-Smith, Emily",Great Britain
+890,390,7,178,24,sr:competitor:99775,"Saigo, Yukina",Japan
+891,391,-4,177,14,sr:competitor:801420,"Fontenel, Chelsea",Switzerland
+892,392,9,175,11,sr:competitor:459317,"Nugroho, Priska Madelyn",Indonesia
+893,393,-19,175,14,sr:competitor:25822,"Shapatava, Sofia",Georgia
+894,394,-6,175,14,sr:competitor:120664,"Pedretti, Thaisa Grana",Brazil
+895,395,-6,175,21,sr:competitor:96981,"Xun, Fang Ying",China
+896,396,-5,173,11,sr:competitor:720625,"Radivojevic, Lola",Serbia
+897,397,-7,173,15,sr:competitor:130624,"Gasanova, Anastasia",Neutral
+898,398,-6,171,4,sr:competitor:48455,"Golubic, Viktorija",Switzerland
+899,399,41,171,10,sr:competitor:273017,"Mandlik, Elizabeth",USA
+900,400,-7,171,26,sr:competitor:153744,"Pereira, Rebeca",Brazil
+901,401,164,171,6,sr:competitor:63682,"Lazaro Garcia, Andrea",Spain
+902,402,-7,171,20,sr:competitor:341196,"Back, Dayeon",Republic of Korea
+903,403,-5,169,6,sr:competitor:100341,"Bolkvadze, Mariam",Georgia
+904,404,-4,169,22,sr:competitor:185412,"Labrana, Fernanda",Chile
+905,405,-3,168,22,sr:competitor:206957,"Nagata, Anri",Japan
+906,406,-3,166,20,sr:competitor:47876,"Shinikova, Isabella",Bulgaria
+907,407,-3,166,21,sr:competitor:1008651,"Adams, Julia",USA
+908,408,22,165,12,sr:competitor:804342,"Stoiber, Ranah Akua",Great Britain
+909,409,-3,165,26,sr:competitor:66516,"Ayukawa, Mana",Japan
+910,410,-2,164,12,sr:competitor:880229,"Cayetano, Eryn",USA
+911,411,10,164,25,sr:competitor:171354,"Romero, Camila",Ecuador
+912,412,-2,164,26,sr:competitor:873729,"Bojica, Stefania",Romania
+913,413,-41,163,4,sr:competitor:210716,"Lamens, Suzan",Netherlands
+914,414,-2,161,5,sr:competitor:366114,"Avanesyan, Elina",Armenia
+915,415,-2,161,17,sr:competitor:741607,"Simunyu, Celine",Ireland
+916,416,-1,160,18,sr:competitor:283483,"Kozaki, Funa",Japan
+917,417,-1,159,23,sr:competitor:80723,"Herazo Gonzalez, Maria Fernanda",Colombia
+918,418,43,159,15,sr:competitor:878645,"Osuigwe, Victoria",USA
+919,419,31,159,19,sr:competitor:476218,"Kawaguchi, Natsumi",Japan
+920,420,-2,158,5,sr:competitor:728549,"Valentova, Tereza",Czechia
+921,421,1,157,14,sr:competitor:133080,"Hinojosa Gomez, Jessica",Mexico
+922,422,-3,157,8,sr:competitor:145930,"Hayashi, Erina",Japan
+923,423,0,157,11,sr:competitor:686597,"Pavlova, Kira",Neutral
+924,424,8,157,16,sr:competitor:179248,"Yoshioka, Kisa",Japan
+925,425,10,157,24,sr:competitor:447759,"Katsumi, Nanari",Japan
+926,426,-2,157,24,sr:competitor:171026,"Tsygourova, Katerina",Switzerland
+927,427,-2,156,5,sr:competitor:45584,"Zhu, Lin",China
+928,428,-23,156,14,sr:competitor:192138,"Corley, Paris",USA
+929,429,-3,156,17,sr:competitor:1027517,"Ebeling Koning, Loes",Netherlands
+930,430,-3,156,19,sr:competitor:182056,"Robbe, Alice",France
+931,431,2,155,7,sr:competitor:25066,"McHale, Christina",USA
+932,432,-3,155,12,sr:competitor:310982,"Naklo, Thasaporn",Thailand
+933,433,13,155,15,sr:competitor:677411,"Barrera Aguirre, Isabella",USA
+934,434,-25,155,21,sr:competitor:72634,"Ozeki, Michika",Japan
+935,435,-1,152,13,sr:competitor:119664,"Smith, Alicia",Australia
+936,436,0,151,4,sr:competitor:499484,"Montgomery, Robin",USA
+937,437,0,151,11,sr:competitor:196664,"Shalimova, Ekaterina",Neutral
+938,438,0,151,21,sr:competitor:858867,"Pace, Francesca",Italy
+939,439,0,150,6,sr:competitor:90814,"Teichmann, Jil",Switzerland
+940,440,1,150,2,sr:competitor:790640,"Marcinko, Petra",Croatia
+941,441,2,150,16,sr:competitor:827440,"Fedorova, Aglaya",Neutral
+942,442,-35,149,12,sr:competitor:46273,"Dinu, Cristina",Romania
+943,443,1,148,19,sr:competitor:522258,"Ricci, Beatrice",Italy
+944,444,1,148,23,sr:competitor:569009,"Ccuno, Romina",Peru
+945,445,3,147,15,sr:competitor:620340,"Korokozidi, Elena",Greece
+946,446,3,146,14,sr:competitor:675193,"Costoulas, Sofia",Belgium
+947,447,4,145,13,sr:competitor:158690,"Vasilescu, Arina Gabriela",Romania
+948,448,32,145,18,sr:competitor:157368,"Kazionova, Ekaterina",Neutral
+949,449,4,144,11,sr:competitor:138330,"Thamchaiwat, Bunyawi",Thailand
+950,450,6,144,9,sr:competitor:208181,"Hatouka, Yuliya",Neutral
+951,451,22,144,12,sr:competitor:221510,"Chiesa, Enola",Italy
+952,452,3,143,9,sr:competitor:627278,"Eala, Alexandra",Philippines
+953,453,4,143,13,sr:competitor:217036,"Malygina, Elena",Estonia
+954,454,-58,143,15,sr:competitor:1020859,"Pawlikowska,  Zuzanna",Poland
+955,455,226,141,6,sr:competitor:183861,"Bassols Ribera, Marina",Spain
+956,456,2,140,3,sr:competitor:58515,"Collins, Danielle",USA
+957,457,-15,140,10,sr:competitor:960043,"Zolotareva, Rada",Neutral
+958,458,2,140,13,sr:competitor:915371,"van Den Broek, Isis Louise",Netherlands
+959,459,3,140,14,sr:competitor:340365,"Milovanovic, Elena",Serbia
+960,460,4,140,30,sr:competitor:341238,"Boehner, Laura",Germany
+961,461,4,139,9,sr:competitor:588449,"Laskevich, Evialina",Neutral
+962,462,4,139,18,sr:competitor:98105,"Matoula, Martha",Greece
+963,463,4,139,19,sr:competitor:220654,"Sandberg, Vivien",Germany
+964,464,4,138,13,sr:competitor:202795,"Vismane, Daniela",Latvia
+965,465,-90,137,6,sr:competitor:43527,"Kumkhum, Luksika",Thailand
+966,466,30,137,14,sr:competitor:420997,"Bossi, Camilla",Brazil
+967,467,4,136,3,sr:competitor:595220,"Stakusic, Marina",Canada
+968,468,4,136,9,sr:competitor:431743,"Okutoyi, Angella",Kenya
+969,469,5,136,19,sr:competitor:360054,"Allen, Kolie",USA
+970,470,6,135,15,sr:competitor:766176,"Di Girolami, Tilwith",Belgium
+971,471,-8,135,16,sr:competitor:389048,"Weckerle, Marie",Luxembourg
+972,472,43,134,13,sr:competitor:72860,"Kim, Na Ri",Republic of Korea
+973,473,22,134,13,sr:competitor:378226,"Crawley, Fiona",USA
+974,474,3,134,17,sr:competitor:827398,"Stankovic, Anja",Serbia
+975,475,3,132,3,sr:competitor:71034,"Sramkova, Rebecca",Slovakia
+976,476,3,132,9,sr:competitor:112957,"Jeanjean, Leolia",France
+977,477,47,132,8,sr:competitor:421379,"Rencheli, Abigail",USA
+978,478,47,132,14,sr:competitor:18731,"Paszek, Tamira",Austria
+979,479,2,132,23,sr:competitor:568103,"Tran, Demi",Netherlands
+980,480,2,131,2,sr:competitor:19704,"Martic, Petra",Croatia
+981,481,26,131,10,sr:competitor:750331,"Iliev, Sarah",France
+982,482,-13,131,17,sr:competitor:522848,"Rocchetti, Sofia",Italy
+983,483,3,131,17,sr:competitor:154744,"Lee, Eunhye (2000)",Republic of Korea
+984,484,3,131,20,sr:competitor:857871,"de Stefano, Samira",Italy
+985,485,6,130,6,sr:competitor:343160,"Volynets, Katie",USA
+986,486,2,130,16,sr:competitor:784898,"Giovannini, Luisina",Argentina
+987,487,-4,130,10,sr:competitor:106341,"Knutson, Gabriela",Czechia
+988,488,1,130,13,sr:competitor:932867,"Firman, Anastasiia",Ukraine
+989,489,-19,130,19,sr:competitor:265743,"Burdina, Evgeniya",Neutral
+990,490,2,129,10,sr:competitor:784280,"Prozorova, Tatiana",Neutral
+991,491,-80,129,12,sr:competitor:831284,"Kuramochi, Miho",Japan
+992,492,-64,128,10,sr:competitor:213140,"Lene, Emma",France
+993,493,0,128,13,sr:competitor:840734,"Walker, Brandy",USA
+994,494,3,126,14,sr:competitor:511932,"Kovaleva, Anastasia",Neutral
+995,495,77,126,14,sr:competitor:460837,"Tjen, Janice",Indonesia
+996,496,4,125,3,sr:competitor:71730,"Kulikov, Angela",USA
+997,497,-22,125,5,sr:competitor:47969,"Werner, Caroline",Germany
+998,498,3,125,12,sr:competitor:262701,"Hodzic, Mina",Germany
+999,499,32,125,14,sr:competitor:410299,"Cherubini, Diletta",Italy
+1000,500,49,125,16,sr:competitor:720627,"Senic, Natalija",Serbia
