@@ -25,56 +25,6 @@ def create_connection():
         st.error(f"Error connecting to MySQL: {e}")
     return conn
 
-
-def execute_query(conn, query, params=None):
-    """Executes an SQL query and returns the results as a Pandas DataFrame."""
-    try:
-        with conn.cursor() as cursor:
-            cursor.execute(query, params)
-            results = cursor.fetchall()  # Fetch all results
-        df = pd.DataFrame(results)  # Convert to DataFrame
-        return df
-    except pymysql.MySQLError as e:
-        st.error(f"Error executing query: {e}")
-        return pd.DataFrame()
-
-
-# --- Data Loading with Null Handling (Handles np.nan and "None" string) ---
-# def load_data_to_mysql():
-#     conn = create_connection()
-#     if conn:
-#         try:
-#             # Load data from CSV files
-#             df_competitor = pd.read_csv("competitor.csv")
-#             df_complexes = pd.read_csv("complexes.csv")
-#             df_doubles = pd.read_csv("doubles_data.csv")
-#
-#             with conn.cursor() as cursor:
-#                 #  Function to insert data in chunks, handling NaN and "None" string
-#                 def insert_data_chunked(df, table_name, cursor, conn, chunk_size=1000):
-#                     for i in range(0, len(df), chunk_size):
-#                         chunk = df.iloc[i:i + chunk_size].copy()  # Create a copy
-#
-#                         # Replace NaN and the string "None" with None
-#                         chunk = chunk.replace({np.nan: None, "None": None})
-#
-#                         cols = ", ".join(chunk.columns)
-#                         values_template = ", ".join(["%s"] * len(chunk.columns))
-#                         insert_query = f"INSERT INTO {table_name} ({cols}) VALUES ({values_template})"
-#                         data = [tuple(row) for row in chunk.itertuples(index=False, name=None)]
-#
-#                         cursor.executemany(insert_query, data)
-#                         conn.commit()  # Commit after each chunk
-#
-#                 insert_data_chunked(df_competitor, "competitor", cursor, conn) #since only competitior data has none values
-#
-#             conn.close()
-#
-#         except FileNotFoundError:
-#             st.error("Error: One or more CSV files not found.")
-
-
-
 # --- Streamlit Application ---
 st.set_page_config(layout="wide")
 def main():
