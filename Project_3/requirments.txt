@@ -1,0 +1,10 @@
+## Required dependencies
+
+pandas
+numpy
+scikit-learn
+xgboost
+seaborn
+matplotlib
+streamlit
+joblib
