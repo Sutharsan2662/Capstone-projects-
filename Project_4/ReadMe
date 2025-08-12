@@ -6,3 +6,5 @@ The aim of this project was to leverage tourism datasets to build predictive and
 •	🏷 Classify Tourist Satisfaction Levels (Classification Model)
 •	🎯 Recommend Attractions (Recommendation System)
 💡 All models were deployed into an interactive Streamlit web application for real-time access and usage.
+
+For easy approcah just download all the files and folders from this page and run the app.py from your command prompt by "streamlit run app.py".
