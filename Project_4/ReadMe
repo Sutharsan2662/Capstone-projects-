@@ -1,0 +1,8 @@
+🌍 Tourism Experience Analysis – Project Report
+________________________________________
+1️⃣ Project Objective
+The aim of this project was to leverage tourism datasets to build predictive and analytical models that:
+•	📊 Predict Ratings (Regression Model)
+•	🏷 Classify Tourist Satisfaction Levels (Classification Model)
+•	🎯 Recommend Attractions (Recommendation System)
+💡 All models were deployed into an interactive Streamlit web application for real-time access and usage.
