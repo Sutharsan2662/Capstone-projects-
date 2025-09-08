@@ -1,2 +1,1 @@
-change the directory of the dataset according to your dataset path
-run the classification.ipynb 1st cell and save the model after that restart the kernel and run the 2nd and 3rd cell for avoiding the CPU memory problem. 
+change the directory of the dataset according to your dataset path. 
