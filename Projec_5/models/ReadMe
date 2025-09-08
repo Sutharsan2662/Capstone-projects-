@@ -1,0 +1,2 @@
+This folder contains the classification models and object detection models of the project. 
+"app.py" is the streamlit script which helps to predict the fault in the new solar panel image which is given as input. 
