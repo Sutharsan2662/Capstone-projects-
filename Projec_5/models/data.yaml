@@ -1,0 +1,38 @@
+names:
+- Physical damage
+- Dirt
+- Snow-covered
+- CLean
+- Electrical damage
+- Bird-drop
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: my-first-project-gpmfz-3ga1f
+  url: https://universe.roboflow.com/sutharsan/my-first-project-gpmfz-3ga1f/dataset/1
+  version: 1
+  workspace: sutharsan
+train: C:\Users\C Sutharsan\Downloads\GUVI class notes AIML\Capstone_project\Project_5\My First Project.v1i.yolov7pytorch\train\images
+val: C:\Users\C Sutharsan\Downloads\GUVI class notes AIML\Capstone_project\Project_5\My First Project.v1i.yolov7pytorch\valid\images
+test: C:\Users\C Sutharsan\Downloads\GUVI class notes AIML\Capstone_project\Project_5\My First Project.v1i.yolov7pytorch\test\images
+
+#augmentation
+lr0: 0.01         # initial learning rate
+momentum: 0.937   # SGD momentum
+weight_decay: 0.0005
+
+# Augmentation settings
+hsv_h: 0.015
+hsv_s: 0.7
+hsv_v: 0.4
+degrees: 10.0
+translate: 0.1
+scale: 0.5
+shear: 2.0
+perspective: 0.0005
+flipud: 0.0
+fliplr: 0.5
+mosaic: 1.0
+mixup: 0.2
+
+
